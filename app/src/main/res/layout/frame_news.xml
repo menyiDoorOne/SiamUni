@@ -1,0 +1,213 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    >
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="50dp"
+        android:background="#8B0000">
+        <TextView
+            android:id="@+id/news_headline"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentBottom="true"
+            android:layout_centerHorizontal="true"
+            android:text="暹罗大学"
+            android:textColor="#FFFFFFFF"
+            android:textSize="24sp"
+            android:textStyle="bold" />
+    </RelativeLayout>
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="200dp"
+        android:layout_marginBottom="5dp"
+        android:orientation="vertical" >
+        <android.support.v4.view.ViewPager
+            android:id="@+id/view_pager"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"/>
+        <RelativeLayout
+            android:layout_width="match_parent"
+            android:layout_height="40dp"
+            android:layout_alignParentBottom="true"
+            android:background="@drawable/focus_bg"
+            android:id="@+id/relay"
+            >
+            <TextView
+                android:id="@+id/NewsTitle"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="暹罗大学"
+                android:paddingTop="10dp"
+                android:paddingBottom="8dp"
+                android:paddingLeft="10dp"
+                android:paddingRight="100dp"
+                android:textSize="15sp"
+                android:textColor="#fff"/>
+            <LinearLayout
+                android:id="@+id/dotgroup"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_alignParentRight="true"
+                android:paddingTop="23dp"
+                android:paddingRight="10dp"
+                android:gravity="center"
+                android:orientation="horizontal" >
+            </LinearLayout>
+        </RelativeLayout>
+    </RelativeLayout>
+
+    <TextView
+        android:layout_width="fill_parent"
+        android:layout_height="1.0dip"
+        android:layout_marginBottom="7.0dip"
+        android:background="#ff000000" />
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="265dp">
+
+
+        <Button
+            android:id="@+id/xw"
+            android:layout_width="80dp"
+            android:layout_height="80dp"
+            android:layout_alignParentStart="true"
+            android:layout_alignParentTop="true"
+            android:layout_marginStart="13dp"
+            android:background="@drawable/icon_earth"
+            android:text=""
+            android:layout_alignParentLeft="true"
+            android:layout_marginLeft="13dp" />
+
+        <Button
+            android:id="@+id/tz"
+            android:layout_width="80dp"
+            android:layout_height="80dp"
+            android:layout_alignTop="@+id/xw"
+            android:layout_centerHorizontal="true"
+            android:background="@drawable/icon_earth"
+            android:text="" />
+
+        <Button
+            android:id="@+id/bks"
+            android:layout_width="80dp"
+            android:layout_height="80dp"
+            android:layout_alignParentEnd="true"
+            android:layout_alignTop="@+id/tz"
+            android:layout_marginEnd="18dp"
+            android:background="@drawable/icon_earth"
+            android:text=""
+            android:layout_alignParentRight="true"
+            android:layout_marginRight="18dp" />
+
+        <TextView
+            android:id="@+id/textView"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignEnd="@+id/xw"
+            android:layout_alignStart="@+id/xw"
+            android:layout_below="@+id/xw"
+            android:layout_marginTop="13dp"
+            android:textSize="15sp"
+            android:text="     功能一"
+            android:layout_alignRight="@+id/xw"
+            android:layout_alignLeft="@+id/xw" />
+
+        <TextView
+            android:id="@+id/textView2"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignBaseline="@+id/textView"
+            android:layout_alignBottom="@+id/textView"
+            android:layout_alignStart="@+id/tz"
+            android:text="功能二"
+            android:textSize="15sp"
+            android:layout_alignLeft="@+id/tz" />
+
+        <TextView
+            android:id="@+id/textView3"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignBaseline="@+id/textView2"
+            android:layout_alignBottom="@+id/textView2"
+            android:layout_alignEnd="@+id/bks"
+            android:textSize="15sp"
+            android:text="     功能三"
+            android:layout_alignRight="@+id/bks" />
+
+        <Button
+            android:id="@+id/yjs"
+            android:background="@drawable/icon_earth"
+            android:layout_width="80dp"
+            android:layout_height="80dp"
+            android:layout_alignStart="@+id/textView"
+            android:layout_below="@+id/textView"
+            android:layout_marginTop="26dp"
+            android:text=""
+            android:layout_alignLeft="@+id/textView" />
+
+        <Button
+            android:id="@+id/ky"
+            android:background="@drawable/icon_earth"
+            android:layout_width="80dp"
+            android:layout_height="80dp"
+            android:layout_alignStart="@+id/tz"
+            android:layout_alignTop="@+id/yjs"
+            android:text=""
+            android:layout_alignLeft="@+id/tz" />
+
+        <Button
+            android:id="@+id/zs"
+            android:background="@drawable/icon_earth"
+            android:layout_width="80dp"
+            android:layout_height="80dp"
+            android:layout_alignStart="@+id/bks"
+            android:layout_alignTop="@+id/ky"
+            android:text=""
+            android:layout_alignLeft="@+id/bks" />
+
+        <TextView
+            android:id="@+id/textView4"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignStart="@+id/yjs"
+            android:layout_below="@+id/yjs"
+            android:layout_marginTop="13dp"
+            android:textSize="15sp"
+            android:text="   功能四"
+            android:layout_alignLeft="@+id/yjs" />
+
+        <TextView
+            android:id="@+id/textView5"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignStart="@+id/ky"
+            android:layout_alignTop="@+id/textView4"
+            android:textSize="15sp"
+            android:text="     功能五"
+            android:layout_alignLeft="@+id/ky" />
+
+        <TextView
+            android:id="@+id/textView6"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignStart="@+id/zs"
+            android:layout_alignTop="@+id/textView5"
+            android:textSize="15sp"
+            android:text="     功能六"
+            android:layout_alignLeft="@+id/zs" />
+
+
+    </RelativeLayout>
+
+
+
+
+
+
+</LinearLayout>
