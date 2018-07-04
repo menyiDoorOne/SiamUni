@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">暹罗大学</string>
+    <string name="producer_name">西南财经大学</string>
+    <string name="version_num">v1.0</string>
+    <string name="wanna_say">欢迎来到暹罗大学</string>
+</resources>
