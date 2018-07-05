@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="70dp"
+    android:orientation="horizontal"
+    android:gravity="center_vertical">
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="70dp">
+
+        <ImageView
+            android:layout_width="50dp"
+            android:layout_height="50dp"
+            android:layout_marginLeft="20dp"
+            android:id="@+id/imageView_aboutUsItem1"
+            android:layout_centerVertical="true"/>
+        <TextView
+            android:id="@+id/textView_aboutUsItem"
+            android:layout_height="wrap_content"
+            android:layout_width="wrap_content"
+            android:textSize="18sp"
+            android:layout_centerVertical="true"
+            android:layout_toRightOf="@+id/imageView_aboutUsItem1"
+            android:layout_marginLeft="10dp"
+            android:text="Bachelors1234567891011121314555555555555"/>
+        <ImageView
+            android:layout_width="20dp"
+            android:layout_height="20dp"
+            android:id="@+id/imageView_aboutUsItem2"
+            android:layout_centerVertical="true"
+            android:layout_alignParentRight="true"
+            android:layout_marginRight="20dp"
+            android:gravity="right"/>
+    </RelativeLayout>
+
+</LinearLayout>

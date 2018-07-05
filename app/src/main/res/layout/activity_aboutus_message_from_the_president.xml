@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:paddingLeft="10dp"
+    android:paddingRight="10dp"
+    android:paddingTop="15dp"
+    tools:context="android.siamuni.siamuni.Aboutus_MessageFromThePresidentActivity"
+    android:orientation="vertical"
+    android:scrollbars="vertical">
+
+    <ImageView
+        android:layout_width="wrap_content"
+        android:layout_height="200dp"
+        android:id="@+id/imageView_aboutUs_messageFromThePresident" />
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:scrollbars="vertical">
+        <TextView
+            android:id="@+id/textView_aboutUs_messageFromThePresident"
+            android:layout_height="wrap_content"
+            android:layout_width="fill_parent"
+            android:textSize="20sp"
+            android:editable="false"
+            android:text="@string/aboutus_message_from_the_president_string"
+            android:scrollIndicators="right" />
+    </ScrollView>
+</LinearLayout>

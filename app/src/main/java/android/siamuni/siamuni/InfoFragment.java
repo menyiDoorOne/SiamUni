@@ -1,6 +1,7 @@
 package android.siamuni.siamuni;
 
 
+import android.content.Intent;
 import android.os.Bundle;
 import android.app.Fragment;
 import android.support.v4.view.PagerAdapter;
@@ -8,6 +9,7 @@ import android.support.v4.view.ViewPager;
 import android.view.LayoutInflater;
 import android.view.View;
 import android.view.ViewGroup;
+import android.widget.Button;
 import android.widget.ImageView;
 import android.widget.LinearLayout;
 import android.widget.TextView;
@@ -32,6 +34,14 @@ public class InfoFragment extends Fragment {
         InfoFragment fragment = new InfoFragment();
         return fragment;
     }
+
+    private Button b1;
+    private Button b2;
+    private Button b3;
+    private Button b4;
+
+
+
 
     //viewpager
     private ViewPager view_pager;
@@ -65,6 +75,43 @@ public class InfoFragment extends Fragment {
 
 
     public void onActivityCreated(Bundle savedInstanceState) {
+
+        b1 = getView().findViewById(R.id.btn1);
+        b2 = getView().findViewById(R.id.btn2);
+        b3 = getView().findViewById(R.id.btn3);
+        b4 = getView().findViewById(R.id.btn4);
+
+
+        b1.setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View view) {
+                Intent i1 = new Intent(getActivity(), NewsActivity.class);
+                startActivity(i1);
+            }
+        });
+        b2.setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View view) {
+                Intent i2 = new Intent(getActivity(), SocialMediaActivity.class);
+                startActivity(i2);
+            }
+        });
+        b3.setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View view) {
+                Intent i3 = new Intent(getActivity(), CalenderActivity.class);
+                startActivity(i3);
+            }
+        });
+        b4.setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View view) {
+                Intent i4 = new Intent(getActivity(), ContactUsActivity.class);
+                startActivity(i4);
+            }
+        });
+
+
         super.onActivityCreated(savedInstanceState);
         setViewPager();
         View v = getView().findViewById(R.id.relay);//找到你要设透明背景的layout 的id

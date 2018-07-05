@@ -80,7 +80,7 @@
             android:layout_alignParentStart="true"
             android:layout_alignParentTop="true"
             android:layout_marginStart="13dp"
-            android:background="@drawable/icon_earth"
+            android:background="@drawable/about"
             android:text=""
             android:layout_alignParentLeft="true"
             android:layout_marginLeft="13dp" />
@@ -91,7 +91,7 @@
             android:layout_height="80dp"
             android:layout_alignTop="@+id/xw"
             android:layout_centerHorizontal="true"
-            android:background="@drawable/icon_earth"
+            android:background="@drawable/academics"
             android:text="" />
 
         <Button
@@ -101,7 +101,7 @@
             android:layout_alignParentEnd="true"
             android:layout_alignTop="@+id/tz"
             android:layout_marginEnd="18dp"
-            android:background="@drawable/icon_earth"
+            android:background="@drawable/admission"
             android:text=""
             android:layout_alignParentRight="true"
             android:layout_marginRight="18dp" />
@@ -115,7 +115,7 @@
             android:layout_below="@+id/xw"
             android:layout_marginTop="13dp"
             android:textSize="15sp"
-            android:text="     功能一"
+            android:text="校园介绍"
             android:layout_alignRight="@+id/xw"
             android:layout_alignLeft="@+id/xw" />
 
@@ -126,7 +126,7 @@
             android:layout_alignBaseline="@+id/textView"
             android:layout_alignBottom="@+id/textView"
             android:layout_alignStart="@+id/tz"
-            android:text="功能二"
+            android:text="学术活动"
             android:textSize="15sp"
             android:layout_alignLeft="@+id/tz" />
 
@@ -136,14 +136,14 @@
             android:layout_height="wrap_content"
             android:layout_alignBaseline="@+id/textView2"
             android:layout_alignBottom="@+id/textView2"
-            android:layout_alignEnd="@+id/bks"
-            android:textSize="15sp"
-            android:text="     功能三"
-            android:layout_alignRight="@+id/bks" />
+            android:layout_alignLeft="@+id/bks"
+            android:layout_alignStart="@+id/bks"
+            android:text="入学申请"
+            android:textSize="15sp" />
 
         <Button
             android:id="@+id/yjs"
-            android:background="@drawable/icon_earth"
+            android:background="@drawable/sports"
             android:layout_width="80dp"
             android:layout_height="80dp"
             android:layout_alignStart="@+id/textView"
@@ -154,7 +154,7 @@
 
         <Button
             android:id="@+id/ky"
-            android:background="@drawable/icon_earth"
+            android:background="@drawable/awards"
             android:layout_width="80dp"
             android:layout_height="80dp"
             android:layout_alignStart="@+id/tz"
@@ -164,7 +164,7 @@
 
         <Button
             android:id="@+id/zs"
-            android:background="@drawable/icon_earth"
+            android:background="@drawable/library"
             android:layout_width="80dp"
             android:layout_height="80dp"
             android:layout_alignStart="@+id/bks"
@@ -180,7 +180,7 @@
             android:layout_below="@+id/yjs"
             android:layout_marginTop="13dp"
             android:textSize="15sp"
-            android:text="   功能四"
+            android:text="校园运动"
             android:layout_alignLeft="@+id/yjs" />
 
         <TextView
@@ -190,7 +190,7 @@
             android:layout_alignStart="@+id/ky"
             android:layout_alignTop="@+id/textView4"
             android:textSize="15sp"
-            android:text="     功能五"
+            android:text="校园荣誉"
             android:layout_alignLeft="@+id/ky" />
 
         <TextView
@@ -200,7 +200,7 @@
             android:layout_alignStart="@+id/zs"
             android:layout_alignTop="@+id/textView5"
             android:textSize="15sp"
-            android:text="     功能六"
+            android:text="校图书馆"
             android:layout_alignLeft="@+id/zs" />
 
 

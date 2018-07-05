@@ -4,6 +4,7 @@ package android.siamuni.siamuni;
  * Created by 门一 on 2018/7/4.
  */
 
+import android.content.Intent;
 import android.os.Bundle;
 import android.app.Fragment;
 import android.support.v4.view.PagerAdapter;
@@ -40,8 +41,8 @@ public class NewsFragment  extends Fragment {
     private ViewPager view_pager;
     private LinearLayout ll_dotGroup;
     private TextView newsTitle;
-    private int imgResIds[] = new int[]{R.drawable.p1, R.drawable.p2,
-            R.drawable.p3, R.drawable.p4, R.drawable.p5};
+    private int imgResIds[] = new int[]{R.drawable.galleryac1, R.drawable.galleryac2,
+            R.drawable.galleryac3, R.drawable.galleryac4, R.drawable.galleryac5};
 
     //存储5张图片
     private String textview[]=new String[]{"图片一","图片二"
@@ -85,43 +86,43 @@ public class NewsFragment  extends Fragment {
         b1.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View view) {
-                /*Intent i1 = new Intent(getActivity(), XinWenActivity.class);
-                startActivity(i1);*/
+                Intent i1 = new Intent(getActivity(), AboutusActivity.class);
+                startActivity(i1);
             }
         });
         b2.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View view) {
-                /*Intent i2 = new Intent(getActivity(), TongZhiActivity.class);
-                startActivity(i2);*/
+                Intent i2 = new Intent(getActivity(), AcademicsActivity.class);
+                startActivity(i2);
             }
         });
         b3.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View view) {
-                /*Intent i3 = new Intent(getActivity(), BenKeShengActivity.class);
-                startActivity(i3);*/
+                Intent i3 = new Intent(getActivity(), AdmissionActivity.class);
+                startActivity(i3);
             }
         });
         b4.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View view) {
-                /*Intent i4 = new Intent(getActivity(), YanJiuShengActivity.class);
-                startActivity(i4);*/
+                Intent i4 = new Intent(getActivity(), SportsActivity.class);
+                startActivity(i4);
             }
         });
         b5.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View view) {
-                /*Intent i5 = new Intent(getActivity(), KeYanActivity.class);
-                startActivity(i5);*/
+                Intent i5 = new Intent(getActivity(), AwardsActivity.class);
+                startActivity(i5);
             }
         });
         b6.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View view) {
-                /*Intent i6 = new Intent(getActivity(), ZhaoShengActivity.class);
-                startActivity(i6);*/
+                Intent i6 = new Intent(getActivity(), LibraryActivity.class);
+                startActivity(i6);
             }
         });
 

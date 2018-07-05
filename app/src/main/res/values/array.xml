@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+
+        <string-array name="languages">
+
+            <item>ID number</item>
+            <item>Passport No</item>
+        </string-array>
+
+</resources>

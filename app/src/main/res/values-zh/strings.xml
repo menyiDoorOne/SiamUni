@@ -7,4 +7,383 @@
     <string name="head_1">暹罗大学</string>
     <string name="head_2">周边</string>
     <string name="head_3">校园资讯</string>
+
+
+    <string name="aboutus_EnglishLanguageCenter_itemtitle">英语中心</string>
+
+    <string name="aboutus_GradingSystem_itemtitle">评分制度</string>
+
+    <string name="aboutus_HistoryofSiamUniversity_itemtitle">暹罗大学历史</string>
+
+    <string name="aboutus_HonorSystem_itemtitle">荣耀</string>
+
+    <string name="aboutus_InetrnationalAccrediation_itemtitle">国际认证</string>
+
+    <string name="aboutus_InternationalCollebotations_itemtitle">国际合作</string>
+
+    <string name="aboutus_InternationalStudentCenter_itemtitle">国际留学生中心</string>
+
+    <string name="aboutus_InternshipCareerplacement_itemtitle">实习与职业生涯</string>
+
+    <string name="aboutus_MessagefromthePresident_itemtitle">校长致辞</string>
+
+    <string name="aboutus_MissionVision_itemtitle">使命与愿景</string>
+
+    <string name="aboutus_Strategies_itemtitle">发展战略</string>
+
+    <string name="aboutus_StudentConductPolicy_itemtitle">学生行为的政策</string>
+
+    <string name="aboutus_accrediation_acname">国际认证</string>
+
+    <string name="aboutus_acname">关于我们</string>
+
+    <string name="aboutus_colleborations_acname">国际合作</string>
+
+    <string name="aboutus_englishlanguagecenter_acname">英语中心</string>
+
+    <string name="aboutus_englishlanguagecenter_string">\t\t\t\t英语被广泛应用于世界各地。这是在开展任何形式的国际业务使用的语言。而且，大多数商业纠纷正在使用的英语语言解决。\n \t\t\t\t2003年，英语学习中心（E.L.C.）成立，他们从暹罗大学毕业并进入工作世人面前，以提高泰国本土学生的英语能力水平。由暹罗大学校长Pornchai Mongkhonvanit博士创办，以促进优秀大学的标准，并进一步准备学生在新千年的国际交流。该E.L.C.合格人员的英语母语，他们来自北美和欧洲，并教导英语的五级及六级。\n\t\t\t\t几年后，学院建立另一个新的英语课程，以帮助学生学习英语学习。这项新计划，英语实验中心（E.L.C）进行听力和练习英语会话的领域，并教导多达六个级别的英语课程所要求的水平。 \n\t\t\t\t暹罗大学已成立了两个不同的英语系，以协助当地的泰国学生提供英语语言技能。 \n\t\t\t\t两个英文职能部门： \n\t\t\t\t英语学习中心 \n\t\t\t\t英语实验中心 \n\t\t\t\t•对于每一个泰国学生的整个大学四年。\n\t\t\t\t •学生预计将在他们的研究的最后一年完成这一程序。 \n\t\t\t\t•对于泰国项目的每一个第一和第二年的泰国学生。 \n\t\t\t\t•学生预计将在第三年完成这一计划。 \n\t\t\t\t英语学习中心1时间：周一 - 周五8：00.am - 4：30.pm 地址：11楼19楼 \n\t\t\t\t英语实验中心2时间：周一 - Saturday8：00.am - 4：30.pm 地址：在12楼19楼</string>
+
+    <string name="aboutus_grading_acname">评分制度</string>
+
+    <string name="aboutus_gradingsystem_string">字母\t含义\t\t分值 \nA\t\t\t\t极好\t\t4.00\nB+\t\t\t很好\t\t3.50\nB\t\t\t\t好\t\t\t\t3.00\nC+\t\t\t较好\t\t2.50\nC\t\t\t\t良好\t\t2.00\nD+\t\t\t一般\t\t1.50\nD\t\t\t\t及格\t\t1.00\nF\t\t\t\t不及格\t0.00\nS\t\t\t\t一般\t\t(无分数)\nU\t\t\t\t不符合要求的\t(无分数)\nW\t\t\t\t撤回\nAU\t\t\t审核\t\t（无分数）\nI\t\t\t\t\t\t\t\t\t\t\t\t不完整\nP\t\t\t\t\t\t\t\t\t\t\t\t进行中工作\nNR\t\t\t\t\t\t\t\t\t\t无报告\n\n字母等级用于显示一个学生成绩。以下是等级，等级和由该大学颁发的等级值的含义：\n\t\t\t\t学生的成绩在每个学期结束时计算。学生被分级为他/她在本学期的工作。这包括测验，学期论文，读书报告，作业，复习课，课堂参与，出勤，考试期中考试和期末考试。 等级与使用学生的ID（www.siam.edu）的在线访问。\n\t\t\t\t撤回（W）级：由教师在正式退出类分配（见课程添加/退学）。非故障。\n\t\t\t\t不完整的（I）级：表示该学期的工作是不完整的。 “I”等级在教师的自由裁量权授予。“I”等级恢复为“F”，如果改变不是下列期限内提出。等级的上诉\n\t\t\t\t 谁相信一个教员任意设定他/她的成绩，而这些并不代表在这个问题他/她的实际表现学生应该...</string>
+
+    <string name="aboutus_history_acname">暹罗大学历史</string>
+
+    <string name="aboutus_history_string">暹罗大学在1965由已故的Narong Mongkhonvanit博士创立，作为泰国第一个三年制私立工程学院。创立初期，只有200名学生，并且只提供机械技术的课程。相当于凭借泰国私立学校的能力，达到美国的副学士学位（2年制）。1973暹罗技术学院被正式确立为一个私人高等教育机构并授权授予学位。1975年后不久，暹罗大学大学推出了会计、市场营销、秘书等学学士学位的课程。在这些项目中，学生的专业是银行、金融、人事管理或市场营销。后来，1986年，暹罗技术学院成为暹罗技术大学，三年后成为“暹罗大学”，显示出在研究领域的多样性。通过近五十年的稳定增长和发展，致力于通过对学术的卓越贡献，暹罗大学为在泰国以及世界其他国家的各个领域培养了超过60000名毕业生。事实上，它已成为第五大私人大学，拥有在8个学校及16000名学生，包含留学生项目。</string>
+
+    <string name="aboutus_honor_acname">荣耀</string>
+
+    <string name="aboutus_internationalaccrediation_string">\t\t\t\t机构成员\n\t\t\t\t暹罗大学已经获得了认可和承认以下组织的成员：\n\t\t\t\t高校国际天文学联合会（IAU）是联合国教科文组织世界协会。成立于1950年，它重组了约120个不同国家的600多名成员。\n\t\t\t\t国际大学校长协会（IAUP）大学校长国际联合会（IAUP）是大学的最高行政人员来自世界各地的高等教育机构的关联。主要目的是加强这些机构的教育国际特派团和质量。 \n\t\t\t\t酒店学校协会（EUHOFA）EUHOFA国际是酒店学校协会，由总统，副总统和院长在世界上最好的款待学校，学院和大学的代表，拥有一个共同的目的：提升培训质量旅游业在世界各地。\n\t\t\t\t高等学校（ASAIHL）高校东南亚机构协会（ASAIHL）的东南亚机构协会成立于1956年，以支持推广示范教学的大学，学习国家和地区的公共服务。 \n\t\t\t\t亚洲区域培训与发展组织（ARTDO）ARTDO国际是一个非政治性，非库存，非盈利性组织，旨在鼓励，支持和开展致力于促进人力资源开发活动的先决条件，以经济增长和进展。\n\t\t\t\t在大学亚洲及太平洋（AUAP）协会目前，AUAP有来自19个国家和地区的218正式成员，以及由总部设在三个国家地区组织的准五名成员。 \n\t\t\t\t大学在移动亚太（UMAP）是政府和非政府的高等教育（大学）在旨在实现通过增加大学生和工作人员的流动性增强国际理解该地区的行业代表组成的自愿性协会。 \n\t\t\t\t此外，暹罗大学已被任命为容纳大学校长国际协会（IAUP）和APEC青年中心的东南亚地区办事处。 \n\t\t\t\t暹罗大学是UMAP成员大学，为学生提供每个暑期4周的课程。UMAP是政府和非政府的高等教育（大学）在该地区的行业代表组成的公益协会。UMAP旨在实现通过增加大学生和工作人员的流动性和增强的国际性。 \n\t\t\t\t暹罗大学已被接受为国际AACSB成员（该协会业务的高级学院学校)。2011年2月暹罗大学成为AACSB在泰国的第七名成员。 \n\t\t\t\tAACSB国际组织，是高级学院学校的教育机构。是一个致力于管理教育的发展其他实体的一个全球性的非盈利性会员制组织。AACSB国际成立于1916年，为会员提供各种产品和服务的不断提高他们的业务计划和学校，以协助他们。 \n\t\t\t\t2010年11月23日，第五届巴塞罗那高等教育国际会议在泰国期间，暹罗大学也被接受为GUNI（全球大学网络创新）会员，暹罗大学被选为GUNI的第三大学。每年暹罗大学将贯彻执行可持续发展、价值观和道德观、交流合作以及当地发展。</string>
+
+
+    -<string name="aboutus_internationalcolleborations_string">
+
+-<![CDATA[\t\t\t\t暹罗大学已与一些世界上最重要的高等教育机构签署了多项“合约备忘录”和学术的合同。与在美国，欧洲，亚洲和澳大利亚的大学合作，目的在于学术和技术的追求，交流的帮助和支持。这样的大学和研究机构的密切关系已经形成。暹罗大学鼓励交换教师，学生，学术文献和期刊以及教育形式，还有课程开发和教学方法等。\n\t\t\t\t暹罗大学保持了与下列机构定期关系：\n\t\t\t\t1. Australia National University, Australia \n\t\t\t\t2. Edith Cowen University, Australia \n\t\t\t\t3. International College of Tourism and Management, Australia \n\t\t\t\t4. Macqaurie University, Australia \n\t\t\t\t5. University of Newcastle, Australia \n\t\t\t\t6. IMC University of Applied Sciences, Austria \n\t\t\t\t7. University of Information Technology & Sciences, Dhaka, Bangladesh \n\t\t\t\t8. Univap-Universidade do Vale do Paraiba of Sao Jose dos Campos, Sao Paulo, Brazil \n\t\t\t\t9. Universidad Tecnica Federico Santa Maria, Chile \n\t\t\t\t10. Universidad de Vina del Mar, Chile \n\t\t\t\t11. Aalborg University, Denmark \n\t\t\t\t12. Haaga Institute, Finland \n\t\t\t\t13. Mercurial Business School, Finland \n\t\t\t\t14. Oulu Business School, Finland \n\t\t\t\t15. Budapest University of Technology and Economics, Hungary \n\t\t\t\t16. University of Tehran, Iran \n\t\t\t\t17. Iwate University, Japan \n\t\t\t\t18. Ritsumeikan University, Japan \n\t\t\t\t19. Tokai University, Japan \n\t\t\t\t20. Kyung Hee University, Korea \n\t\t\t\t21. Pukyong National University, Busan, Korea \n\t\t\t\t22. Notre Dame University, Lebanon \n\t\t\t\t23. Universidad Autonoma de Guadalajara, Mexico \n\t\t\t\t24. Angeles University, Philippines \n\t\t\t\t25. Far Eastern University, Philippines \n\t\t\t\t26. Anyang Normal University, P.R. China \n\t\t\t\t27. Beijing Haidian University, P.R. China \n\t\t\t\t28. Guangdong University of Foreign Studies, Guangzhou, P.R. China \n\t\t\t\t29. Guangxi University of Finance and Economics, P.R. China \n\t\t\t\t30. Gulzhou University, P.R. China \n\t\t\t\t31. Henan University, P.R. China \n\t\t\t\t32. Louyang Normal University, P.R. China \n\t\t\t\t33. Macau University of Science and Technology, P.R. China \n\t\t\t\t34. Ming Chuan University, P.R. China \n\t\t\t\t35. Private Hualian University of Guangzhou, P.R. China \n\t\t\t\t36. SIAS University, P.R. China \n\t\t\t\t37. Shanghai International Studies University, P.R. China \n\t\t\t\t38. Teachers’ College of Shenyang University, P.R. China \n\t\t\t\t39. University of Macau, P.R. China \n\t\t\t\t40. Yunnan Normal University, P.R. China \n\t\t\t\t41. Yangzhou University, P.R. China \n\t\t\t\t42. Yunnan University of Finance and Economics, P.R. China \n\t\t\t\t43. Zhejiang Gongshang University, P.R. China \n\t\t\t\t44. Technical University “GH, ASACHI” of Iasi, Romania \n\t\t\t\t45. Far Eastern National University, Russia \n\t\t\t\t46. North Ossetian K.L. Khetagurov State University, Russia \n\t\t\t\t47. Ming Chuan University, Taiwan \n\t\t\t\t48. Liverpool John Moores University, U.K. \n\t\t\t\t49. Ball State University at Muncie, U.S.A. \n\t\t\t\t50. Eastern Kentucky University, U.S.A. \n\t\t\t\t51. Edgewater College at Madison, U.S.A. \n\t\t\t\t52. Oklahoma State University, U.S.A. \n\t\t\t\t53. Purdue University, U.S.A. \n\t\t\t\t54. Tennessee State University, U.S.A. \n\t\t\t\t55. University of Houston, U.S.A. \n\t\t\t\t56. University of Illinois, U.S.A. \n\t\t\t\t57. University of South Florida, , U.S.A \n\t\t\t\t58. University of Pittsburg, U.S.A. \n\t\t\t\t59. University of Wisconsin-Madison, U.S.A. \n\t\t\t\t60. Vinakaya Missions University, Vietnam\n\t\t\t\t此外，暹罗大学获得了认可和承认以下组织的成员：\n\t\t\t\t国际大学协会（IAU），大学校长国际联合会（IAUP），酒店学校的国际协会（EUHOFA），协会高等学校（ASAIHL），亚洲区域培训与发展组织（ARTDO），和大学的亚洲协会和太平洋（AUAP）的东南亚机构。暹罗大学也被任命为容纳大学校长国际协会（IAUP）和APEC青年中心的东南亚地区办事处。该大学的现任校长Dr. Pornchai Mongkhonvanit，是荣幸地被选中为2005年7月至2008年期间大学校长国际协会主席。]]>
+</string>
+
+    <string name="aboutus_internationalstudentcenter_string">\t\t\t\t暹罗大学包括泰国和国际上共享相同的校历，但以不同的方式进行操作。这些方案在不同的系统，用于调节每个程序下进行的活动是在与大学的设置线设置的。\n\t\t\t\t国际留学生中心目的在于协助暹罗大学的国际新生。国际留学生中心分别下设了本科生和研究生的办公室。\n\t\t\t\t暹罗大学为学生在国际留学生中心（ISC）提供学校内部和外部工作，以确满足的办公室工作。这些学生有责任为新生学生提供有关大学及附近的基本信息。\n\t\t\t\t欢迎新生来国际留学生中心（ISC）咨询，具体形式咨询中心。\n\t\t\t\t国际留学生中心（ISC）为学生提供了以下需求：\n\t\t\t\t•在诸如住宿方面的援助和支持\n\t\t\t\t•在抵达机场接送\n\t\t\t\t•新生培训\n\t\t\t\t•提供建议和咨询;课外活动\n\t\t\t\t•实习和工作安置等\n\t\t\t\t•签证延期\n\t\t\t\t•学术计划\n\t\t\t\t工作人员讲英语，中国，泰国和法语来解决学生的问题。而且，国际留学生中心为国际留学生提供关于学校指南的手册。\n\t\t\t\t国际留学生中心营业时间：上午8:00 – 下午4:30 \n\t\t\t\t地址：19号楼9楼</string>
+
+    <string name="aboutus_internshipandcareerplacement_string">\t\t\t\t在毕业生即失业的今天，寻找合适的工作和未来的职业规划是一个巨大的挑战。这就是为什么在暹罗大学就业中心的服务宗旨是为学生的利益，也作为在毕业生选择合适的就业机构。\n\t\t\t\t暹罗大学就业指导中心帮助学生选择他们专门领域的职业生涯。它从一个学生的个性，背景，能力，需求和对未来的期望等方面评估。学生顾问则对学生的职业发展道路提供选择建议。学生顾问还帮助学生找到在泰国或国外实习的机会。这对他们开启未来的职业生涯非常有帮助！国际留学生可以取得在国际学生中心（ISC）关于就业和实习的有用信息和建议。\n\t\t\t\t在第一年，就业中心会向您规划一个惊人的职业愿景，并帮助你探索的学术专业和就业选择之间的联系。就业服务中心还专门提供职业管理技能的创新方案和服务的开发和实施以促进学生就业。就业服务中心同时也为本科毕业生提供全职和兼职的工作。 \n\t\t\t\t就业指导中心\n\t\t\t\t办公时间：8.am - 4：30.pm\n\t\t\t\t 地点：一楼19号楼/左手边办公室。</string>
+
+    <string name="aboutus_message_from_the_president_string">\t\t\t\t世界每天都在持续发展，改变无处不在。实现可持续发展的三大因素是：经济、环境和社会。通过全球化的手段；国际化、现代化，可以得到一个社会繁荣。我们在努力为世界上其他的人树立可持续发展的良好形象。我们的使命是给我们的学生最优质的教育。我们也致力于营造一个与现代科技不同的责任实践教育的环境。我们的学生将知道在他们的各种讲座教授的关键概念和理论意义的差异，并建立他们之间的联系。\n\t\t\t\t在我们的大学里，我们拥有大量的资源，可以满足学生的任何需求。我们提供高品质的体育馆，娱乐中心，计算机中心，音乐舞蹈室，会议室、学习室，高标准和精心装饰的图书馆，甚至实验室等其他设施。我们科系也提供充足的设施，而且每一个部门都应用了大范围的现代科技设备。相比之下，我们大学的员工及专业讲师的卓越学术，不亚于任何国外同类大学。我们也得到了国际天文学联合会（IAU），艺术设计（ARTDO），亚太大学联合会（AUAP），欧洲旅馆学校校长协会（EUHOFA），国际大学校长协会（IAUP）、东南亚高等教育联盟（ASAIHL）等组织的强烈认可。\n\t\t\t\t由于这些巨大的发展，我们确保提供和维持必要的设备和设施，以帮助及确保学生各自的未来职业生涯。确保它的学术需求得到充分满足。当然我们也会对学生的意见进行改进。\n\t\t\t\t作为校长，我很荣幸各位能成为我们学校的一员，我也很高兴能成为您们在暹罗大学学术生涯的一部分。最后，我发自肺腑的为您们成为我们中的一员而高兴。\n\t\t\t\t 校长Pornchai Mongkhonvanit 博士</string>
+
+    <string name="aboutus_mission_acname">使命和愿景</string>
+
+    <string name="academics_0_2_itemtitle">中华国际学院</string>
+
+    <string name="academics_1_2_itemtitle">中华国际学院</string>
+
+    <string name="aboutus_missionandvison_string">\t\t\t\t暹罗大学利用教育创新和国家的最先进的技术，为学生成为新世纪的人才提供所需要的知识和技能。暹罗大学的使命是在学习和工作领域培养有能力、有效率、有信心的学生。他们的学年结束后，这些特质以及一个健全的道德和道德基础以及了解多元化的文化，将为他们提供的洞察力和能力。暹罗大学促进研究，扩展教育服务，与当地社区和行业的密切合作，并致力于国家文化保护。</string>
+
+    <string name="aboutus_placement_acname">实习与职业生涯</string>
+
+    <string name="aboutus_policy_acname">学生行为的政策</string>
+
+    <string name="aboutus_president_acname">校长致辞</string>
+
+    <string name="aboutus_strategies_acname">发展战略</string>
+
+    <string name="aboutus_strategies_string">独特的目地\n让您的整个学期或者整个学校生涯都生活在快乐中，在这里有无边际的社交网络和难忘的回忆。暹罗大学的国际学生有丰富的机会来体验泰国及其东南亚周边国家的独特文化，这反映在生活的各个方面，包括教育和商业。许多工商管理专业的学生选择来泰国，利用独特的实习机会进入一些世界一流的酒店和航空公司进行实习。\n\n 相关的课程\n暹罗为国际学生提供了一个完整的商业管理研究周期，从本科到研究生水平，从而应对在今天的全球市场上的人力资源和领导者的日益增长的需求。\n我们的教职工包括一些商业专家、从业者和学者。基于美国的商业教育模式，我们的课程设计是为了反映当今商业世界的活力。此外，还提供了相关领域的文化研究和活动，以完善您的学习经验。\n\n 高期望值！\n开始大学的课程意味着您对未来有很高的期望值，暹罗大学讲为您的未来奠定坚实的基础，让您顺利的过渡到您的职业生涯。学校有一个获奖的学生和成功的校友的记录，对暹罗大学来说是一个真正的有益的经验。\n\n研究与创新\n暹罗大学始终认为，一个人的创造力和自由表达的能力是实现卓越的关键。教师提供的工具和资源来协助他们进行关注领域的研究。教师利用小组项目，如商业计划书的创作，案例研究等其他问题的学习方法。\n这些努力的成果体现在：一些研究文章发表在国际裁判期刊；学生获得奖项，甚至获得他们的发明的专利；奖学金以及补助金等。难怪许多世界各地的大学已经与暹罗大学签订了合作关系，以分享资源，教师和学生。\n\n丰富的业余生活\n各种活动，如啦啦队和运动竞赛。举办跨文化节日，如中国的春节，泼水节，水灯节，圣诞节和新年。同时也将参加实地考察;研讨会;展销会;比赛;和各种节日庆祝活动。为参加俱乐部活动和志愿服务的学生提供了另一个表达自己的想法，发展新的技能，社交以及放松的机会。\n许多学生也抓住机会，以帮助在曼谷举办的会议和展会期间短期工作人员，从而获得在商业世界宝贵的见解。这对未来的职业生涯是有很大帮助的。\n\n经济性\n相比较低的学费在暹罗大学留学的是非常有竞争力的。生活在泰国的成本可比生活水平大多数其他地区更加的实惠。这是物有所值的，这使它成为一个值得学习的经验。很多学生去欧美学校进修之前，都选择来这里读书。\n\n 国际知名度\n在暹罗大学学习，如果你正在寻找一个真正的国际化经验。曼谷位于亚洲的十字路口，是一个真正的国际化城市，融合了全球的多样性。许多国际组织，如联合国和联合国教科文组织就在曼谷有他们的办公室。\n学校坐落在泰国最大的国际校园社区之一。目前从大约有300名来自于欧洲、美国和亚太地区的学生。\n此外暹罗大学的毕业生有优势毕业后加入校友组成的全球网络。\n\n一流的硬件设施\n除了过硬的师资力量，学生在学习时，他们可以在图书馆茁壮成长，学校还提供了全功能的教室;最多最新的设备和友好的校园。\n暹罗大学的学生享受5星级的教室和礼堂。他们能够享有几十万的印刷和电子出版物的中央库，以及数字媒体;还有覆盖全校园的宽带上网服务。\n校园内设舒适的角落;休息区;花园;便利店; 一个银行;邮局和许多咖啡馆和食品店。\n\n 独特的邂逅\n 每年，暹罗大学会邀请世界一流的专家和学者，以解决学生目前设置的主题和遇到的问题。这些研讨会为学生的学习生活带来了增值。每年9月21日就是联合国和平国际日的那一天，暹罗大学会举办庆祝活动，庆祝组织以及与和平艺术的研究生部与外交研究协作。\n近日，诺贝尔经济学奖得主Prof. R. Mundell教授就及时话题发表了演讲：“适应全球化的国家经济发展战略”，而Dr. Fidel V. Ramos，菲律宾共和国前总统，在发表演讲这个问题，“教育，教育，教育！教育成就一个更美好的未来”。</string>
+
+    <string name="aboutus_studentcenter_acname">国际留学生中心</string>
+
+    <string name="schoolin10">高考成绩</string>
+
+    <string name="schoolin11">毕业院校</string>
+
+    <string name="schoolin12">联系地址</string>
+
+    <string name="schoolin13">联系电话</string>
+
+    <string name="schoolin2">审核状态</string>
+
+    <string name="schoolin3">报名层次</string>
+
+    <string name="schoolin4">面向专业</string>
+
+    <string name="schoolin5">姓名</string>
+
+    <string name="schoolin6">姓名拼音</string>
+
+    <string name="schoolin7">出生年月</string>
+
+    <string name="schoolin8">身份证号</string>
+
+    <string name="schoolin9">护照号</string>
+
+    <string name="aboutus_studentconductpolicy_string">暹罗大学学生行为标准与规则的一般原则要求学生们要将自己作为成熟和负责任的个人。\n\n 学术规范与行为准则\n下列学术不端的行为将面临学术制裁，包括但不仅限于：留级，不及格（F），停职或解雇。\n下列学术不端的行为将面临学术制裁，包括但不仅限于：留级，不及格（F），停职或解雇。\n•剽窃，信息篡改或学术造假\n •签署的考勤表的时候代签或类似情况\n •为获得特权或毕业而骚扰/误导/威胁教师\n这是行为准则，为学生判断违反行为准则，并隐瞒了相应的权限信息违规。所有的违规行为，必须立即报告课程导师或监督人。所有的学生都需要遵守最高行为标准。\n\n 非学术规范与行为准则\n 所有的学生都需要对他们的老师和同学们体贴和尊重的风范。例如：\n •及时到达上课，以避免干扰教学过程。\n •录音需要得到老师和同学的同意。\n •避免在课堂上接听电话，请关掉你的手机铃声。如果你希望一个非常重要的电话，请离开教师接听。\n•当教练的讲课，请不要做其他无关的事情。\n\n 该方案的国际性质同时提供一个丰富的且具有挑战性的经历。所有的学生应该理解并接受国际社会的存在，以及适应信仰，文化，地位和种族的差异。\n为了促进个人发展，保护大学社区，并在校园内维持秩序和稳定，谁从事下列任何不当行为的学生可能会受到纪律处分，包括但不限于一个档次降低，不及格（F），从程序或大学停职或解雇：\n身体或性侵犯，欺凌，辱骂，威胁，恐吓，骚扰，胁迫或者威胁或危害大学社会任何成员或大学校园，或在大学活动的任何人的健康或安全的其他行为。\n•企图或大学财产或资源的实际盗窃，破坏或误用。\n •未经授权或不当使用任何大学的财产，设备，设施或资源，包括擅自进入大学的房间，建筑物或场所。\n•使用，拥有或大学校园，或在大学的活动，除非法律明确和大学法规许可的任何麻醉剂或其他受控物质的分布。\n •吸烟的禁止区域，包括但不限于教室，厕所，走廊，电梯和餐厅。\n •饮食和某些房间，它是被禁止的，除非明确允许特殊原因饮酒（包括口香糖）。\n•火灾报警滥用。\n •泰国刑法的相关规定。\n\n 投诉程序\n如果你的行为在课堂上造成了影响，你的老师会提醒出你的问题。如果你不及时作出改变，相关人员会找你谈话。如果问题仍然存在，你将不会被允许参加班级，你会被标记缺席。</string>
+
+    <string name="academics_0_0_itemtitle">工商管理本科</string>
+
+    <string name="academics_0_1_itemtitle">酒店管理和旅游管理本科</string>
+
+    <string name="academics_1_0_itemtitle">工商管理硕士（MBA）</string>
+
+    <string name="academics_1_1_itemtitle">和平研究和外交艺术硕士</string>
+
+    <string name="academics_2_0_itemtitle">信息技术博士（DIT）</string>
+
+    <string name="academics_bachelors_grouptitle">学士学位（国际部）</string>
+
+    <string name="academics_bba_1_itemtitle">引言</string>
+
+    <string name="academics_bba_1_string">这是一门为期4年的本科工商管理中国际商务的学习。这门课程已经取得了泰国教育部的认可。这门课程的开设是为了应对全球商业市场中对人力资源需求的不断提升。\n\n\t\t\t\t暹罗大学国际商务学位课程的目标\n1.为学生提供在国际商务舞台上开展业务的基本信息。\n2.我们通过让学生出席国际商务会议中的方式让他们更好的了解到全球商业的发展。\n 3.鼓励模范型的个人行为和团队的道德行为。\n 4.让学生掌握必要的商业管理的技能与知识，帮助学生们了解到在商务行业中他们所应尽的职责。</string>
+
+    <string name="academics_bba_2_itemtitle">课程描述</string>
+
+    <string name="academics_bba_2_string">什么是国际商务？\n\n国际商务包括了所有的贸易交易（私营企业和政府企企，销售，投资，物流以及运输）在介于两者或两者以上的区域，countries and nations beyond their political boundaries国家和国家超出了他们的政治界限。.通常情况下，私营企业承接的贸易都是为了获取利润，而政府企业承接的贸易是为了获取利润以及某些政治因素的需要。所有的这些贸易活动包括涉及到两个或更多的国家之间的货物，服务以及资源的跨国境交易的商业活动。经济资源的交易包括了资金，技术，人员等。在国际商务中，参与到实质商品和服务交易的行业包括金融业，银行业，保险业和建筑业等。换一句话说，交易中涉及到两个或以上的国家的企业，就可以被称作国际商务。\n\n课程代码：IBM\n\n学制：8个学期（4年）\n\n证书颁发：暹罗大学工商管理学士学位证书</string>
+
+    <string name="academics_bba_3_itemtitle">为你规划的学习生涯</string>
+
+    <string name="academics_bba_3_string">随着全球经济的不断发展，国际商务学科毕业的人才的需求也跟着持续增加，持续增加的国际商务课程也正是国际贸易对高质量国际商务人才需求量增大的证明。国际商务这门课程已经成为亚洲国家特别是东南亚国家最为重视的课程。在商务行业中，有相当多数量的企业正面临着如何建立国外贸易的问题，比如客服文化差异和语言障碍。不过我们建立的这门国际商务课程为每一个学生提供了学习商业环境中的多言文化礼仪与知识的机会。\n\n国际商业学位课程包括范围广泛的管理课程，商业文化，商业法和税收，经济学和市场营销。你将学习到如何管理拓展全球化的商务业务。\n\n为什么要学习国际业务，你会得到什么？\n•国际商业学位，帮主你准备面对全球市场的竞争;\n•你可以对更大的社会社区商业文化和道德行为有更好的认识。\n•在跨国交易中你将更好的做出指挥。\n•根据你自己的专业技能获得更大的工作选择空间。\n•您将获得社会责任的良好意识和管理技能，将帮助您拓展业务和财务技能。\n•该课程包含了特别强调企业管理的国际方面的素质教育，会有丰富的收获。\n•通过英文授课帮助你熟练使用英文交流，在英文市场中增加了你就业市场的潜力和竞争优势，建立与国际商业界的重要纽带。\n•在网络发达和当前国际企业管理的全球化趋势下，增强你的分析能力和协同工作能力，这是在国际环境中成功的商业运作非常重要的元素能力。\n •在文化方面，如语言，宗教，习俗，传统，政治实践，以及它们在处理和管理国际商业惯例问题的地方和区域的业务实践的观点灌输。我们多元化的国际教职员工和学生会为你在这方面提供一个极好的机会，以及与当地商业企业互动的机会。\n\n在国际商务课程毕业后你能做什么？\n管理角色：\n \t\t\t\t•财务经理\n\t\t\t\t•风险管理\n\t\t\t\t•营销执行和操作研究员\n\t\t\t\t•特许管理会计师零售经理\n\t\t\t\t•国际物流和分销经理\n\t\t\t\t•管理分析师和顾问\n\t\t\t\t•业务经理和企业家\n\t\t\t\t•人力资源总监\n\n其他\n\t\t\t\t•国际会计师\n\t\t\t\t•系统分析\n\t\t\t\t•国际经济学家\n\t\t\t\t•公司的投资银行家\n\t\t\t\t•国际银行家\n\t\t\t\t•政府外交部\n\t\t\t\t•导入/导出专家\n\t\t\t\t•销售主管和销售营销</string>
+
+    <string name="academics_bba_4_itemtitle">课程设置</string>
+
+    <string name="academics_bba_4_string">课程名称和代码\n第一年：第一学期（8- 12月），（17学分)。\n（GS 121）社会学概论\n（GS 111）泰国文明\n（GS 104）基本数学原理\n（IBS 101）生命与环境\n（EN 101）英语学习 I（或其他语种）\n（IBA 101）会计原则 I\n\n课程名称和代码\n第一年：第二学期（1- 4月），（17学分）\n（GS 122）社会和政府\n（GS 112），哲学和宗教的基础\n（EN 102）英学习语II（或其他语种）\n（GS 113）一般心理学\n（GS 123）社会与法律\n（IBA 102）会计原理II\n\n课程名称和代码\n第二年：第一学期（8- 12月），（17学分）。\n（EN 203）英语学习III（或其他语种）\n（IBE 201）微观经济学\n （IBM 202）市场营销原理\n （IBS 200） - 计算机导论\n（IBM 201）组织与管理\n 统计（IBM 203）原则\n\n课程名称和代码\n 第二年：第二学期（1- 4月），（14学分）。\n （EN 204）英语学习 IV（或其他语种）\n （IBE 202）宏观经济\n （IBM 209）统计分析业务\n （IBF 201）商业金融\n 选修课程\n\n 课程名称和代码\n 第三年：第一学期（8- 12月），（17学分）。\n （IBE 303）国际经济学\n （EN 305）英语V（或其他语种）\n （IBA 303）管理会计\n （IBS 301）互联网和包装方案业务\n选修课程\n\n 课程名称和代码\n 第三年：第二学期（1- 4月），（14学分）。\n （EN 306）第六英语（或其他语种）\n （IBM 302）生产和运营管理\n （IBL 309）商业法\n\n 课程名称和代码\n 第四年：第一学期（8- 12月），（17学分）。\n （IBM 401）定量分析业务\n （IBF 401）国际金融与银行\n （IBM 404）国际贸易运输\n （IBM 403）国际商务\n （IBL 404）国际贸易法\n （IBA 404）的管理国际会计及税务\n\n 课程名称和代码\n 第四年：第二学期（1- 4月），（18学分）。\n （IBM 402）商务政策\n （IBM 406）跨国企业的比较管理\n （IBM 421）国际贸易业务\n （IBM 407）国际商业研讨会\n （IBM 411）国际市场\n 总计135学分 </string>
+
+    <string name="academics_bba_5_itemtitle">课程指标</string>
+
+    <string name="academics_bba_5_string"> 注：请在学年中选择合适开始课程的研究。学年开始于8月和次年七月结束。\n\n 课程：\n 该课程包括：\n 一般课程：15门课程\n 核心课程：15门课程\n 主要必修课程：10门课程\n 主要选修课程：5门课程\n 自由选修课程：2门课程\n 总计：47门\n\n 通识教育（每个科目3学分）\n GS.121社会学概论\n GS.123社会与法律\n GS.122社会与政府\n GS.111泰国文明\n GS.112宗教哲学基础\n GS.113普通心理学\n GS.104基本的数学原理\n IBS.101互联网业务与软件使用\n IBS.200 - 计算机导论\n\n 主要选修课程（语言）（每个科目2学分）\n EN.101英语I\n EN.102英语II\n EN.203英语III\n EN.204英语IV\n EN.305英语V\n EN.306英语VI\n CH.101中文I\n CH.102中文II\n CH.203中文III\n CH.204中文IV\n CH.305中文V\n CH.306中文VI\n JA.101日语I\n JA.102日语II\n JA.203日语III\n JA.204日语IV\n JA.305日语V\n JA.306日语VI\n\n 核心课程（每个科目3学分）\n IBE.202宏观经济\n IBM.202原则营销\n IBA.101会计I\n IBM.402商务政策\n IBM.401定量分析业务\n IBM.302生产与运营管理\n IBL.309商业法3 \n IBA.303管理会计\n IBS.301互联网与包装方案业务\n IBM.209统计分析业务\n IBM.203统计原则\n IBM.201组织与管理3 \n IBE.201微观经济学\n IBA.102会计II\n IBF.201商业金融\n\n 主要必修课程（每个科目3学分）\n IBE.303国际经济学\n IBA.404国际会计及税务\n IBL.404国际贸易法\n IBM.406多元化企业中的比较管理\n IBM.412国际贸易业务\n IBM.411国际营销\n IBM.407研讨会在国际商务的应用\n IBM.404国际贸易运输\n IBM.403国际商务管理\n IBF.401国际金融与银行\n\n 主要选修课程（每个科目3学分）\n IBM.205全球管理信息系统\n IBM.208国际商务研究\n IBM.307人力资源管理\n IBM.309跨文化管理\n IBE.304国际货币经济学\n IBM.210国际谈判\n IBF.403国际投资组合管理\n IBM.409当代国际业务\n IBM.410独立项目\n IBF.405国际金融优势分析\n\n 免费选修课程（每个科目3学分）\n IBM.100商务词汇（行话，俚语）\n IBM.206采购\n IBM.207广告\n IBM.308酒店管理和旅游管理原则\n IBM.405人力资源专业招聘\n</string>
+
+    <string name="academics_bba_6_itemtitle">申请入学资料准备</string>
+
+    <string name="academics_bba_6_string"> •12年级（中国高中毕业）参加高考的成绩单或其他可以证明的材料\n •国际护照复印件两份\n •无犯罪记录证明\n •目的声明Statement of purpose\n •2位推荐人的推荐信（高中教师，教授或暹罗大学校友）\n •托福或雅思成绩（如果有的话）\n •3张近期照片（3x4cm）\n •申请费\n\n 申请程序和需要提供的文档\n 1. M6证书的原件和复印件original and photocopy of M6 certificate，高中毕业证书或同等学历的复印件\n 2.中国公民身份证，户籍或护照副本复印件\n 3.4张3X4厘米彩色照片\n\n 英语强化培训课程\n 通过入学英语考试中的申请人无须参加英语强化班。对于那些入学英语测验中没有通过的学生，暹罗大学将组织他们参加2次 总计60小时的英语强化培训课程。</string>
+
+    <string name="academics_bba_7_itemtitle">学院师资力量</string>
+
+    <string name="academics_bba_7_string"> 院长：\n Rengson Mualchontham先生\n\n 讲师：\n Prof. J. Fred Miller\n Mr. Paul Henry\n Mr. David Seale\n Mr. Kevin Tylor\n\n 特聘讲师：\n Prof. Dr. Wanchai Rijirawanich\n Dr. Tanakorn Limsarum\n Dr. Pichit\n Dr. Chalermkiat\n Dr. Toumo Tapani Ravtakivi\n Mr. Rathavoot\n Mr. Pariwat\n Mr. Pithan\n Mrs. Yaowares\n Mr. Kriengsak\n\n 注： Prof. 为教授， Dr.为博士</string>
+
+    <string name="academics_bba_8_itemtitle">我们的联系方式</string>
+
+    <string name="academics_bba_8_string"> 院长：Rengson Muanchontham先生\n 电话：（66）28678000\n 电子信箱：rengson@siam.edu\n siamuniversitybkk@gmail.com\n 网站：http://www.inter.siam.edu\n 学院工作时间：周一 - 周五（上午8:30 - 下午4:30）</string>
+
+    <string name="academics_bc_acname">中华国际学院</string>
+
+    <string name="academics_bba_acname">工商管理本科</string>
+
+    <string name="academics_bht_1_string">正常情况下，我们的国际B.B.A.课程——酒店管理和旅游管理可以在全日制四年学业期间完成。在头两年的学习，国际学生要接受一般基本教育，信息技术（IT）以及达到语言学习要求。在第三和第四年的学习，国际学生要完成他们的核心课程和选修课程，以及获得专业工作经验。总体而言，国际学生必须完成132学分的课程才能毕业。\n 工商管理课程在服务业管理上的目标\n •保持我们独特的国际研究，将成功经验教授给学生的教学模式;\n •要提高学生的语言表达能力和沟通能力;\n •帮助学生准备在酒店管理及工商管理领域方面的考研;\n •要培养我们的学生成为他们今后从事的不同行业中的优秀领导者;\n •从我们学院毕业的学生毕业后在各自事业上都是相当成功的。我们的目标是保持这一优势并且在今后塑造更多的优秀毕业校友;\n •鼓励学生学习了解酒店管理和服务的本质;\n •提供给学生必要的信息化技能和管理技能以便于他们在酒店担任监督，管理的岗位</string>
+
+    <string name="academics_bht_2_string">当今世界上，酒店与旅游管理一直是最多样化，最具挑战，最大且最重要以及成长最快的行业之一。这个行业的快速发展源自人们对于旅游的喜爱所导致的旅游活动的日渐频繁。酒店及旅游管理课程会教授学生宽广且多样化的文化，管理技能和人力资源在企业管理中的运用，为学生提供他们在行业竞争中取得成功所必须的技能。酒店及旅游管理课程是一门广义的服务管理课程，包括各种酒店管理，客房部，前台，餐厅经营，客户服务和满意度。这门课程的学生将从课程中充分了解到人际管理的重要性。 \n程序代码：BBA（酒店及旅游业管理） \n费用： \n学制：8个学期（4年） \n证书颁发：暹罗大学工商管理学士学位（酒店及旅游管理）</string>
+
+    <string name="academics_bht_3_string">泰国作为东南亚国家中旅游国家的佼佼者，在泰国进行酒店旅游管理课程的学习无疑是非常有利的。学生们在这儿可以很投入地进行酒店与旅游管理的学习并且做好准备迎接他们在管理行业中的职业巅峰。在这个课程的学习过程中，学生都必须参加由他们所选择的大学提供的不同的实习酒店的工作，让他们参与到切实的酒店工作中，帮助学生们完成从教室到社会的过渡。这些实习工作可能是在酒店的餐厅，在旅游业中的充分参与，出席参加会议以及一些行业举行的特殊活动。该学位课程并不仅仅为学生准备几个管理行业中的工作去向，它更是使学生们在管理方面获得了更高层次的知识，以使他们在开发广告和营销时使用新颖现金的概念;或是在旅游业中提倡新观念。 \n\n为什么要学习酒店与旅游管理，你会得到什么？ \n\t\t\t\t•它提供了很多各种不同的就业机会; \n\t\t\t\t•你将了解做好如何重要的客户服务和获得较强的专业意识; \n\t\t\t\t•你将了解与其他旅游产业的关系，以及它们如何运作，并同时建立它们之间的联系; \n\t\t\t\t•你将有更大的机会在国际上曝光，并与国际上不同的旅游部门交流; \n\t\t\t\t•在课程中获得独特的知识，特别是在如何扮演一名管理角色上; \n\t\t\t\t•你将发展批判性思维，熟练运用有效的沟通技巧; \n\t\t\t\t•你将在这门课程学习到大量的专业知识，因为所有课程都是由拥有强大专业技能的优秀学历讲师授课; \n\n在毕业后适合的工作有什么？ \n\t\t\t\t•厨师; \n\t\t\t\t•营销执行; \n\t\t\t\t•接待员和酒店经理; \n\t\t\t\t•区域旅游协会 \n\t\t\t\t•政府旅游委员会; \n\t\t\t\t•旅行社中心; \n\t\t\t\t•旅游经营者; \n\t\t\t\t•空乘，服务员，游轮上的服务人员 \n\t\t\t\t•酒店活动协调员。</string>
+
+    <string name="academics_bht_4_string">学位计划 \n课程： \n人文社会科学（9学分） \n学科： \n117-100经济原则和充足经济的哲学 \n117-101社会学概论 \n117-102社会和政府 \n117-103社会与法 \n117-104人际关系和人格发展 \n117-105东盟在现代世界 \n117-106准备工作的世界 \n117-111泰国文明 \n117-112的基本哲学与宗教 \n117-113心理学在日常生活 \n117-114西方文明 \n117-116西方文学 \n\n数学与科学（6学分） \n学科： \n117-121基本数学原理 \n117-123生命与环境 \n117-124信息技术 \n117-125计算机的研究和工程 \n117-126食品安全和营养养生 \n117-127统计原则 \n\n语言（12学分） \n学科： \n117-191泰语1 \n117-192泰语2 \n117-291泰语3 \n117-292泰语4 \n117-145英语交流 \n117-146学术英语 \n117-246英语标准化专业测试 \n117-343商务英语 \n117-151中文1 \n117-152中文2 \n117-251中文3 \n117-252中文4 \n117-161日语1 \n117-162日语2 \n117-261日语3 \n117-262日语4 \n117-171法语1 \n117-172法语2 \n117-271法语3 \n117-272法语4 \n117-181韩语1 \n117-182韩语2 \n117-281韩语3 \n117-282韩语4 \n117-301俄罗斯语1 \n117-302俄罗斯语2 \n117-303俄罗斯语3 \n117-304俄罗斯语4 \n117-305西班牙语1 \n117-306西班牙语2 \n117-307西班牙语3 \n117-308西班牙语4 \n117-309葡萄牙语1 \n117-310葡萄牙语2 \n117-311葡萄牙语3 \n117-312葡萄牙语4 \n\n艺术鉴赏与体育（3学分） \n主题： \n117-132体育与休闲 \n117-133艺术与音乐欣赏 \n\n发展型课程90学分 \n核心课程（30学分） \n学科： \n221-102服务质量管理 \n221-103 会计学原理 \n221-203组织与管理 \n221-204企业财务 \n221-205营销原则 \n221-301人力资源管理 \n221-304服务营销 \n221-333服务心理学 \n221-343跨文化交际 \n221-402战略管理 \n\n主要必修科目（30学分） \n学科： \n211-101介绍会议奖励旅游会议及展览 \n211-111介绍酒店及旅游 \n211-224国际旅游和奖励旅游 \n211-226会议和会议管理 \n211-228旅游行为 \n211-302Information技术招待费 \n211-306道德与商法的酒店及旅游 \n211-312餐厅和餐饮管理 \n211-316酒店营销 \n211-446营销研究招待费 \n\n主要选修科目（30学分） \n学科： \n211-112美食和厨房的经营管理 \n211-122展览管理 \n211-212航空业务 \n211-221酒吧和餐饮管理 \n211-225可持续发展活动和旅游业 \n211-227餐饮管理 \n211-288宾馆客房运营和管理 \n211-313消费者行为旅游业 \n211-323导游服务 \n211-324乘务员操作 \n211-325旅行社和旅游经营者管理 \n211-327酒店行业中管理会计与财务管理 \n211-328当代问题1 \n211-412研讨会酒店管理 \n211-422当代问题2 \n211-423酒店项目 \n211-425社区为基础的旅游项目 \n211-426旅游规划与发展目标 \n211-441公约销售和服务 \n211-442会展场馆管理 \n211-443特殊事件项目 \n211-445国际酒店管理 \n211-451酒店规划与发展 \n211-452特殊兴趣旅游 \n211-453文化旅游管理 \n211-454海洋旅游管理 \n211-455农业旅游管理 \n211-456水疗和健康管理 \n211-457体育和探险旅游管理 \n211-458国际美食管理 \n211-459俱乐部和酒吧管理 \n211-460物流旅游产业 \n211-461巡航管理 \n211-462主题公园管理 \n211-463医疗旅游 \n211-464购物旅游 \n211-465影视旅游 \n211-466美食旅游 \n211-467航空公司市场营销 \n211-482调查与研究酒店 \n211-501先进的研究方法招待费 \n211-502高级数据分析招待费 \n\n语言（15学分） \n主题： \n211-241英语服务业1 \n211-242英语服务业2 \n211-243英语服务业3 \n211-244英语服务业4 \n211-245英语服务业5 \n211-251中文服务业1 \n211-252中文服务业2 \n211-253中文服务业3 \n211-254中文服务业4 \n211-255中文服务业5 \n211-261日语服务业1 \n211-262日语服务业2 \n211-263日语服务业3 \n211-264日语服务业4 \n211-265日语服务业5 \n211-271法语服务业1 \n211-272法语服务业2 \n211-273法语服务业3 \n211-274法语服务业4 \n211-275法语服务业5 \n\n主要选修科目（企业管理） \n学科： \n221-412国际营销 \n221-429创业与中小企业管理 \n221-434销售管理 \n221-436广告和促销 \n221-437直复营销 \n221-440新产品开发 \n221-441品牌管理 \n221-443营销战略管理 \n221-451营销渠道管理 \n221-453产品和价格管理 \n221-454整合营销传播 \n221-455营销策划 \n\n合作教育（6学分） \n学科： \n211-490合作办学的准备工作 \n211-491合作教育 \n\n自由选修科目（6学分） \n学科： \n任何学科都开放于国际课程Any Subjects opening in the International Program </string>
+
+    <string name="academics_bht_5_string">录取： \n有两种方法可以被暹罗大学录取：[1]从正规大学或学院转校（参见转学分），或[2]在高考中通过并提供每个学期期末的成绩。 \n\n入学要求：•12年级（中国高中毕业）参加高考的成绩单或其他可以证明的材料 \n•国际护照复印件两份 \n•无犯罪记录证明 \n•目的声明Statement of purpose \n•2位推荐人的推荐信（高中教师，教授或暹罗大学校友） \n•托福或雅思成绩（如果有的话） \n•3张近期照片（3x4cm） \n•申请费 \n申请程序和需要提供的文档 \n1. M6证书的原件和复印件original and photocopy of M6 certificate，高中毕业证书或同等学历的复印件 \n2.泰国公民身份证，户籍或护照副本复印件 \n3.4张3X4厘米彩色照片 \n来自国外的申请 \n如果申请人不是泰国人而且不是从英语为第一语言的高中毕业，则申请人必须提交最近通过的英语测试成绩，比如雅思或者托福成绩。我们对于英语成绩没有硬性要求，不过获得500分以上托福成绩的申请人无需参加开课前的英语强化培训班。 </string>
+
+    <string name="academics_bht_6_string">协会项目总监：Prof. Dr. Bongkosh N. Rittichainuwat \n研究教授：Prof. Eric Laws \n高级讲师：Mr. Kris Mouton \n讲师：Mr.Sanvitcha Muttamara \n讲师：Ms. Yasue Hichitake \n讲师Mr. Steven Mogain \n\n注： Prof. 为教授， Dr.为博士 </string>
+
+
+    -<string name="academics_bht_7_string">
+
+-<![CDATA[地址：International Program in Hotel & Tourism Management, Siam University, 38 Phetkasem, Phasricharoen, Bangkok, Thailand, 10160  \n电话：+662457-0068分机。 5304   \n传真：+662457-0068分机。 5304   \n电子邮件：ihtm2@siam.edu ]]>
+</string>
+
+    <string name="sports_acname">运动</string>
+
+    <string name="studentvoice_acname">学生之声</string>
+
+    <string name="sustaffs_acname">暹罗教职工</string>
+
+    <string name="title_activity_maps">地图</string>
+
+    <string name="main_aboutUs">关于我们</string>
+
+    <string name="main_academics">学术研究</string>
+
+    <string name="main_admission">招生</string>
+
+    <string name="main_map">地图</string>
+
+    <string name="main_gallery">校园风采</string>
+
+    <string name="main_socialMedia">社交网络</string>
+
+    <string name="main_studentVoice">学生之声</string>
+
+    <string name="main_suStaffs">暹罗教职工</string>
+
+    <string name="main_video">视频</string>
+
+    <string name="main_studentLogin">学生登陆</string>
+
+    <string name="main_sports">运动</string>
+
+    <string name="main_news">新闻</string>
+
+    <string name="main_library">图书馆</string>
+
+    <string name="SU_staff_string1">Dr. Pornchai Mongkhonvanit\n暹罗大学校长</string>
+
+    <string name="SU_staff_string2">Chollada Jungprasert\n暹罗大学副校长</string>
+
+    <string name="SU_staff_string3">Dr. Vijit Supinit\n暹罗大学MBA院长</string>
+
+    <string name="SU_staff_string4">Wichian Premchaiswad \n暹罗大学IT院长</string>
+
+    <string name="SU_staff_string5">Prof. Fred J. Miller\n英语中心主任</string>
+
+    <string name="SU_staff_string6">Rengson Muanchontham\nBBA主任</string>
+
+    <string name="SU_staff_string7">Md Jahidul Islam(Jim)\n信息技术系副主任</string>
+
+    <string name="awards">暹罗大学主要专业成就\n副教授Wichian Premchaiswadi荣获2008年泰国私立高等教育机构协会信息技术部门最佳员工\n暹罗大学讲师，一等荣誉法学学士Thanaset Onlaied先生，2006年从15039名候选人中取得民法和商事主体最高分，2007年成为泰国曼谷律师协会法律研究所出庭律师\nKasidej Khumvatthanakarn先生，计算机科学系学生，荣获MOS奥林匹克国家奖，以及2007年在美国西雅图举办的世界微软奥林匹克大赛\nWanida Kuptithammagul女士 and Sompho Amornchaiwutthigul先生是国家软件竞赛Web服务和Web应用领域的优胜者\n信息技术系的学生是TOT手机应用的优胜者，并获得50万泰铢的赞助费\n暹罗大学学生Ryan Hudson和Panata Intrasamme，在泰美两国大使建交175周年庆祝友好关系的典礼辩论赛中获得高等教育委员会授予的最佳新人奖奖项\nSunatha Matchacheep, 在第36届大学生运动会中斩获两枚射击金牌\nKronkit sae-ko, 电气工程专业学生，为我校赢得三个荣誉。第一，泰国最佳电器技师。第二， 在汶莱举行的电气工程技术竞赛中获得金奖。第三，2007年十一月在日本铃鹿举行的电器实践奥林匹克竞赛中进入总决赛\n副教授Wichian Premchaiswadi荣获日泰信息数据库协会最佳图书奖\n国际酒店旅游管理系主任Bongkosh Ngamson博士，获得亚洲太平洋酒店及旅游协会APEC-CHRIE最佳国际研究论文奖，并在康奈尔报和旅游研究报上发表</string>
+
+    <string name="awards_acname">荣誉榜</string>
+
+    <string name="calendar_acname">校历</string>
+
+    <string name="contactus_acname">联系我们</string>
+
+    <string name="contactus_string">暹罗大学\n泰国曼谷碧甲盛路235号\n电话：+66(0)2867-8088; +66(0)2 2457-0068 转: 5308, 5361, 5317\n传真: +66 (0) 2868-6883; +66(0)2457-6657\n网站: www.siam.edu \n电子邮箱: siam.siamuniversity@gmail.com \n移动电话 : +66 824 534 220 \n（信息技术系）</string>
+
+    <string name="gallery_acname">校园风采</string>
+
+    <string name="gallery_library_acname">图书馆</string>
+
+    <string name="gallery_computerlab_acname">计算机实验室</string>
+
+    <string name="gallery_campus_acname">校园</string>
+
+    <string name="gallery_activity_acname">学生活动</string>
+
+    <string name="gallery_maruarylib_acname">玛芸图书馆</string>
+
+    <string name="gallery_sports_acname">体育馆</string>
+
+    <string name="gallery_food_acname">食堂</string>
+
+    <string name="gallery_financiallab_acname">金融实验室</string>
+
+    <string name="title_activity_sports">运动</string>
+
+    <string name="title_activity_awards">荣誉榜</string>
+
+    <string name="main_calendar">校历</string>
+
+    <string name="main_contactUs">联系我们</string>
+
+    <string name="main_award">荣誉榜</string>
+
+    <string name="sports_string31">暹罗\b大学\b篮\b球\b俱乐部\n12栋\n注册\b中心\b暹罗\b大学\b主\b校区</string>
+
+    <string name="sports_string2">暹罗\b大学\b泰\b拳\b俱乐部\b11\b栋\b9楼</string>
+
+    <string name="sports_string3">暹罗\b大学\b板球\b俱乐部\b积极\b参与\b2011年\b国际\b大学\b板球\b巡回\b赛\b泰国\b站\b</string>
+
+    <string name="title_activity_students_voice">学生之声</string>
+
+    <string name="studentvoice_string1">The graduate school of Peace Studies and Diplomacy is rich in experience and expertise; the professors provide a unique insight into governance, conflict and resolution in Thailand and around the world. The learning environment is warm and relaxed with plenty of opportunities to discuss and develop ideas and interests.</string>
+
+    <string name="academics_dit_8_itemtitle">联系我们</string>
+
+    <string name="title_activity_calendar">校历</string>
+
+    <string name="title_activity_gallery__library">校园风采</string>
+
+    <string name="academics_mba_1_string">暹罗大学工商管理硕士（以下简称MBA）专业开设于1986年。学校一直致力于以合理的学费提供优质的MBA教育。自MBA专业开设以来，数千名毕业生已成为私营企业及政府企业高管，以及具有远见、头脑及高度职业素养的业界领袖。不仅如此，我校MBA专业在读学生也大部分在私营企业及政府公共部门实习。</string>
+
+    <string name="academics_masters_grouptitle">硕士（留学生）</string>
+
+    <string name="academics_mba_2_string">\t\t\t\t暹罗大学MBA专业有别于学校其他商科课程，学生的个人表现成为学生课业成绩的计量内容。\n\t\t\t\t我校保证学生在商业实训中得到充分的锻炼，并且注重学生独立思维的培养。\n\t\t\t\t我校开设的MBA课程具有灵活的课程学习制度，可以让在职人员保证其全职工作的同时，通过自身学习获得MBA学位。我校希望企业员工可以在短时间内通过MBA课程学习，并为其企业做出更大的贡献。\n\n什么是工商管理硕士（MBA）？\n\t\t\t\t工商管理硕士（MBA）是国际认可的学位，旨在培养商务和管理相关职业所需的技能人才。不仅如此，MBA的相关专业知识也可以运用在其他行业领域，诸如政府、私营企业等。暹罗大学开设的MBA课程包含会计学、经济学、市场营销学等核心课程，同时还有诸多选修课程供学生选择。\n\n专业代码：MBA。\n专业学制：4个学期（2年）。\n证书颁发：暹罗大学工商管理硕士学位。</string>
+
+    <string name="academics_mba_3_string">\t\t大部分MBA毕业生选择在商界工作，也有很多人在其他领域工作，诸如小型或大型企业、政府机构和非营利性组织等。同时，不少MBA毕业生也选择自己创业。\n\t\t\t\t暹罗大学的MBA毕业生具备充分的职业技能去商界寻找工作。我校MBA毕业生已经学习掌握了市场运行规则，并且能够通过自身能力做出专业判断。依靠自身的实践经验，足以胜任企业和政府的相关职位。MBA毕业生是企业管理者，商务人士和企业家，同时也可以是股票市场和债券市场的职业经理人。\n\n 为什么选择暹罗大学的MBA专业？\n\t\t\t\t 我校MBA专业是国际性组织AACSB的一员。\n\t\t\t\t 我校特别聘请美国、欧洲、澳大利亚和泰国本土的学者、企业家向学生分享他们的经验。\n\t\t\t\t模拟和实践来自哈佛、斯坦福等学校研究案例，并且注重团队项目协作的锻炼。\n\t\t\t\t灵活方便的学习时间：可选择周一至周五晚上或者周末进行学习。\n\t\t\t\t公司企业的实地参观与考察机会。\n\t\t\t\t众多高校交换项目，并且可以参观学习欧洲、美国和澳大利亚的公司企业。\n\n获得MBA学位后可以做什么？\n\t\t\t\tMBA课程旨在为学生提供更多的专业技能，使学生在其商务管理职业生涯中更进一步，众多的MBA学习课程供学生选择以便扩大自己在某一领域的学习。我校MBA课程能够为学生提供更好的工作和职务晋升机会。\n\t\t\t\t可选职业方向包括：会计、广告、通讯、经济学、创业、金融、综合管理、健康管理、人力资源、信息技术、国际商务、网络营销、管理、营销、非营利性组织管理、运营管理、零售及销售管理及供应链管理等。 </string>
+
+    <string name="academics_mba_4_string">我校的MBA课程得到了泰国许多商界企业的帮助，以确保课程内容与时代接轨，培养适应当下商界需求的职业技能。我校的国际教师提供的IMBA相关课程包括：营销、金融、国际商务、管理创新与变革及管理信息技术。 \n\n核心课程（29个学分）（需要选择9门） \n\t\t（500-110）管理经济学 \n\t\t（501-110）管理会计 \n\t\t（502-110）营销管理 \n\t\t（503-110）人力资源管理 \n\t\t（504-110）财务管理 \n\t\t（505-110）技术和信息系统管理 \n\t\t（506-110）经济一体化和东盟研究 \n\t\t（507-110）组织行为和公司治理 \n\t\t（507-112）战略管理 \n\t\t（508-110）物流和运营管理 \n\t\t（506-222）国际商务管理 \n\t\t（508-220）物流与供应链管理 \n\t\t（700-111）应用社会科学 \n\t\t（700-201）研究方法英语研究生 \n\n选课课程（12个学分） \n\t\t会计 \n\t\t营销管理 \n\t\t人力资源管理 \n\t\t财务和银行管理 \n\t\t国际商务管理 \n\t\t一般管理 \n\t\t酒店及旅游管理 \n\t\t东盟研究 \n\n\独立研究(3个学分)</string>
+
+    <string name="academics_mba_5_string">核心课程： \n\t\t*管理会计 \n\t\t*市场营销管理 \n\t\t*人力资源管理 \n\t\t*财务管理 \n\t\t*技术与信息系统管理 \n\t\t*经济一体化和东盟研究 \n\t\t*组织行为 \n\t\t*战略管理 \n\t\t*物流和运营管理 \n\t\t*国际商务管理 \n\t\t*社会科学研究方法 \n\t\t*研究生英语 \n\t\t*会计 \n\t\t*金融与银行管理 \n\t\t*国际商务管理 \n\t\t*综合管理 \n\t\t*酒店及旅游管理 \n\t\t*东盟管理研究 \n\n课程概要： \n\t\t管理经济学 \n\t\t宏观和微观经济理论的应用，比如在分析消费者需求、市场特点，产品、成本，价格理论，在不同市场结构下的商业决策等方面的决策确定。自由竞争，垄断，资源配置的最大化产量和利润以及国民生产总值，平衡支出和政府财政和货币政策。 \n\t\t(501-110) Managerial Accounting; \nStudy the use of accounting data in planning, coordination and control, financial budget analysis, the relationships between financial budget, balance sheet footnotes analysis and auditor’s reports, the analysis and interpretation of costs, method of total cost accounting and variable costing, standard costing, analysis of the varied results of production cost, the relationship between cost, volume and profits, decision making under various alternatives, investment decision making, budgeting for planning and control. \n\t\t(502-110) Marketing Management; \n(Contemporary marketing techniques, consumer behaviors, market shares, the analysis and forecasting of market demand, selecting strategy and management of marketing mix, planning, organization, control and evaluating marketing results as well as the analysis of problems and solutions in marketing. \n\t\t(503-110) Human Resources Management; \nRole and responsibility of managers in the management of human resources, covering ethics, planning, recruitment, training and development of human resources. This is the study of the concept and system of evaluation and the management of payment, benefits and other remuneration. \n\t\t(504-110) Financial Management; \nFinancial concepts, financial management, the analysis and utilization of financial reports, cash flow management, mobilization of capital in the capital markets, structure of investment budgets, dividends, the cost of capital and emphasis is placed on the principles of high level financial management of financial institutions. \n\t\t(505-110) Technology and Information Systems Management; \nHow managers utilize information technology to gain greater efficiency and effectiveness from operational and managerial systems, the components of information system for management, the roles and functions of information system for management strategy for business and technology. Technology planning and transfer, design of the organization and development of technology. \n\t\t(506-110) Economic Integration and ASEAN Studies; \nTo study theories and types of economic integration, the theory of customs union and the benefits of economic integration. The movements of regional economic groupings, in particular the development and emergence of the European Economic Community and the impact on the world economy. The emergence of the other regional economic groupings, with the emphasis on ASEAN and Asia. The study of the economies of areas or regions which are important to ASEAN and ASIA. \n\t\t(507-110) Organizational Behavior and Corporate Governance; \nThe behavior of organizations in theory and in practice, especially in decision making as well as the behaviors of individuals in the organizations, how to change the organizations for effective management and control. The emphasis is on the study of psychological aspects and various experiments which are helpful for management and decision making. The role and importance of corporate governance in the organization, which take into account the interest of all stakeholders within the philosophy of sufficient economy for good practice and sustainable development. \n\t\t(507-112) Strategic Management; \n(The study emphasizes the setting up of strategy, the determination of mission, policy, goals and business strategy at various levels as well as the administration of the plan, its evaluation, and analysis of various scenarios and alternatives using case study and game theory to help making decisions that enable the business to service and succeed in the changing environments. \n\t\t(508-110) Logistics and Operation Management; \nThe analysis and design of production systems in decision making context, principles of organization of various resources for production and conversion into goods and services, the delivery of productive resources, goods and services in various stages with efficiency and effectiveness, to enhance the ability to analyze and make decisions, strengthening competitiveness in different environments, planning and management of production, productive sequencing, quality management, logistic management and technology management of product and process. \n\t\t(506-222) International Business Management; \nPhilosophies and principles of international business management with comparison of transnational firm’s organizational systems, management of operation systems, planning and transnational control, human resource policy, business environment as well as study various issues relating to efficient management of policy and operations of international business. Process of international business negotiations, protocol, success factors and tactics. \n\t\t(508-220) Logistics and Supply Chain Management; \nThe development of logistics system and supply chain to support business strategy of business organizations by considering activities such as communications, inventory management, warehouse management, transportation and plant location, analyze the impact of logistics and supply chain on efficiency of business. \n\t\t700-111 Business Research Methods; \nStudy business research methodology, the various techniques for information gathering, data processing, the analysis of data, research report writing for use in decision making, research project development, planning research system, random sampling, questionnaire design, model building, quantitative analysis, data processing and analysis by computers, case study of research results and thesis writing practice. \n\t\t700-201 Business English for Graduate Studies; \nReading skill development, writing, technical reports, technical terms in business, biographies of prominent business personalities, participating in English speaking seminar simulation. More sophisticated external reading assigned. Modern business “jargon” and vocabulary. \n\n\Elective Courses \n\t\t\t\tACCOUNTING GROUP: \n\t\t501-220 Accounting System Design; \n\General knowledge about accounting system relating to business sector and internal control, relationship between business management and accounting information system. Accounting theories and process of accounting system design suitable for many types of business requirement, practical application for accounting system design by using case studies. \n\t\t501-221 International Accounting; \nAccounting and international financial reporting, concepts of financial planning and accounting conversion policies, conversion of foreign currencies. Impact of economic environments to international accounting, report and data disclosure in financial statement for international business, accounting standard and international accounting audit, financial statement and tax analysis related to international business. \n\t\t501-222 Financial Analysis for Planning and Decision Making; \nTypes of budget, financial analysis methods, process of financial analysis for planning and decision making, by analyzing accounting information. Study of problems and limitations of financial statement for correct understanding and application, evaluation of business value by using profit and accounting information then, applying to price evaluation structure by accounting-based valuation framework. \n\t\t501-223 Budgets and Budgetary Control; \nProcess of financial budgets and operations as a tool for planning, profit, coordination and operation control. Cost analysis, budget report by activities. Accounting system for public sector and nonprofit organization. Techniques and budget method with the emphasis on productivity calculation, performance and effectiveness of organization. \n\t\t501-224 Accounting Information Systems; \nConcepts and problems of accounting system design, accounting system, revenue cycle, expense cycle, debt cycle, stock cycle, study of other accounting systems by using computer. Planning and information system control, for firm internal control by executive. \n\t\t501-225 Seminar in Managerial Accounting; \nAnalyze and discuss theories and concepts of managerial accounting and application to problem solving, policies setting, methods, and decision makings. Selection of various topics for research and accounting management under present environments by using case studies. \n\t\t500-302 Co-operation Education; \nStudents will spend the semester as an intern in a business corporation. After completion, they need to submit their performance results to a cooperation educational advisor of Siam University and a corporation staff for assessment. \n\nMarketing Management Group: \n\t\t502-220 New Product Development and Pricing; \nProcess of design and development of product and service, decision making on product selection. Use of research for design and product development, including study of basic products policies, product life cycles, product positioning and product portfolio, product testing and new product and service introduction, types of costs, policies and price setting strategies. \n\t\t502-221 Distribution Channel and Logistics Management; \nMarketing channel for merchandize and services, effective and efficient distribution network for goods and services, concept for logistic management, customers servicing, information systems, management of inventory and direct sale strategy, Multi-level Marketing or Network Marketing, using case studies. \n\t\t502-222 Promotion and Advertising Management; \nRelationship between marketing promotion and other marketing mix. Setting strategies, methods and planning for marketing promotion. Design and evaluation of different means of advertising, emphasizing the use of concepts and theories and research in marketing and communication, advertising in communication process, research conduct for strategic development of advertising estimation of advertising budget, role of advertising companies, design and evaluation of advertising. \n\t\t502-623 International Marketing; \nIdeas of marketing management in international businesses for planning and determining relevant strategies consistent with international market environments. Subject content covers the analyses of market differentiation, political, legal, economic, financial and cultural environments and consumer behaviors in the foreign countries. Organization planning for operations, and also the determination of marketing mix strategy for foreign markets. \n\t\t502-224 Marketing Research; \nResearch process applied for research conduct in marketing decision making, i.e. a sampling selection, a survey, an interview, data collection via post, telephone and other date collection, data analysis, research writing by study from previous marketing research and then an exercise in writing research reports. \n\t\t502-225 Integrated Marketing Communications; \nKey principles, strategies and tactics of Integrated Marketing Communications (IMC), emphasizing an on-going, interactive, cross- functional process of brand communication planning, execution and evaluation, and exploring the various methods of communications, including advertising, sales promotions, direct marketing, public relations, interactive and interpersonal contact, Examine the synergistic effect across communication approaches and considers the perspectives of all relevant stakeholders in such a way that brand value is maximized. \n\t\t502-626 Customer Relation Management; \nProcess of customer relationship management. Strategy for keeping existing customers, attracting new customers. Role and duties of executives, personal, technology and information in the management of customer relationship. Techniques in the management of customer relationship so as to enhance competitiveness and customers satisfaction. \n\t\t502-227 Retailing Strategy; \nStudy retailing trading concepts, shop position determination, competition between various retailing models, and technology impact on supply network, retailing shop management and using strategies focusing on customer. Strategies at shops level, shop, marketing catalog and other marketing media. i.e. television and radio. \n\t\t502-628 Service Marketing Strategy; \nUnique market for service and customers behavior for services, marketing mix for service business, process of marketing strategy includes planning, plan implementation, control and valuation of marketing plan for service business. \n\t\t502-629 Marketing Strategy; \nMarketing problems of business organization and non-profit entities, emphasizing the influence of consumers on purchases of goods, and market environments on decisions to devise strategy for marketing mix, product strategy, pricing strategy, distribution channel strategy and market communication strategy or market promotion strategy. Marketing process starts from planning to put the marketing mix strategy into practice. \n\t\t502-230 Seminar in Marketing Management; \nAnalyze and discuss theories and concepts of marketing and apply them to problem solving, policy settings, methods, decision makings by selecting various topics to support study, and making management under present, environments using case studies. \n\t\t505-631 Electronic Commerce Management; \nElectronic commerce concept, planning electronic commerce strategy, various technology concerning the security system and payment system, legal framework for electronic commerce, the application of electronic commerce in various business activities, advertising and market promotion, including Web design, website advertising, strategy and factors leading to success. \n\t\t500-302 Co-operation Education; \nStudents will spend a semester as an intern in a business corporation. After completion, they need to submit their performance results to a co-operation educational advisor of Siam University and a corporation staff for assessment. \n\nHUMAN RESOURCES MANAGEMENT GROUP: \n\t\t503-221 Information System for Human Resources Management; \nInformation System for Human Resources Management i.e. computer program, database system, data security system, employee’s evaluation system, design and development of computer software for effective human resources management. \n\t\t503-223 Communication in Management; \nImportance of communication for success of business executives, creation of better understanding and skills for effective communication. The subject covers factors between people, people and organization the influence communication management. Analyze communication setup and channels for individuals and groups, direct and indirect communication. Practical exercise about communication methods to meet the set objectives. \n\t\t503-224 Seminar in Human Resources Management; \nAnalyze and discuss theories and concepts of human resources management for application to problem solving, policies setting, strategy, decision makings in selection of various topics for research and human resource management in present environments by using case studies. \n\t\t507-220 Leadership and Change Management; \nLeadership theories, leadership styles, role of leaders in bringing change into the organization, ethics of leaders, change concepts and change management to keep pace with present and future situations. \n\t\t507-221 Negotiation and Conflict Management; \nTheory and, process of conflict management and negotiation within organization. Framework of conflict analysis and techniques for conflict resolution. Role of executives in conflict management, conflict dimensions and psychological dynamics between person, organization and culture, strategy and methods compromise and arbitration. Application of strategy and tactics performed for fair negotiation. \n\t\t500-302 Co-operation Education; \nStudents will spend a semester as an intern in a business corporation. After completion, they need to submit their performance results to a co-operation educational advisor of Siam University and a corporation staff for assessment. \n\nFINANCIAL AND BANKING MANAGEMENT GROUP: \n\t\t504-220 Financial Strategy and Tax Planning; \nPrinciple of financial management, and financial control of a company, both long term and short term. Principle of loan, investment and risk analysis. Implication of financial structuring and dividend payment policy. The roles and importance of taxes in strategic financial planning of a company. The study of tax to determine the company structure and investment in the appropriate assets. Using case studies. \n\t\t504-221 Money and Capital Markets; \nConcept of short term and long term funding for business purposes. Mobilization of short and long term funds in the money market, issue of short and long term financial instruments. Mobilization of long term funds in the capital markets, structures of capital markets, money market and financial institutions in Thailand. Floating of equity, investment in the stock and money market. Investment concepts and methodology in each market. This subject is useful for students in their preparation for Single License Examination. \n\t\t504-222 International Financial and Banking; \nKey concepts in international financial business management. International Monetary System, balance of payments, foreign exchange markets. International parity conditions, financial risk management, currency futures and options, exchange rate risk in trade settlement and business operations, translation risk in financial statement. Funding form international debt markets, and from international equity market, foreign direct investment international portfolio investment, international capital budgeting, and international working capital management. \n\t\t504-233 Financial Reporting Analysis; \nBasic concepts about financial statements/report analysis and International Financial Reporting Standard (IFRS) and accounting standards in Thailand. Earnings per share (EPS) concept and factors affecting EPS. Inventory analysis, fixed assets analysis. Income tax accounting, financial debts analysis, leasing contracts and off balance sheet debts. Pension and other forms of employee’s benefit/welfares. Analysis of intra company investment, merger and acquisition. International operation analysis. Financial report adjustment. Case studies about financial report analysis for each group of industry. \n\t\t504-234 Applied Corporation Finance; \nReview structure of financial knowledge and instruments in corporate finance. Case studies about financial statement analysis, working capital management, decision making for long term investment, funding structure analysis, dividend payment policy and company valuation. \n\t\t500-302 Co-operation Education; \nStudents will spend a semester as an intern in a business corporation. After completion, they need to submit their performance results to a co-operation educational advisor of Siam University and a corporation staff for assessment. \n\nINTERNATIONAL BUSINESS MANAGEMENT GROUP \n\t\t501-221 International Accounting; \nAccounting and financial report for international business. Concepts of planning and determining accounting policies, conversion of foreign currency value, impact of economic environments on international accounting, report and data disclosure in financial statement for international business, accounting standard and international audit. Analysis of financial statement and tax related to international business. \n\t\t505-631 Electronic Commerce Management; \nElectronic commerce concept, planning electronic commerce strategy, various technologies concerning the security system and payment system, legal framework for electronic commerce, the application of electronic commerce in various business activities, advertising and market promotion, including Web design, website advertising, strategy and factors leading to success. Analyze domestic and foreign case studies, and preparing investment project in electronic commerce. \n\t\t504-623 International Finance, Investment and Banking; \nFinancial management and administration of international banks, conditions and control mechanism, operation, investment, international financial system and financial and equity markets, principles of international financial management, international financial organizations, the international financial environment in which firms operate, the financial policy of nations and of international financial firms, capital inflow/outflow, emphasis on financial decision making of international business organizations and case studies. \n\t\t506-621 International Business Law; \nStudy the legal system governing international economic relations, its principle content and mechanism, treaties relating to copy rights, patents, selling contracts, trade agreements, ICC regulations relating to international trade, trading traditions and others, Thai legislations relating to international laws as well as international organizations involved in international economics and international business, analyze legal problems and issues affecting international business. \n\t\t510-220 Development of ASEAN Integration; \nDevelopment of ASEAN leading to ASEAN Economic Community in 2015 and financial integration in 2010. The meaning and implication of AEC in 2015 and financial integration in 2020. Latest legal structure and regulations in trade, financial investment and resources mobility across boundaries, specifically manpower and finance. The change in economic and legal structure, agreements and regulations to be forthcoming in the future and their implication on AEC. \n\t\t500-302 Co-operation Education; \nStudents will spend a semester as an intern in a business corporation. After completion, they need to submit their performance results to a co-operation educational advisor of Siam University and a corporation staff for assessment. \n\nGENERAL MANAGEMENT GROUP \n\t\t505-220 Business Database; \nStructure, techniques, benefit and limitation of database management. Construction, use and development of database file, including the study of the structure of database system. Components of database system that confusion together. The subject covers database development, database utilization and improvement, database management including various types of database structure, application of database to business environment. \n\t\t505-222 Information Technology and Supply Chain Managements; \nThis course focuses on the role of information technology (IT) in supply chain management. It also highlights the contribution of IT in helping to restructure the entire distribution setup to achieve higher service levels and lower inventory and lower supply chain costs. \n\t\t505-224 knowledge Management; \nKnowledge management concepts, knowledge types, transmission of knowledge, using technology for design and develop knowledge in an organization full of intellectual personalities, knowledge management problems, success and failure factors in development of knowledge, management system by using case studies. \n\t\t500-302 Co-operation Education; \nStudents will spend a semester as an intern in a business corporation. After completion, they need to submit their performance results to a co-operation educational advisor of Siam University and a corporation staff for assessment. \n\nHOTEL AND TOURISM MANAGEMENT GROUP \n\t\t509-221 Facilities management; \nModern technology and applying technology for facilities system design and facilities, new system for mechanism inside building, electronic system, fire protection system, energy savings and waste management. \n\t\t509-622 MICE and Incentive Tourism Management \nThis course examines the lucrative MICE industry (meetings, incentives, conventions, and expositions) that caters to the needs of business travelers and festivals and events (ranging from mega-events to community celebrations) that serve as tourist attractions for pleasure travelers. The role of an expert convention planner, destination management companies, hotel and related industries and organizations, incentive tourism strategies and the important of e-tourism. Process of international business negotiations, protocol, success factors and tactics. \n\t509-623 Sustainable Development of Tourism \nInvestigate impacts of tourism on economic, socio-cultural and physical environments. In addition, the course will explore the current impacts on tourism industry and sustainability and problem analysis solutions and decision making for planning and developing in sustainable tourism. \n\t\t509-624 Service Quality Management \nManagement and methods of service with ability to respond to customer needs, principles of continuous service quality development, quality rating, analysis and application of service strategy, development of service system to include training of manpower involved. \n\t\t509-625 Marketing Mechanism for Hotel and Tourism \nTheory of direct marketing and service marketing for practical use in the hotel and tourism Industry. Concepts analyzed include marketing mix components of products – presentation communication and distribution – customer retention, service deliveries, systems and Internet-based strategic marketing, hotel and tourism applications. \n\t\t509-626 Strategy for Hospitality Management \nBusiness practice of management strategy for international hotels and hospitality, system to manage international hotel chain, learns the tools to analyze and solve problems in hospitality management, e.g. medical tourism, long-stay and etc. \n\t\t500-302 Co-operation Education; \nStudents will spend a semester as an intern in a business corporation. After completion, they need to submit their performance results to a co-operation educational advisor of Siam University and a corporation staff for assessment. \n\nASEAN STUDIES AND MANAGEMENT GROUP \n\t\tStudents must study 510-220: Development of ASEAN Integration and 510-221: Doing Business in ASEAN and FTA and select 2 other subjects or select 500-302: Co-operation Education from the following list. \nMoreover, students must study a prerequisite 501-110 Managerial Accounting if they would like to study 502-223 International Marketing or students must study a prerequisite 502-110 Marketing Management if they would like to study 502-223 International Marketing or students must study a prerequisite 504-110 Financial Management if they would like to study 504-223 International Finance and Banking. \n\t\t501-221 International Accounting; \nAccounting and international financial reporting, concepts of financial planning and accounting conversion policies, conversion of foreign currencies. Impact of economic environments to international accounting, report and data disclosure in financial statement for international business, accounting standard and international accounting audit, financial statement and tax analysis related to international business. \n\t\t502-623 International Marketing; \nIdeas of marketing management in international businesses for planning and determining relevant strategies consistent with international market environments. Subject content covers the analyses of market differentiation, political, legal, economic, financial and cultural environments and consumer behaviors in the foreign countries. Organization planning for operations, and also the determination of marketing mix strategy for foreign markets. \n\t\t504-223 International Finance and Banking; \nKey concepts in international financial business, International Monetary System, balance of payment, foreign exchange markets, international parity conditions, financial risk management, currency futures and options. Exchange rate risks in trade settlements and business operations, translation risk in financial statement. Funding form international debt markets and from international equity markets, foreign direct investment, international portfolio investment, international capital budgeting and international working capital management. \n\t\t510-220 Development of ASEAN Integration; \nDevelopment of ASEAN leading to ASEAN Economic Community in 2015 and financial integration in 2010. The meaning and implication of AEC in 2015 and financial integration in 2020. Latest legal structure and regulations in trade, financial investment and resources mobility across boundaries, specifically manpower and finance. The change in economic and legal structure, agreements and regulations to be forthcoming in the future and their implication on AEC. \n\t\t510-221: Doing Business in ASEAN and FTA; \nPreparation and searching for business opportunities in the ASEAN countries, especially around Thailand boundary, including countries that ASEAN have free trade agreement (FTA) with the emphasis is on the study of the economic systems and business operations in the ASEAN Countries which are targets of Thai business especially in trade, finance, investment and manpower and resources mobility, in particular working opportunities in architecture, engineer and health services which are now open in ASEAN. \n\t\t500-302 Co-operation Education; \nStudents will spend a semester as an intern in a business corporation. After completion, they need to submit their performance results to a co-operation educational advisor of Siam University and a corporation staff for assessment. \n\n教学质量要求： \n\t\tMBA课程管理：由相关部门负责修改和维护相关课程的规章制度； \n\t\t教学资源管理：教材以及教学资源经常性整理，任课教师需要每学期提交相关教学材料； \n\t\t支持与建议：建立健全顾问制度，协助学生项目研究以及论文工作； \n\t\t就业市场评估：积极研究市场需求以及企业主管要求，以便调整教学大纲； \n\t\t质量保证：从毕业生质量、课程、教学、科研、学术服务、艺术与文化、学校发展等多方面进行维护与改善； \n\t\t为适应商业与经济环境需求，课程大纲的制定与修改周期因不超过五年。此外，研究会还将就毕业生的就业情况以及企业的满意程度，作为课程大纲修改与制定的重要依据。 </string>
+
+    <string name="academics_mba_6_string">时间安排 \n\t\t\t\t学期1 \n\t\t申请：5月1日至8月10日 \n\t\t上课：8月中旬 \n\n\t\t\t\t学期2 \n\t\t申请：9月1日至12月10日 \n\t\t上课：12月中旬 \n\n\t\t\t\t学期3 \n\t\t申请：1月1日至4月10日 \n\t\t上课：4月中旬 \n\t\t注：MBA每学期课时持续15周 \n\n申请材料 \n\t\t全年皆可申请，须填写申请表，并准备以下材料： \n\t\t本科成绩单一式两份，以及学术记录抄本 \n\t\t国际护照复印件两份 \n\t\t无犯罪记录证明 \n\t\t目的声明 \n\t\t推荐信两封（教授或暹罗大学校友） \n\t\tTOEFL、TOEIC或IELTS成绩单（如有） \n\t\t三张近期照片（3厘米*4厘米） \n\t\t申请费 \n\t\t申请流程（共有两种方式）： \n\t\t在暹罗大学自行申请。 \n\t\t申请人直接前来暹罗大学，向我校录取中心申请（录取中心位于我校19号楼1层），下一步是由工商管理研究生院或相关老师进行面试。 \n\n在所在国申请。 \n\t\t下载并填写申请表； \n\t\t将所有证明材料寄往International Affairs Office at Siam University at 235 Petkasem Road, Phasicharoen, Bangkok, 10163, Thailand； \n\t\t缴纳45美元申请费，可通过银行汇票或转账支付； \n\t\t我校招生委员会将审查您的材料，如果达到我校录取要求，将会给您寄送邀请函； \n\t\t申请人收到邀请函后可前往附近泰国使领馆申请学生签证（NON-ED）； \n\t\t最后，申请人前来曼谷并在指定地点报到。</string>
+
+
+    -<string name="academics_mba_7_string">
+
+-<![CDATA[院长：Dr. Vijit Supinit \nPh.D. (Economics), Hon. Ramkhamhaeng University \nM.A. (International Economics) Yale University, USA \nB.A. (Economics) Hons. The University of Manchester, UK  \nDean of Graduate School of Business, Siam University \nFormer Governor, Bank of Thailand \nFormer Chairman, The Export and Import Bank of Thailand \nFormer Chairman, The Stock Exchange of Thailand \nFormer Chairman, Security and Exchange Commission of Thailand \nFormer Chairman, G Steel Public Company Limited \nFormer Director and Chairman of Audit Committee, TMB Bank PCL \nChairman, The Apple Securities PCL \nChairman, The CEI PLC \n副院长：Dr. Pichit Eamsopana \nM.S (Economics) University of Nevada, USA \nB.Eng.(Construction Engineering) King Mongkut’s Institute of Technology \nB.A. (Public Administration) Ramkhamhaeng University     \n\nAsst. Prof.Dr.Surasvadee Rajkulchai \nDBA (International Business) Chulalongkorn University \nMBA (General Management) Nida B.S. (Business) \n\nDr. Karnjira Limsiritong \nDBA (Marketing) University of Newcastle, Australia \nM.Mkt. University of Newcastle, Australia \nM.Mgt. (Human Resources) Mahidol University \nB.A. (English) The University of the Thai Chamber of Commerce \n\n讲师： \nDr. Teerachote Pongtaveewould \nPh.D. (Marketing) University of Bradford, UK \nMBA (Business Administration) Assumption University \nBBA (Marketing) Sripatum University \n\nDr. Tanakorn Limsarun \nPh.D. (Management Science) Shinawatra International University \nM.M. (Electronic Commerce) Mhidol University \nBBA (Business Computer) Assumption University \n\nDr. Teetima Piyasirisilp \nPh.D. (Management Science) Shinawatra International University \nM.A. (Mass Communication Administration) Thammasat University \nB.A. (Radio&Television) the University of the Thai Chamber of Commerce \n\nDr. Toni Momiroski \nPh.D. (Environment Management) Mahidol University \nM.A. (Social Theory) Monash University, Australia \nB.E. (Education) Deakin University, Australia \n\nAj. Phairat Boonsuwan \nPh.D. (Candidate) Computer Information System, NIDA \nMBA, Business Administration Institute, Chulalongkorn University  \n(CIS) Computer Information, Assumption University \nBBA (Accounting) Assumption University ]]>
+</string>
+
+    <string name="academics_mba_8_string">地址：38 Siam University, Petchkasem Road, Phasi-Chareon District, Bangkok, 10160, Thailand  \n\n电子邮件: mba1@siam.edu  \n\n电话：+66 2 457 0068 ext. 5412 \n\n传真：+66 2 867 8092  \n\n工作时间：\n周二至周六（上午11点至下午7点）\n周六、周日（上午9点至下午7点）</string>
+
+    <string name="academics_mhrps_1_string">当今世界国家与组织见得矛盾与冲突，党派之间的对抗不断，但世界主流依旧是和平。联合国教科文组织鼓励在不同的大学为和平研究设立部门，其认为，通过训练一批研究和平学术的毕业生，通过这些学生的努力，世界将拥有一个更加美好的未来。暹罗大学是泰国提供这一特殊学科的几所大学之一，其归属于泰国大学事务司。 \n\n使命：MAPD学科的重要任务是激励和培养新一代的拥有全球性视野的领导者。 \n\n目标：提供研究生课程，课程旨在通过和平研究及外交手段来加强社会、文化和经济差异的理解；通过促进面向和平的性格和领导开发出新一代的人际关机技巧的领导人；使学生获得第一手的知识与经验，并且积极提供海外交流项目。 为什么要学习MAPD，从MAPD中能收获什么？ \n\nMAPD学科的毕业生能够学习不同的文化，掌握冲突管理和有效的谈判技巧，培养富有远见的领导人。 \n\n就业去向？ \n\t\t您可以在外交部工作； \n\t\t您可以在联合国工作； \n\t\t您可以做使馆大使； \n\n您可以成为一名人权活动家； \n\t\t您可以组织冲突管理工作； \n\t\t您可以在人力资源部门工作； \n\t\t您可以在移民局、国家安全部门、派出所工作； \n\t\t您可以在政府部门工作； \n\t\t您可以在任何国际组织工作。</string>
+
+    <string name="academics_mba_acname">MBA</string>
+
+    <string name="academics_mhrps_2_string">\t\t\t\t什么是和平研究和外交艺术硕士？ \n\t\t\t\t暹罗大学开设的和平研究和外交艺术硕士是一门致力于高品质国际彼岸准教育的项目。项目旨在激励新一代通过外交或其他手段开拓全球社会视野和期望维护世界和平的新一代领导人，MAPD项目主要通过案例研究方式，同时兼具实际操作锻炼。 \n\t\t\t\t专业代码：MAPD \n\t\t\t\t专业学制：3个学期（1年半至2年） \n\t\t\t\t证书颁发：暹罗大学和平研究和外交艺术硕士</string>
+
+    <string name="academics_mhrps_3_string">A类型（论文） \n核心课程：24个学分 \n硕士论文：12个学分 \nB类型（非论文） \n核心课程：24个学分 \n选修课程：9个学分 \n总计36个学分 \n\n学分设置 \n专业：24个学分 \n选修：9个学分 \n独立：3个学分 \n总计：36个学分 \n\n主要课程（24个学分） \n（781101）和平与治理 \n（781103）和平，冲突和安全 \n（781104）研究方法在和平研究所 \n（781105）新的国际政治经济新秩序 \n（781106）国际关系亚太地区的理论区 \n（781107）发展理论和解决冲突 \n（781108）国际组织和区域整合 \n选修课程（9个学分） \n（781301）科学，技术和良好的治理 \n（781302）人权，正义与和平 \n（781303）政治文化与社会变迁 \n（781304）公共政策研究 \n（781305）国际公法 \n（781306）民族主义与种族 \n（781307）组织冲突管理 \n（781308）领导和管理 \n（781309）公民社会与新政治 \n（781310）区域主义在东南亚 \n（781311）后现代主义 \n（781312）武器扩散和控制 \n（781313）气候变化与全球治理 \n（781314）外交和领事法 \n\n独立研究学分（3）</string>
+
+    <string name="academics_mhrps_4_string">时间安排： \n8月开始第一学期，次年2月开始第二学期，夏季学下6月开始。 \n全年可申请。 \n\n入学要求： \n学士学位 \n如没有英语水平证明需参加英语水平考试 \nMAPD教师面试 \n\n申请材料： \n本科成绩单一式两份，以及学术记录抄本 \n国际护照复印件两份 \n无犯罪记录证明 \n目的声明 \n暹罗大学教授或校友的推荐信 \nTOEFL、TOEIC、IELTS成绩单 \n3张近期照片（3厘米*4厘米） \n申请费</string>
+
+    <string name="academics_mhrps_5_string">主席：DR. SORAJAK KASEMSUWAN 博士（国际法），伦敦大学 硕士（法学），伦敦大学 学士（法律、政治），阿伯利斯特维斯大学 主任：ASSCO. PROF DR. TATREE NONTASAK \n博士（社会学），密西西比州立大学 \n硕士（社会学），密西西比州立大学 \n学士（经济），泰国法政大学 \n全职讲师： \nPol. Col. Dr. Chitpol Kanchanakit \nMr. Akrapong Chalermnon \nMr. Ricardo Lucio-Ortiz \nDr. Eakpant Pindavanija \n客座讲师： \nProf. Dr. Kramol Tongdhamachart \nProf. Dr. Likhit Dhiravegin \nProf.Dr. Chaiwat Khamchoo \nAssociate Prof. Dr. Jomphong Mongkhonvanit \nAssociate Prof. Dr. Wichian Premchaiswadi \nAssociate Prof. Dr. Preecha Hongkrailert \nAssociate Prof. Dr. Sunya Sunyavivat \nAssociate Prof’ Dr. Jade Donavanik \nDr. Kuntida Chancharoen \nDr. Vudhi Leelakusolvong \n项目协调员： \nAjarn Orawan Siddhiwicharn \nAjarn Worrawan Jirathanapiwat \nMr. Yakubu Abdallah \nAjarn Papaphit Srid </string>
+
+    <string name="academics_mhrps_6_string">地址：Master of Arts Program in Peace Studies and Diplomacy, 38 Siam University, Petchkasem Road, Phasi-Chareon District, Bangkok, 10160, Thailand  \n电话：+66-24570068 ext.5412 \n传真：+66-286860000 ext.5366 \n电子邮件：siamu.peace@siam.com \n网址：http://www.peace.siam.edu \n工作时间：周一至周日（上午8点半至下午4点半）</string>
+
+    <string name="academics_mhrps_acname">和平研究和外交艺术硕士</string>
+
+    <string name="academics_dc_acname">中华国际学院</string>
+
+    <string name="academics_dit_1_itemtitle">专业概况</string>
+
+    <string name="academics_detail_acname">详细信息</string>
+
+    <string name="academics_detaildefultstring">...</string>
+
+    <string name="academics_dit_2_itemtitle">课程简介</string>
+
+    <string name="academics_dit_1_string">暹罗大学的信息技术博士专业课程是重点学科课程，学科内容包括理论与应用计算、信息系统、互联网技术以及电信与信息技术管理前沿等。</string>
+
+    <string name="academics_dit_2_string">我校信息技术博士为研究型学位，强调攻读学位者应至少在相关学术期刊中发表学术论文一篇。课程目标是将计算机科学、商业、信息系统、软件工程和电信等学科向结合，推进当代信息技术的研究与实践。</string>
+
+    <string name="academics_dit_3_itemtitle">申请须知</string>
+
+    <string name="academics_dit_3_string">暹罗大学的信息技术博士专业课程是重点学科课程，学科内容包括理论与应用计算、信息系统、互联网技术以及电信与信息技术管理前沿等。我校信息技术博士为研究型学位，强调攻读学位者应至少在相关学术期刊中发表学术论文一篇。课程目标是将计算机科学、商业、信息系统、软件工程和电信等学科向结合，推进当代信息技术的研究与实践。 </string>
+
+    <string name="academics_dit_4_itemtitle">选拔方式</string>
+
+    <string name="academics_dit_4_string">我校将根据以下标准录取： \n英语能力测试； \n信息技术领域的分析能力； \n硕士研究生学历； \n填写完成入学申请表以及身份认定； \n毕业成绩单或同等工作证明一式两份； \n两封供参考的推荐信； \n三张六个月内2寸免冠证件照片（不戴眼镜及帽子）； \n申请人所在国身份证明复印件两份。 \n最终选取结果由暹罗大学研究生教育委员会决定。</string>
+
+    <string name="academics_dit_5_itemtitle">学习计划</string>
+
+    <string name="academics_dit_5_string">A类型：相关论文学分共计须获得69个学分。 \nB类型：相关课程学分共计须获得69个学分以及完成学位论文。 \n语言要求：英语。 \n课程时间：信息技术博士学位为三年制，所有学生必须在6年内完成所有学位授予要求（从入学第一学期开始算起）；每学年由两个学期，每学期不少于15周。 </string>
+
+    <string name="academics_dit_6_itemtitle">课程目录</string>
+
+    <string name="academics_dit_6_string">必修课程： \n信息系统； \n管理信息系统； \n静态信息技术； \n信息技术下的战略业务管理； \n研究方法； </string>
+
+    <string name="academics_dit_7_itemtitle">教职员工</string>
+
+    <string name="academics_dit_7_string">MICHAEL B.SPRING（副教授） \n电子商务和电子市场、WEB服务、WEB语义、社交网络和集成智能；分布式系统、安全编码。 \n\nMAREK DRUZDZEL（教授） \n新技术的政策和行业影响、频谱交易、技术标准及其对行业的影响。 \n\nMARTIN B.H WEISS（副教授） \n决定支持体系、策略规划、不确定性下的决策、智能决策理论方法。 \n\nPAUL MUNRO（副教授） \n联接系统、神经信息处理、图像处理、建模与仿真、可视化、遗传算法。 \n\nJAMES B.D JOSHI（副教授） \n前端访问控制、分布式多媒体系统安全、系统和网络的生存性、IPv6和移动安全。</string>
+
+    <string name="academics_doctor_grouptitle">博士（留学生）</string>
+
+    <string name="academics_dit_acname">信息技术博士（DIT）</string>
+
+    <string name="academics_dit_8_string">地址：38 Siam University, Petchkasem Road, Phasi-Chareon District, Bangkok, 10160, Thailand  \n电子邮件: studentadmission@siam.edu  \n电话：+66-2-867-8071 \n传真：+66-2-868-6657 \n网址：http://www.phd-it.siam.edu/ \n工作时间：周一至周五（上午8点半至下午4点半）</string>
+
+    <string name="aboutus_honorsystem_string">荣誉</string>
+
+    <string name="academics_bht_acname">酒店管理和旅游管理本科</string>
+
+    <string name="gallery_campus_itemtitle">校园</string>
+
+    <string name="gallery_computerlab_itemtitle">计算机实验室</string>
+
+    <string name="gallery_finlab_itemtitle">金融实验室</string>
+
+    <string name="gallery_food_itemtitle">食堂</string>
+
+    <string name="gallery_lib_itemtitle">图书馆</string>
+
+    <string name="gallery_maruarylib_itemtitle">玛芸图书馆</string>
+
+    <string name="gallery_sports_itemtitle">体育馆</string>
+
+    <string name="news_acname">新闻</string>
+
+    <string name="gallery_studentac_itemtitle">学生活动</string>
+
+    <string name="schoolloginname">\t\t姓名</string>
+
+    <string name="app_language">这是中文版本</string>
+
+
 </resources>

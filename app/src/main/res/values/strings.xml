@@ -6,4 +6,1046 @@
     <string name="head_1">Siam University</string>
     <string name="head_2">Nearby</string>
     <string name="head_3">Information</string>
+
+
+    <string name="app_language">this is english version</string>
+
+    <string name="main_aboutUs">About us</string>
+
+    <string name="main_academics">Academics</string>
+
+    <string name="main_admission">Admission</string>
+
+    <string name="main_studentVoice">Student Voice</string>
+
+    <string name="main_news">News</string>
+
+    <string name="main_sports">Sports</string>
+
+    <string name="main_gallery">Gallery</string>
+
+    <string name="main_socialMedia">Social Media</string>
+
+    <string name="main_library">Library</string>
+
+    <string name="main_studentLogin">Student Login</string>
+
+    <string name="main_calendar">Calendar</string>
+
+    <string name="main_video">Video</string>
+
+    <string name="main_suStaffs">SU Staffs</string>
+
+    <string name="main_award">Awards</string>
+
+    <string name="main_map">Map</string>
+
+    <string name="main_contactUs">Contact us</string>
+
+    <string name="main_school" translatable="false">School</string>
+
+    <string name="title_activity_welcome" translatable="false">WelcomeActivity</string>
+
+    <string name="dummy_button" translatable="false">Dummy Button</string>
+
+    <string name="dummy_content" translatable="false">DUMMY\nCONTENT</string>
+
+    <string name="aboutus_history_string">\b \b \b \b Siam University was founded in 1965 by the late Dr. Narong Mongkhonvanit as the first 3-year private engineering school in Thailand. It began by educating a student body of only two hundred, offering only one program, Mechanical Technical Power, which led to the equivalent of an associate’s degree (two-year) in the United States by virtue of the Thai Private School Act. In 1973 the Siam Technical College, was formally established as a private, higher education institution with the authorization to grant degrees. Soon after, in 1975, the university launched programs leading to a bachelors’ degree in Accounting, Marketing or Secretarial Science. Within those programs, students majored in banking, finance, personnel management or marketing. Later, in 1986, Siam Technical College became Siam Technical University, and three years later became ‘Siam University’ to show diversity in fields of study. Over nearly five decades of steady growth and development, driven by a devotion to academic excellence, Siam University has contributed more than 60,000 graduates in various fields to Thailand’s national work force as well as other countries around the world. In fact, it has become the fifth largest private university with a student body containing over 16,000 students across eight schools, including an International and Graduate Program.</string>
+
+    <string name="aboutus_message_from_the_president_string">\b \b \b \b The world is getting advanced everyday through sustainable development, and as long as change is pervasive, transformation remains constant. There are three ways of attaining a sustainable development which can be economy, environment, and society. By the means of globalization; internationalization and modernization can be obtained which a society prospers. This is what we are striving for is a society to be a good figure of sustainable development for the rest of the world. \n\b \b \b \b Our mission is to give our students the best and assist them to attain an education at its peak. We are also on a mission of creating an environment of practical education with burden of different kind of modern technologies, where our students will know the differences in key concepts and theoretical meanings taught in their various lectures and establish a link between them. \n\b \b \b \b In our university, we have a good number of resources under our possession that can enable a student to attain any form of life he/she seeks for; including sports house, recreation centers, computer rooms and centers, music and dancing rooms, meeting points and study rooms, high standard and well-decorated libraries and even laboratory rooms, computer centers, and other facilities a highly respected institution can offer. We also have adequate facilities and amenities in every faculty of studies, and we possess a wide range of modern technologies in each and every department. In contrast, our university is at the same educational standard, including qualified staffs and professional lecturers with vast academic excellence, compared with other accredited universities abroad. We are strongly recognized by the affiliations of the IAU, ARTDO, AUAP, EUHOFA, GUNI, IAUP and ASAIHL.\n \b \b \b \b Due to these massive developments, we ensured that the necessary equipment and facilities are provided and maintained to help students in their respective future careers. It’s also the responsibility of the university to make sure that the academic needs are fully met and well attended for the betterment of the students.\n As the president of this institution, it will always be a great honor for me to welcome you into our university. It will also be a privilege for me to be part of your academic life at Siam University. And, I will be solely delighted to have you in our midst.\n\n Dr.Pornchai Mongkhonvanit\n\n President</string>
+
+    <string name="aboutus_missionandvison_string">\b \b \b \b Siam University has used educational innovation and state-of-the-art technology to supply its students with the knowledge and skills they will need to succeed at the dawn of this new century. Siam’s mission is to produce students who are competent, efficient and confident in their fields of study and ultimately in their chosen fields of work. These traits along with a sound ethical and moral grounding, and an understanding of diversified cultures, will provide them with the insight and abilities needed for continuing development after their school years have concluded. To help achieve these objectives, Siam University has promoted research, extended educational services, and concentrated on national cultural preservation through close cooperation with local communities and industries.</string>
+
+
+    -<string name="aboutus_strategies_string">
+Unique Destination \n \b \b \b \b Spice up your student life by studying in the Land of Smile for a semester or for an entire degree! Develop borderless networks of friends and collect unforgettable memories from an exotic place! International students at Siam University have plenty of opportunities to experience the unique culture of Thailand and its Southeast-Asian neighboring countries, which is reflected in every aspects of life including education and business. Many business administration students have chosen to come to Thailand to take advantage of the unique internship opportunities available in some of the finest hotels and airlines of the world. \n \n Relevant Course Offering \n \b \b \b \b SIAM offers international students with a complete cycle of studies in business administration, from undergraduate to postgraduate levels, thus answering the ever-increasing needs for competent human resources and leaders in today’s global market. \n \b \b \b \b Our faculty includes a number of business gurus, practitioners and scholars. Based on American model of business education, our curriculum has been designed to reflect the dynamism of today’s business world. In addition areas and cultural studies and activities are offered to perfect your learning experience. \n \n High Expectations! \n \b \b \b \b Undertaking university studies means that you have high expectation for your future. SU is here to help you in laying solid foundation for your future and help you make the transition to your career life. It has a track record of award-winning students and successful alumni. For many of them SU is a real rewarding experience. \n \b \b \b \b Some students land the job they always dreamed about, others are accepted in world-class universities to further their studies. They leave SU with a lifelong network of international friends. \n \n Research
+-<![CDATA[&]]>Innovation \n \b \b \b \b SU believes that creativity and free expression of one’s talents is key to achieving excellence. Members of faculty provide tools and resources to assist students in making broad use of their inquisitive potential. Instructors make use of term projects, such as the creation of business plan, case studies and other problem-based learning methods. \n \b \b \b \b These efforts are regularly rewarded with concrete achievements: some research articles are published in international referee journals; students win awards and even get their inventions patented; and some are awarded scholarship and grants. \n \b \b \b \b It is no wonder therefore that many universities worldwide have entered into a collaboration relationship with SU in order share resources, faculty and students. \n \n Dynamic Life-Style \n \b \b \b \b Various activities are organized throughout the year such as cheer leader and sport contests, an inter-cultural day, Chinese Spring Festival, Songkran-water Festival, Loy Krathong, Christmas and New Year. Also joining the field trips; seminars; fairs; contests; and various festivals celebrations. \n \b \b \b \b Getting involved in club activities and volunteering offer students yet another opportunity to express their ideas, develop new skills, socialize and relax. \n \b \b \b \b Many students also seize the opportunity to help as short-term staff during conferences and trade fairs organized in Bangkok, thus gaining valuable insight on the business world and their future career. \n \n Affordable \n \b \b \b \b Studying at SIAM is financially attractive as tuition fees are very competitive and the cost of living in Thailand is more affordable than most other destinations of comparable living standards. That is good value for money, which makes this a worthwhile learning experience. Many students choose to do part of their studies here before moving on to continue their graduate studies in leading institutions of the US and Europe. \n \n International Exposure \n \b \b \b \b Study at SU if you are looking for a truly international experience. Located at the cross-road of Asia, Bangkok is a truly cosmopolitan city where cultures mingle in a colorful global community. Numerous international organizations such as the United Nations and UNESCO have their offices in the city. \n \b \b \b \b The university enjoys one of the largest international campus communities in Thailand. Some 300 students from abroad are currently enrolled in classes taught by instructors from Europe, the US and Asia Pacific. \n \b \b \b \b Also SIAM graduates have the advantage to join a global network of alumni upon graduation. \n \n First-Class Facilities \n \b \b \b \b Apart from learning from qualified professors, students thrive in their studies when they have access to an exhaustive library; fully-functional classrooms; up-to-date equipment and a friendly campus. \n \b \b \b \b Students at SU enjoy 5-star classrooms and auditoriums. They have access to hundreds of thousands of printed and electronic publications at the central library, digital media; broadband internet. \n \b \b \b \b The campus features cozy study corners; rest areas; gardens; convenience stores; a bank; a post office and many cafeterias and food outlets. \n \n Unique Encounters \n \b \b \b \b Each year, SU invites world leading experts and scholars to address the student community on current topics and world issues. These seminars brings added value to students’ academic life. And each year, SIAM organizes and celebrates United Nations International Day of Peace during 21 September in collaboration with Siam University Graduate Dept. of Arts in Peace and Diplomacy studies. \n \b \b \b \b Recently, Nobel Prize laureate Prof. R. Mundell delivered a speech on the timely topic: “Fitting Globalization into the National Economic Development strategy”, and Dr. Fidel V. Ramos, former President of the Republic of the Philippines, gave a speech on the subject, “Education, Education, and Education for a Better Future”.
+</string>
+
+
+    -<string name="aboutus_internationalcolleborations_string">
+\b \b \b \b Siam University has signed many ‘Memorandum of Understanding’ and academic contracts with some of the world’s foremost institutions of higher education. The purpose of these collaboration efforts with a variety of universities in the United States, Europe, Asia, and Australia is to exchange help and support in academic and technological pursuits. Close relationships with such universities and institutions have shaped and encouraged projects for exchanging teachers, students, academic documents and journals, as well as the development of educational formats, curriculum, and teaching methodologies. \n \b \b \b \b Siam University maintains regular relationships with the following institutions: \n 1. Australia National University, Australia \n 2. Edith Cowen University, Australia \n 3. International College of Tourism and Management, Australia \n 4. Macqaurie University, Australia \n 5. University of Newcastle, Australia \n 6. IMC University of Applied Sciences, Austria \n 7. University of Information Technology
+-<![CDATA[&]]>Sciences, Dhaka, Bangladesh \n 8. Univap-Universidade do Vale do Paraiba of Sao Jose dos Campos, Sao Paulo, Brazil \n 9. Universidad Tecnica Federico Santa Maria, Chile \n 10. Universidad de Vina del Mar, Chile \n 11. Aalborg University, Denmark \n 12. Haaga Institute, Finland \n 13. Mercurial Business School, Finland \n 14. Oulu Business School, Finland \n 15. Budapest University of Technology and Economics, Hungary \n 16. University of Tehran, Iran \n 17. Iwate University, Japan \n 18. Ritsumeikan University, Japan \n 19. Tokai University, Japan \n 20. Kyung Hee University, Korea \n 21. Pukyong National University, Busan, Korea \n 22. Notre Dame University, Lebanon \n 23. Universidad Autonoma de Guadalajara, Mexico \n 24. Angeles University, Philippines \n 25. Far Eastern University, Philippines \n 26. Anyang Normal University, P.R. China \n 27. Beijing Haidian University, P.R. China \n 28. Guangdong University of Foreign Studies, Guangzhou, P.R. China \n 29. Guangxi University of Finance and Economics, P.R. China \n 30. Gulzhou University, P.R. China \n 31. Henan University, P.R. China \n 32. Louyang Normal University, P.R. China \n 33. Macau University of Science and Technology, P.R. China \n 34. Ming Chuan University, P.R. China \n 35. Private Hualian University of Guangzhou, P.R. China \n 36. SIAS University, P.R. China \n 37. Shanghai International Studies University, P.R. China \n 38. Teachers’ College of Shenyang University, P.R. China \n 39. University of Macau, P.R. China \n 40. Yunnan Normal University, P.R. China \n 41. Yangzhou University, P.R. China \n 42. Yunnan University of Finance and Economics, P.R. China \n 43. Zhejiang Gongshang University, P.R. China \n 44. Technical University “GH, ASACHI” of Iasi, Romania \n 45. Far Eastern National University, Russia \n 46. North Ossetian K.L. Khetagurov State University, Russia \n 47. Ming Chuan University, Taiwan \n 48. Liverpool John Moores University, U.K. \n 49. Ball State University at Muncie, U.S.A. \n 50. Eastern Kentucky University, U.S.A. \n 51. Edgewater College at Madison, U.S.A. \n 52. Oklahoma State University, U.S.A. \n 53. Purdue University, U.S.A. \n 54. Tennessee State University, U.S.A. \n 55. University of Houston, U.S.A. \n 56. University of Illinois, U.S.A. \n 57. University of South Florida, , U.S.A \n 58. University of Pittsburg, U.S.A. \n 59. University of Wisconsin-Madison, U.S.A. \n 60. Vinakaya Missions University, Vietnam \n \b \b \b \b In addition, Siam University has gained accreditation and recognition as a member of the following organizations: the International Association of Universities (IAU), the International Association of University Presidents (IAUP), the International Association of Hotel Schools (EUHOFA), the Association of Southeast Asian Institutions of Higher Learning (ASAIHL), the Asian Regional Training and Development Organization (ARTDO), and the Association of Universities in Asia and the Pacific (AUAP). Siam University has also been appointed to house the Southeast Asia office of the International Association of University Presidents (IAUP) and the APEC Youth Center. The university’s current president, Pornchai Mongkhonvanit, was honored to have been selected by the IAUP as President from July 2005 through 2008 term and is currently an advisory to the association.
+</string>
+
+
+    -<string name="aboutus_studentconductpolicy_string">
+\n \b \b \b \b The general principle governing student conduct standards and rules at Siam University is that students are expected to conduct themselves as mature and responsible individuals. \n Academic Rules
+-<![CDATA[&]]>Standards of Conduct \n The following acts of academic misconduct are facing academic sanctions, including but not limited to a grade reduction, failing grade (F), suspension or dismissal from the program or the University: \n • Plagiarism, falsification of information rendered and/or academic cheating \n • Signing an attendance sheet in behalf of a fellow student who is absent \n • Harassing teachers in order to obtain University privileges or grades to which the student is not entitled \n It is a violation of the code of conduct for a student to witness another student’s violation of the code of conduct and withhold that information from the appropriate authority. All violations must be immediately reported to the course instructor or Program Director. All students will be held to the highest standards of conduct. \n Non-Academic Rules
+-<![CDATA[&]]>Standards of Conduct \n All students are expected to have a considerate and respectful demeanor towards their teachers and fellow students. Here are some examples of situations in which you are requested to act with consideration: \n • Arrive in time to class in order to avoid disturbing the teaching session in process. \n • Ask both the teacher’s approval and your fellow classmate’s before audio taping the content of a class. \n • Avoid disrupting a lecture by answering phone calls in class. Turn off your mobile ring tone. If you expect a very important call, please leave class when taking the call. \n • When the instructor is lecturing, refrain from taking part in any other activities than those related to the subject being taught, such as reading or preparing another course’s material or assignments, etc. \n The international nature of the program offers both an enriching but also challenging experience. All students should understand and accept the cultural differences that exist among the international community and should be keen to accommodate each other’s differences in beliefs, culture, status and race. \n In order to promote personal development, protect the University community, and maintain order and stability on campus, students who engage in any of the following acts of misconduct may be subject to disciplinary sanctions, including but not limited to a grade reduction, failing grade (F), suspension or dismissal from the program or the University : \n • Physical or sexual assault, hazing, verbal abuse, threats, intimidation, harassment, coercion or any other behavior which threatens or endangers the health or safety of any member of the University community or any person on University premises or at University activities. \n • Attempted or actual theft, damage or misuse of University property or resources. \n • Unauthorized or improper use of any University property, equipment, facilities, or resources including unauthorized entry into any University room, building or premises. \n • Use, possession or distribution of any narcotic or other controlled substances on University premises or at University activities except as expressly permitted by law and University regulations. \n • Smoking in prohibited areas including but not limited to classrooms, toilets, hallways, elevators and restaurants. \n • Eating and drinking (including chewing gum) in certain rooms where it is forbidden, unless explicitly permitted for special reasons. \n • Misuse of the fire alarm. \n • Violation of Thailand Criminal Law on University premises or while participating in University activities. \n Complaint Procedures \n If your behavior creates a disturbance in class, your teacher will speak to you about the problem. If your behavior does not change, a meeting will be scheduled with the Program Director. If the problem still continues, you will not be permitted to attend the class, and you will be marked absent.
+</string>
+
+    <string name="aboutus_gradingsystem_string">LETTER \t \t MEANING \t \t \t VALUE \n A \b \b \b \b \b \b \b \b \b \b \b \b \b \b \b \b Excellent \b \b \b \b \b \b \b \t \t 4.00 \n B+ \b \b \b \b \b \b \b \b \b \b \b \b \b \b Very Good \b \b \b \b \b \b \b \b \b 3.50 \n B \b \b \b \b \b \b \b \b \b \b \b \b \b \b \b \b Good \b \b \b \b \b \b \b \b \b \b \b \b \b \b \t \t 3.00 \n C+ \b \b \b \b \b \b \b \b \b \b \b \b \b \b Fair \b \b \b \b \b \b \b \b \b \b \b \b \b \b \b \t \t 2.50 \n C \b \b \b \b \b \b \b \b \b \b \b \b \b \b \b \b Satisfactory \b \b \b \b \b \b \b 2.00 \n D+ \b \b \b \b \b \b \b \b \b \b \b \b \b \b Poor \b \b \b \b \b \b \b \b \b \b \b \b \b \b \b \b \b \t 1.50 \n D \b \b \b \b \b \b \b \b \b \b \b \b \b \b \b \b Pass \b \b \b \b \b \b \b \b \b \b \b \b \b \b \b \t \t 1.00 \n F \b \b \b \b \b \b \b \b \b \b \b \b \b \b \b \b Failure \b \b \b \b \b \b \b \b \b \b \b \b \b \t 0.00 \n S \b \b \b \b \b \b \b \b \b \b \b \b \b \b \b \b Satisfactory \b \b \b \b \b \b \b (noncredit) \n U \b \b \b \b \b \b \b \b \b \b \b \b \b \b \b \b Unsatisfactory \b \b (noncredit) \n W \b \b \b \b \b \b \b \b \b \b \b \b \b \b \b Withdrawal \n AU \b \b \b \b \b \b \b \b \b \b \b \b \b \b Audit \b \b \b \b \b \b \b \b \b \b \b \t \t (non-credit) \n I \b \b \b \b \b \b \b \b \b \b \b \b \b \b \b \b \b \b Incomplete \n P \b \b \b \b \b \b \b \b \b \b \b \b \b \b \b \b \b Work in progress \n NR \b \b \b \b \b \b \b \b \b \b \b \b \b \b No Report \n \b \b \b \b Letter Grades are used to show the academic standing of a student. The following are the grades, meanings of the grades and the values of the grades issued by this University:The student’s grades are computed at the end of each semester. The student is graded for his/her work during the semester. This includes quizzes, term papers, book reports, assignments, recitation, class participation, attendance, midterm examinations, and final examinations. \n \b \b \b \b Grades are accessible online with the use of the student’s ID (www.siam.edu). \n \b \b \b \b Withdrawal (W) grade: assigned by the instructor upon official withdrawal from class (see Course Add/Withdrawal). Non-failure. \n \b \b \b \b Incomplete (I) grade: indicates that the semester’s work is incomplete. “I” grades are granted at the instructor’s discretion. “I” grades revert to “F” if change is not made within the following term. \n \b \b \b \b Appeals of Grades \n \b \b \b \b A student who believes that a faculty member arbitrarily set his/her grades and that these do not represent his/her actual performance in that subject should… </string>
+
+    <string name="aboutus_internationalstudentcenter_string">\n \b \b \b \b Siam University comprises of Thai and International programs and they share the same academic calendar but operate in different ways. The programs are set in different systems for regulating activities conducted under each program to be in line with the University’s settings. \n \b \b \b \b The International Student Center was established to assist the newly international student at SIAM. The entire International programs in the University both Bachelor’s and Master’s programs, respectively, function under the office of International Student Center. \n \b \b \b \b SIAM also recruits students to work in the office of International Student Center (ISC), who is likely to work both inside and outside the university to ensure that the needs of the New Index are met. These students are responsible in supporting the new students with basic information about the University and its vicinity. \n \b \b \b \b Questions about Siam University are welcomed from the new students in the office of the ISC and, petition forms are dispatched in every program under the office of ISC for further clarifications new students might request from the University. \n The International Student Center (ISC) provides students with the following needs:- \n • Assistance and support in areas such as lodging; \n • Airport transfer on arrival; \n • Orientation of newly arrived students; \n • Advising and counseling; extra-curricular activities; \n • Internship and job placements; and more. \n • Visa extension; \n • Academic plans; \n The staff speaks English, Chinese, Thai and French for students who might prefer to be addressed in a different language. And, the pamphlets are printed at the office of the International Student center for international student guidebooks and basic instruction. \n International Student Center Office Hours: 8:00 AM – 4:30 PM Location: Building 19 on the 9th floor </string>
+
+    <string name="aboutus_honorsystem_string">\b \b \b \b Siam University was founded in 1965 by the late Dr. Narong Mongkhonvanit as the first 3-year private engineering school in Thailand. It began by educating a student body of only two hundred, offering only one program, Mechanical Technical Power, which led to the equivalent of an associate’s degree (two-year) in the United States by virtue of the Thai Private School Act. In 1973 the Siam Technical College, was formally established as a private, higher education institution with the authorization to grant degrees. Soon after, in 1975, the university launched programs leading to a bachelors’ degree in Accounting, Marketing or Secretarial Science. Within those programs, students majored in banking, finance, personnel management or marketing. Later, in 1986, Siam Technical College became Siam Technical University, and three years later became ‘Siam University’ to show diversity in fields of study. Over nearly five decades of steady growth and development, driven by a devotion to academic excellence, Siam University has contributed more than 60,000 graduates in various fields to Thailand’s national work force as well as other countries around the world. In fact, it has become the fifth largest private university with a student body containing over 16,000 students across eight schools, including an International and Graduate Program. </string>
+
+    <string name="aboutus_englishlanguagecenter_string">\n \b \b \b \b English Language is widely used in the world. It’s a Language used in conducting any kind of international businesses. And, most business disputes are settled using the English Language. \n \b \b \b \b In 2003, the English Learning Center (E.L.C.) was established to enhance the level of English proficiency among native Thai students before they graduate from Siam University and enter into the working world. Siam’s president, Dr. Pornchai Mongkhonvanit, created this directive to promote the university’s standard of excellence and further prepare the student body for international communication in the new millennium. The E.L.C. Staffs qualified native-speakers of English from North America and Europe to instruct comprehensive English, and teaches levels five and six of the six level English curriculums. \n \b \b \b \b A few years later, SIAM established another new English program to assist English learning Center and part-time students who studies in the evenings. The new program, English Laboratory Center (E.L.C) conducts in the areas of Listening and practicing conversational English, and teaches up to six levels of the required levels of English curriculums. \n \b \b \b \b SIAM has set out two different English departments to assist native Thai students with their English language skills. \n \b \b \b \b Functions of the two English departments:- \n English Learning Center \n English Laboratory Center \n • For every Thai students from first to fourth year of their students. \n • Students are expected to complete this program at the final year of their studies. \n • For every first and second year Thai students of Thai programs. \n • Students are expected to finish this program in their third year. \n English Learning Center 1 Office Hours: Monday – Friday 8:00.am – 4:30.pm Location: Building 19th on the 11th Floor \n English Laboratory Center 2 Office Hours: Monday – Saturday 8:00.am – 4:30.pm Location: Building 19th on the 12th Floor</string>
+
+    <string name="aboutus_internshipandcareerplacement_string">\n \b \b \b \b The world is full of career options and its complexities in managing available resources provided, with a huge number of unemployed graduates today, in which, it’s a greater challenge in searching for suitable jobs and future careers. That’s why the Career Center services in SIAM are for the benefits of the students and also serves as an agency for finding jobs for students at the point of their graduation. \n \b \b \b \b Career Center in SIAM is formed to assist students with their choice of career in the areas they specialize in. It starts with the assessment of a student’s personality, background, skills, needs and aspirations for the future. An advisor then makes suggestions about various career path options. The advisor also assists students in finding an internship position either in Thailand or abroad. This is an excellent opportunity for students to travel and get acquainted with their future career! International students can obtain useful information and advice concerning job and internship placement at the international student center (ISC). \n \b \b \b \b During your first year, the Career Center will introduce you to an amazing array of career possibilities and help you explore the link between academic majors and employment options. The Career Center is also dedicated to the development and implementation of innovative programs and services that promote lifelong career management skills for students. The office serves undergraduate students of all majors pursuing full-time positions and also internship. \n Career Center \n Office Hours: 8.am – 4:30.pm \n Location: Building 19 on the ground floor/ the offices at your left.</string>
+
+    <string name="aboutus_internationalaccrediation_string">Institutional Membership \n \b \b \b \b Siam University has gained accreditation and recognition as a member of the following organizations: \n \b \b \b \b International Association of Universities (IAU)IAU is the UNESCO-based World Association of Universities. Founded in 1950, it regroups more than 600 Members from approximately 120 different countries. \n \b \b \b \b International Association of University Presidents (IAUP)The International Association of University Presidents (IAUP) is an association of university chief executives from higher education institutions around the world. The primary purpose is to strengthen the international mission and quality of education of these institutions. \n \b \b \b \b International Association of Hotel Schools (EUHOFA)EUHOFA INTERNATIONAL is an association of hotel schools, represented by presidents, vice presidents and deans from the best hospitality schools, colleges and universities in the world, with a common purpose: to enhance the quality of training of the tourism industry throughout the world. \n \b \b \b \b Association of Southeast Asian Institutions of Higher Learning (ASAIHL)The Association of Southeast Asian Institutions of Higher Learning (ASAIHL) was established in 1956 to support universities in the promotion of excellence in teaching, learning and national and regional public service. \n \b \b \b \b Asian Regional Training and Development Organization (ARTDO)ARTDO International is a non-political, non-stock, non-profit organization, designed to encourage, support and carry out activities dedicated to promote human resource development – a pre-condition to economic growth and progress. \n \b \b \b \b Association of Universities in Asia and the Pacific (AUAP)At Present, AUAP has 218 regular members from 19 countries and territories as well as five associate members consisting of regional organizations based in three countries. \n \b \b \b \b University Mobility in Asia and The Pacific (UMAP)It is a voluntary association of government and non-government representatives of the higher education (university) sector in the region that aims to achieve enhanced international understanding through increased mobility of university students and staff. \n \b \b \b \b Also, Siam University has been appointed to house the Southeast Asia office of the International Association of University Presidents (IAUP) and the APEC Youth Center. \n \b \b \b \b Siam University is a member university of UMAP and as such is one of the universities that host UMAP 4-week courses every summer. UMAP is a voluntary association of government and non-government representatives of the higher education (university) sector in the region. UMAP aims to achieve enhanced international understanding through increased mobility of university students and staff. \n \b \b \b \b Siam University has been accepted as AACSB International member (The Association to Advance Collegiate Schools of Business). In Thailand, Siam University is the seventh member of AACSB on February 2011. \n \b \b \b \b AACSB International—The Association to Advance Collegiate Schools of Business is a global, nonprofit membership organization of educational institutions, businesses, and other entities devoted to the advancement of management education. Established in 1916, AACSB International provides its members with a variety of products and services to assist them with the continuous improvement of their business programs and schools. \n \b \b \b \b Siam University has also been accepted as the GUNI member (Global University Network for Innovation) on November 23rd, 2010 during the 5th International Barcelona Conference on Higher Education from 23-26 November 2010. In Thailand, Siam University is selected as the third University as the member of GUNI and every year Siam University has to report under the sub topic of Sustainable Development; Values and Ethics; Cooperation in Community and Local Development. \n \b \b \b \b The Global University Network for Innovation – GUNI is composed of the UNESCO Chairs in Higher Education, higher education institutions, research centers and networks related to innovation and the social commitment of higher education. 179 institutions from 68 countries are GUNI members. GUNI was set up in 1999 by UNESCO, the United Nations University (UNU) and the Technical University of Catalonia (UPC) after UNESCO’s World Conference on Higher Education of 1998 to give continuity to and facilitate the implementation of its main decisions. </string>
+
+    <string name="title_activity_gallery__library">Gallery_LibraryActivity</string>
+
+    <string name="large_text" translatable="false"> "Material is the metaphor.\n\n" "A material metaphor is the unifying theory of a rationalized space and a system of motion." "The material is grounded in tactile reality, inspired by the study of paper and ink, yet " "technologically advanced and open to imagination and magic.\n" "Surfaces and edges of the material provide visual cues that are grounded in reality. The " "use of familiar tactile attributes helps users quickly understand affordances. Yet the " "flexibility of the material creates new affordances that supercede those in the physical " "world, without breaking the rules of physics.\n" "The fundamentals of light, surface, and movement are key to conveying how objects move, " "interact, and exist in space and in relation to each other. Realistic lighting shows " "seams, divides space, and indicates moving parts.\n\n" "Bold, graphic, intentional.\n\n" "The foundational elements of print based design typography, grids, space, scale, color, " "and use of imagery guide visual treatments. These elements do far more than please the " "eye. They create hierarchy, meaning, and focus. Deliberate color choices, edge to edge " "imagery, large scale typography, and intentional white space create a bold and graphic " "interface that immerse the user in the experience.\n" "An emphasis on user actions makes core functionality immediately apparent and provides " "waypoints for the user.\n\n" "Motion provides meaning.\n\n" "Motion respects and reinforces the user as the prime mover. Primary user actions are " "inflection points that initiate motion, transforming the whole design.\n" "All action takes place in a single environment. Objects are presented to the user without " "breaking the continuity of experience even as they transform and reorganize.\n" "Motion is meaningful and appropriate, serving to focus attention and maintain continuity. " "Feedback is subtle yet clear. Transitions are efﬁcient yet coherent.\n\n" "3D world.\n\n" "The material environment is a 3D space, which means all objects have x, y, and z " "dimensions. The z-axis is perpendicularly aligned to the plane of the display, with the " "positive z-axis extending towards the viewer. Every sheet of material occupies a single " "position along the z-axis and has a standard 1dp thickness.\n" "On the web, the z-axis is used for layering and not for perspective. The 3D world is " "emulated by manipulating the y-axis.\n\n" "Light and shadow.\n\n" "Within the material environment, virtual lights illuminate the scene. Key lights create " "directional shadows, while ambient light creates soft shadows from all angles.\n" "Shadows in the material environment are cast by these two light sources. In Android " "development, shadows occur when light sources are blocked by sheets of material at " "various positions along the z-axis. On the web, shadows are depicted by manipulating the " "y-axis only. The following example shows the card with a height of 6dp.\n\n" "Resting elevation.\n\n" "All material objects, regardless of size, have a resting elevation, or default elevation " "that does not change. If an object changes elevation, it should return to its resting " "elevation as soon as possible.\n\n" "Component elevations.\n\n" "The resting elevation for a component type is consistent across apps (e.g., FAB elevation " "does not vary from 6dp in one app to 16dp in another app).\n" "Components may have different resting elevations across platforms, depending on the depth " "of the environment (e.g., TV has a greater depth than mobile or desktop).\n\n" "Responsive elevation and dynamic elevation offsets.\n\n" "Some component types have responsive elevation, meaning they change elevation in response " "to user input (e.g., normal, focused, and pressed) or system events. These elevation " "changes are consistently implemented using dynamic elevation offsets.\n" "Dynamic elevation offsets are the goal elevation that a component moves towards, relative " "to the component’s resting state. They ensure that elevation changes are consistent " "across actions and component types. For example, all components that lift on press have " "the same elevation change relative to their resting elevation.\n" "Once the input event is completed or cancelled, the component will return to its resting " "elevation.\n\n" "Avoiding elevation interference.\n\n" "Components with responsive elevations may encounter other components as they move between " "their resting elevations and dynamic elevation offsets. Because material cannot pass " "through other material, components avoid interfering with one another any number of ways, " "whether on a per component basis or using the entire app layout.\n" "On a component level, components can move or be removed before they cause interference. " "For example, a floating action button (FAB) can disappear or move off screen before a " "user picks up a card, or it can move if a snackbar appears.\n" "On the layout level, design your app layout to minimize opportunities for interference. " "For example, position the FAB to one side of stream of a cards so the FAB won’t interfere " "when a user tries to pick up one of cards.\n\n" </string>
+
+    <string name="action_settings" translatable="false">Settings</string>
+
+    <string name="academics_bachelors_grouptitle">Bachelors(International)</string>
+
+    <string name="academics_masters_grouptitle">Masters(International)</string>
+
+    <string name="academics_doctor_grouptitle">Doctor(International)</string>
+
+    <string name="academics_thaiprograms_grouptitle" translatable="false">Thai Programs</string>
+
+    <string name="academics_0_0_itemtitle">Bachelors of Business Administration</string>
+
+
+    -<string name="academics_0_1_itemtitle">
+
+-<![CDATA[Bachelors of Hotel & Tourism]]>
+</string>
+
+    <string name="academics_1_0_itemtitle">Masters in Business Administration</string>
+
+
+    -<string name="academics_1_1_itemtitle">
+
+-<![CDATA[Master of Human Rights & Peace Studies]]>
+</string>
+
+    <string name="academics_1_2_itemtitle">International Sino College of Siam University</string>
+
+    <string name="academics_2_0_itemtitle">Doctor in Information Technology</string>
+
+    <string name="academics_3_0_itemtitle" translatable="false">Faculty of Hotel and Tourism</string>
+
+    <string name="academics_3_1_itemtitle" translatable="false">Faculty of Bunsiness Administration</string>
+
+    <string name="academics_3_2_itemtitle" translatable="false">Faculty of Communication Arts</string>
+
+    <string name="academics_3_3_itemtitle" translatable="false">Faculty of Engineering</string>
+
+    <string name="academics_3_4_itemtitle" translatable="false">Faculty of Liberal Arts</string>
+
+    <string name="academics_3_5_itemtitle" translatable="false">Faculty of Information Technology</string>
+
+    <string name="academics_3_6_itemtitle" translatable="false">Faculty of Nursing</string>
+
+    <string name="academics_3_7_itemtitle" translatable="false">Faculty of Pharmacy</string>
+
+    <string name="academics_3_8_itemtitle" translatable="false">Faculty of Law</string>
+
+    <string name="academics_3_9_itemtitle" translatable="false">Faculty of Science</string>
+
+    <string name="academics_3_10_itemtitle" translatable="false">Faculty of Medicine</string>
+
+    <string name="title_button" translatable="false">BACK</string>
+
+    <string name="title_activity_maps">Map</string>
+
+    <string name="academics_bba_1_itemtitle">Program Prelude</string>
+
+    <string name="academics_bba_2_itemtitle">Program Description</string>
+
+    <string name="academics_bba_3_itemtitle">Your Career</string>
+
+    <string name="academics_bba_4_itemtitle">Curriculum</string>
+
+    <string name="academics_bba_5_itemtitle">Course Index</string>
+
+    <string name="academics_bba_6_itemtitle">Plan to Study</string>
+
+    <string name="academics_bba_7_itemtitle">Faculty Members</string>
+
+    <string name="academics_bba_8_itemtitle">Contact us</string>
+
+    <string name="academics_0_2_itemtitle">International Sino College of Siam University</string>
+
+    <string name="academics_dit_1_itemtitle">Program Prelude</string>
+
+    <string name="academics_dit_2_itemtitle">Program Description</string>
+
+    <string name="academics_dit_3_itemtitle">Admission Requirements</string>
+
+    <string name="academics_dit_4_itemtitle">Selection Method</string>
+
+    <string name="academics_dit_5_itemtitle">Study Plan</string>
+
+    <string name="academics_dit_6_itemtitle">Course Index</string>
+
+    <string name="academics_dit_7_itemtitle">Faculty Members</string>
+
+    <string name="academics_dit_8_itemtitle">Contact us</string>
+
+    <string name="academics_bba_1_string">This is a four-year undergraduate study program leading to the degree of Bachelor’s in Business Administration (BBA.) in International Business. The curriculum has been approved by the Ministry of University Affairs of Thailand. It is established in response to the increase market demands for human resources in this particular field in today’s global business community.\n \n \n The goals of the Siam University International Business Degree Programs\n \n \t\b \b• To provide students with essential information about doing business in an international arena;\n \t\b \b• We also aim at engaging our students in the development of the global business by attending to business conferences and meetings;\n \t\b \b• To encourage exemplary individual and corporate moral behavior; and\n \t\b \b• To provide students with the knowledge necessary for mastery of successful business and managerial skills and, also develop sense responsibilities in the business industry. </string>
+
+    <string name="academics_bba_2_string">What is International Business?\n\n International business comprises all commercial transactions (private and governmental, sales, investments, logistics, and transportation) that take place between two or more regions, countries and nations beyond their political boundaries. Usually, private companies undertake such transactions for profit; governments undertake them for profit and for political reasons. It refers to all those business activities which involve cross border transactions of goods, services, resources between two or more nations. Transaction of economic resources include capital, skills, people etc. for international production of physical goods and services such as finance, banking, insurance, construction e.t.c. In other words, businesses that involve two or more countries can be considered an International Business.\n\n Program Code: IBM\n\n Program Duration: 8 Semesters (4 Years)\n\n Certificate Awarded: Siam University Bachelor’s Certificate of Business Administration </string>
+
+    <string name="academics_bba_3_string">As the global economy continues to expand, the demand for international business graduates is higher and continued to increase, the number of courses offered in international business program is evidence of the increased in demand for quality and accredited education. This program has become one of the most common programs in Asia as a whole more especially South East Asia. In the business industries, there are a good number of challenges facing the expansion of businesses between borders; language difficulties and cultural differences, but the establishment of this program offers every student the opportunity to learn and gain enough knowledge in multi-cultural etiquette that surrounds the business environment.\n\n The curriculum for international business degrees comprises a wide range of management courses, business culture, business law and taxation, economics and marketing. You will learn how to conduct business worldwide.\n\n Why you should study international business and what you will gain?\n\n \t\t• An international business degree prepares you to compete in the global market;\n\n \t\t• You are assured of a better knowledge in business culture and moral behavior in the larger social community.\n\n \t\t• You will gain a greater command in conducting business across boundaries;\n\n \t\t• You will have multiple career options depending on the particular field in the Program you specialize on.\n\n \t\t• You will gain a good sense of social responsibility, and management skills that will help you develop businesses and financial skills.\n\n \t\t• The program contains quality education with special emphasis on the international aspects of Business Administration. Is all yours to gain.\n\n \t\t• Increases your potential and competitive edge in the job market with all courses in the program conducted in the English language-the language of international business-thus, establishing a vital link with the international business community.\n\n \t\t• Enhances yours ability to analyze the increasing synergy and trends in networking and globalization of current international business management and the elements which are vital to successful business operations in the international environment.\n\n \t\t• Instills in your perspectives on cultural aspects such as language, religion, customs, traditions, political practice, as well as local and regional business practices which are at issues in managing and administering international business practices. Our diverse international faculty members and student body will provide you with an excellent opportunity in this respect as well as the opportunity to interact with local business firms.\n\n What Can You Do With a Degree in International Business?\n\n There are several options for you, and these options are opened for every graduate in this particular field;\n\n MANAGERIAL ROLES\n\n \t\t• Financial Manager\n\n \t\t• Risk Manager\n\n \t\t• Marketing Executive and Operational Researcher\n\n \t\t• Chartered Management Accountant Retail Manager\n\n \t\t• International Logistics and distribution Manager\n\n \t\t• Management Analyst and Consultant\n\n \t\t• Business Manager and Entrepreneur\n\n \t\t• Human resources Officer\n\n OTHERS\n\n \t\t• International Accountant\n\n \t\t• Systems Analyst\n\n \t\t• International Economist\n\n \t\t• Corporate investment banker\n\n \t\t• International Banker\n\n \t\t• Government Foreign Ministry\n\n \t\t• Import/Export Specialist\n\n \t\t• Sales Executive and Sales Marketer\n\n </string>
+
+
+    -<string name="academics_bba_4_string">
+
+-<![CDATA[Course Name and Code First Year: First Semester (August-December), (17 Credits).\n(GS 121) Introduction to Sociology\n(GS 111) Thai Civilization\n(GS 104) Basic Mathematical Principles\n(IBS 101) Life and Environment\n(EN 101) English I (or other languages)\n(IBA 101) Principles of Accounting I\nCourse Name and Code\nFirst Year: Second Semester (January-April), (17 Credits)\n(GS 122) Society and Government\n(GS 112) Fundamentals of Philosophy and Religion\n(EN 102) English II (or other languages)\n(GS 113) General Psychology\n(GS 123) Society and Law\n(IBA 102) Principles of Accounting II\nCourse Name and Code Second Year: First Semester (August-December), (17 Credits).\n(EN 203) English III (or other languages)\n(IBE 201) Micro Economics\n(IBM 202) Principles of Marketing\n(IBS 200) Introduction to Computer\n(IBM 201) Organization and Management\n(IBM 203) Principles of Statistics\nCourse Name and Code\nSecond Year: Second Semester (January-April), (14 Credits).\n(EN 204) English IV (or other languages)\n(IBE 202) Macro Economics\n(IBM 209) Statistical Analysis in Business\n(IBF 201) Business Finance\nElective\nElective\nCourse Name and Code\nThird Year: First Semester (August-December), (17 Credits).\n(IBE 303) International Economics\n(EN 305) English V (or other languages)\n(IBA 303) Managerial Accounting\n(IBS 301) Internet and Package Program in business\nElective\nFree Elective\nCourse Name and Code\nThird Year: Second Semester (January-April), (14 Credits). \n(EN 306) English VI (or other languages)\n(IBM 302) Production and Operations Management\n(IBL 309) Business Law Elective Free Elective\nCourse Name and Code\nFourth Year: First Semester (August-December), (17 Credits).\n(IBM 401) Quantitative Analysis in Business\n(IBF 401) International Finance   & Banking (IBM 404) International of Goods Transportation (IBM 403) Management of International Business (IBL 404) International Trade Law (IBA 404) International Accounting & Taxation\nCourse Name and Code Fourth Year: Second Semester (January-April), (18 Credits).\n(IBM 402) Business Policy (IBM 406) Comparative Management of Multinational Enterprise (IBM 421) International Trade Operations (IBM 407) Seminar on International Business (IBM 411) International Marketing Elective\nGrand Total 135 Credits\nCourse Name and Code Summer Session I (April-June), (6 Credits)\nElective Free Elective\nCourse Name and Code Summer Session II (June-August), (6 Credits)\nElective Free Elective\n
+]]>
+</string>
+
+
+    -<string name="academics_bba_5_string">
+
+-<![CDATA[Note: Please select the curriculum from the Academic Year in which you started (or will be starting) your studies. An Academic Year begins in August and ends in July of the following year.\n
+Courses:\n
+The Course consists of:\n
+General Courses: 15 Courses\n
+The Core Courses: 15 Courses\n
+Major Required Courses: 10 Courses\n
+Major Elective Courses: 5 Courses\n
+Free Elective Courses: 2 Courses\n
+Total: 47 Courses \n
+General Education (3 credits each subject)\n
+GS.121 Introduction to Sociology\n
+GS.123 Society & Law\n
+GS.122 Society & Government\n
+GS.111 Thai Civilization\n
+GS.112 Fundamentals of Philosophy & Religion\n
+GS.113General Psychology\n
+GS.104 Basic Mathematical Principle\n
+IBS.101 Software Package and Internet in Business\n
+IBS.200 Introduction to Computer\n
+Major Elective Courses (Languages) (2 credits each subject)\n
+EN.101 English I EN.102 English II EN.203 English III EN.204 English IV EN.305 English V EN.306 English VI\n
+CH.101 Chinese I CH.102 Chinese II CH.203 Chinese III CH.204 Chinese IV CH.305 Chinese V CH.306 Chinese VI\n
+JA.101 Japanese I\n
+JA.102 Japanese II\n
+JA.203 Japanese III\n
+JA.204 Japanese IV\n
+JA.305 Japanese V\n
+JA.306 Japanese VI\n
+ \n
+Core Courses (3 credits each subject)\n
+IBE.202 Macro Economics\n
+IBM.202 Principles of Marketing\n
+IBA.101 Accounting I\n
+IBM.402 Business Policy\n
+IBM.401 Quantitative Analysis in Business\n
+IBM.302 Production & Operations Management\n
+IBL.309 Business Law 3 IBA.303 Managerial Accounting\n
+IBS.301 Internet & Package Program in Business\n
+IBM.209 Statistical Analysis in Business\n
+IBM.203 Principles of Statistics\n
+IBM.201 Organization & Management 3 IBE.201 Micro Economics\n
+IBA.102 Accounting II\n
+IBF.201 Business Finance\n
+ \n
+Major Required Courses (3 credits each subject)\n
+IBE.303 International Economics\n
+IBA.404 International Accounting & Taxation\n
+IBL.404 International Trade Law IBM.406 Comparative Management of Multinational Enterprise\n
+IBM.412 International Trade Operations\n
+IBM.411 International Marketing\n
+IBM.407 Seminar on International Business\n
+IBM.404 International Transportation of Goods\n
+IBM.403 Management of International Business\n
+IBF.401 International Finance & Banking\n
+ \n
+Major Elective Courses (3 credits each subject)\n
+IBM.205 Global Management Information System\n
+IBM.208 International Business Research\n
+IBM.307 Human Resource Management\n
+IBM.309 Cross Cultural Management\n
+IBE.304 International Monetary Economics\n
+IBM.210 International Negotiation\n
+IBF.403 International Portfolio Management\n
+IBM.409 Contemporary International Business\n
+IBM.410 Independent Project\n
+IBF.405 Advanced International Finance\n
+Free Elective Courses (3 credits each subject)\n
+IBM.100 Business Vocabulary (Jargon)\n
+IBM.206 Purchasing\n
+IBM.207 Advertising\n
+IBM.308 Principles of Hotel Management and Tourism\n
+IBM.405 Specialty Recruitment of Personnel\n
+]]>
+</string>
+
+    <string name="academics_bba_6_string">Entrance Requirements\n •\tGrade 12 transcript for undergraduate applicants or equipment as well as transcript of academic records.\n •\tTwo copies of International passport\n •\tA non-criminal record\n •\tStatement of purpose\n •\t2 letters of recommendation (from high school teachers + professor or alumni of SIAM)\n •\tResults of TOEFL, TOEIC or IELTS, if available\n •\t3 recent photographs (3x4cm)\n •\tApplication fees\n Documents and Application\n 1.\toriginal and photocopy of M6 certificate, high school diploma or its equivalent\n 2.\ta copy of the Thai citizen identification card and household registration or copy of passport\n 3.\tfour 3×4 cm. color photographs\n Intensive English Courses\n The applicants who pass the entrance examination in English are not required to take intensive English classes. For those who fail in the entrance examination, Siam University organizes two sixty-hour intensive courses in English.\n </string>
+
+    <string name="academics_bba_8_string">Program Dean: Mr. Rengson Muanchontham \n Telephone: (66)28678000 \n E-mail: rengson@siam.edu \n siamuniversitybkk@gmail.com \n Web site: http://www.inter.siam.edu\n Front Counter Hours: Mon – Fri (8:30a.m. – 4:30pm)\n </string>
+
+    <string name="academics_bba_7_string">Dean:\n Mr. Rengson \n Mualchontham\n Lecturers:\n Prof. J. Fred Miller \n Mr. Paul Henry \n Mr. David Seale \n Mr. Kevin Tylor\n Special Lecturers:\n Prof. Dr. Wanchai Rijirawanich \n Dr. Tanakorn Limsarum \n Dr. Pichit \n Dr. Chalermkiat\n Dr. Toumo Tapani Ravtakivi \n Mr. Rathavoot \n Mr. Pariwat \n Mr. Pithan \n Mrs. Yaowares \n Mr. Kriengsak\n </string>
+
+    <string name="academics_bht_1_string">Ideally, our international B.B.A. Program in Hotel and Tourism Management can be completed by studying full-time a four-year academic period. During the first two years of study, international students will fulfill their general education, information technology (IT), and language degree requirements. During the third and fourth years of study, international students complete their core coursework and electives as well as obtain professional work experience. In total, international students must complete 132 credits of coursework to graduate.\n The goals of Business Administration Programs in Service Industry management\n •\tTo maintain our unique international research, teaching mode for the success of our students;\n •\tTo increase students’ language proficiency and communication skills;\n •\tPrepare students to pursue graduate studies in the field of Hospitality Management and Business Administration;\n •\tTo train our students to become successful leaders in their various careers;\n •\tOur students have been successful in their respective careers. We aim to maintain that status to generate more successful alumni in this department;\n •\tTo encourage discipline amongst students and to understand the services in hospitality management and;\n •\tProvide students with technical and management skills necessary for supervisory and management positions in the hospitality industry.\n </string>
+
+    <string name="academics_bht_2_string">Hotel and tourism management has been one of the most diverse, challenging, largest, important, and fastest-growing industries in the world today. It has derived its reputation on the developments of tourism and rampant movements of people from place to place.\n The Department of Hotel and Tourism Management is so large that it offers different varieties of culture, administration and HR under business management to provide students with the skills they will need to compete successfully in the industry.\n What is Hotel and Tourism Management?\n Hotel and Tourism is a business study that comprises a wide range of hospitality management including rooms division, reception, restaurant operations, and customer service and satisfaction. Students who study in this program engage in interactions with people.\n Program Code: BBA (Hotel and Tourism Management)\n Fees:\n Program Duration: 8 Semesters (4 Years)\n Certificate Awarded: Siam University Bachelor of Business Administration (Hotel and Tourism Management)\n </string>
+
+    <string name="academics_bht_3_string">Thailand as One of the leading tourist destinations in South-East Asia has capitalized on its’ strengths in Tourism to offer this program at its best. Students are introduced to this program and will be prepared to enjoy a successful career in the Tourism industry. In the course of this program, students are required to participate in different activities supported by their selected University to engage them in real-life Hospitality situations that will enable them aid transition from the classroom to the boardroom. Such activities can be hotel restaurant displays, participating fully in tourism activities, attending to meetings, and projects special events and shows for the industry.\n This degree program does not only prepare students for management positions in several industries. But, it also expands their knowledge to a more advanced level in order to enable them develop new concepts in advertising and marketing; lead in tourism initiatives and conferences.\n Why you should study Hotel and Tourism management and what you will gain?\n \t\t •\tIt offers various different career options and opportunities;\n \t\t •\tYou will gain essential customer service and a strong sense of professionalism;\n \t\t •\tYou will get to know the relationship with other tourism industries and how they function and, also establish a link between them;\n \t\t •\tYou will have a greater chance to be internationally exposed and intermingle with different tourism sectors both home and abroad;\n \t\t •\tYou are rest assured to acquire a distinctive knowledge in this program, more especially management roles;\n \t\t •\tYou will develop skills in critical thinking, effective communication;\n \t\t •\tYou will gain a lot of knowledge in this program studying in our University, as all courses are taught by lecturers who possesses excellent academic credentials with a strong professional background in this particular field;\n What Can You Do With a Degree in International Business?\n \t\t •\tChef;\n \t\t •\tMarketing Executive;\n \t\t •\tReceptionist and Hotel Manager;\n \t\t •\tRegional Tourism Associations\n \t\t •\tGovernment Tourism Commissions;\n \t\t •\tTravel Agency Center;\n \t\t •\tTour Operator;\n \t\t •\tAirlines – Air host/hostess, steward/stewardess, and Cruise lines;\n \t\t •\tHotel Events Coordinator.\n </string>
+
+
+    -<string name="academics_bht_4_string">
+
+-<![CDATA[Degree Plan\n\n
+Courses:\n
+HUMANITIES& SOCIAL SCIENCE (9 Credits)\n
+Subject:\n
+117-100 Principles of Economics and Philosophy of Sufficiency Economy\n
+117-101 Introduction to Sociology\n
+117-102 Society and Government\n
+117-103 Society and the Law\n
+117-104 Human Relations and Personality Development\n
+117-105 ASEAN in the Modern World\n
+117-106 Preparation for the World of Work\n
+117-111 Thai Civilization\n
+117-112 Fundamental of Philosophy and Religion\n
+117-113 Psychology in Daily Life\n
+117-114 Western Civilization\n
+117-116 Western Literature\n\n
+MATH & SCIENCE (6 Credits)\n
+Subject:\n
+117-121 Basic Mathematical Principles\n
+117-123 Life and Environment\n
+117-124 Information Technology\n
+117-125 Computer for Studies and Works\n
+117-126 Food Safety and Nutrition for Good Health\n
+117-127 Principles of Statistics\n\n
+LANGUAGE (12 Credits)\n
+Subjects:\n
+117-191 Thai 1\n
+117-192 Thai 2\n
+117-291 Thai 3\n
+117-292 Thai 4\n
+117-145 English Communication\n
+117-146 Academic English\n
+117-246 English for Standardized Professional Test\n
+117-343 English for Business\n
+117-151 Chinese 1\n
+117-152 Chinese 2\n
+117-251 Chinese 3\n
+117-252 Chinese 4\n
+117-161 Japanese 1\n
+117-162 Japanese 2\n
+117-261 Japanese 3\n
+117-262 Japanese 4\n
+117-171 French 1\n
+117-172 French 2\n
+117-271 French 3\n
+117-272 French 4\n
+117-181 Korean 1\n
+117-182 Korean 2\n
+117-281 Korean 3\n
+117-282 Korean 4\n
+117-301 Russian 1\n
+117-302 Russian 2\n
+117-303 Russian 3\n
+117-304 Russian 4\n
+117-305 Spanish 1\n
+117-306 Spanish 2\n
+117-307 Spanish 3\n
+117-308 Spanish 4\n
+117-309 Portuguese 1\n
+117-310 Portuguese 2\n
+117-311 Portuguese 3\n
+117-312 Portuguese 4\n\n
+ART APPRECIATION &PHYSICAL EDUCATION (3 Credits)\n
+Subjects:\n
+117-132 Physical Education and Recreation\n
+117-133 Art and Music Appreciation\n
+THE DEPARTMENT COURSES 90 Credits\n
+CORE SUBJECTS (30 Credits)\n
+Subjects:\n
+221-102 Service Quality Management\n
+221-103 Principles of Accounting\n
+221-203 Organization and Management\n
+221-204 Business Finance\n
+221-205 Principles of Marketing\n
+221-301 Human Resource Management\n
+221-304 Service Marketing\n
+221-333 Service Psychology\n
+221-343 Cross Cultural Communication\n
+221-402 Strategic Management\n\n
+MAJOR REQUIRED SUBJECTS (30 CREDIT)\n
+Subjects:\n
+211-101 Introduction to Meetings Incentives Conventions and Exhibitions\n
+211-111 Introduction to Hotel and Tourism\n
+211-224 International Tourism and Incentive Travel\n
+211-226 Meeting and Convention Management\n
+211-228 Tourist Behavior\n
+211-302Information Technology for Hospitality\n
+211-306 Ethics and Business Law for Hotel and Tourism\n
+211-312 Restaurant and Catering Management\n
+211-316 Hospitality Marketing\n
+211-446 Marketing Research in Hospitality\n\n
+MAJOR ELECTIVE SUBJECTS (30 Credits)\n
+Subjects:\n
+211-112 Gastronomy and Kitchen Operation Management\n
+211-122 Exhibition Management\n
+211-212 Airline Business\n
+211-221 Bar and Beverage Management\n
+211-225 Sustainable Events and Tourism\n
+211-227 Food and Beverage Management\n
+211-288 Hotel Room Operations and Management\n
+211-313 Consumer Behavior in Tourism Industry\n
+211-323 Tour Guiding\n
+211-324 Flight Attendant Operation\n
+211-325 Travel Agency and Tour Operator Management\n
+211-327 Managerial Accounting and Financial Management in Hospitality Industry\n
+211-328 Contemporary Issues 1\n
+211-412 Seminar in Hospitality Management\n
+211-422 Contemporary Issues 2\n
+211-423 Hospitality Project\n
+211-425 Community Based Tourism Project\n
+211-426 Tourism Planning and Destination Development\n
+211-441 Convention Sales and Service\n
+211-442 MICE Venue Management\n
+211-443 Special Event Project\n
+211-445 International Hotel Management\n
+211-451 Hotel Planning and Development\n
+211-452 Special Interest Tourism\n
+211-453 Cultural Tourism Management\n
+211-454 Marine Tourism Management\n
+211-455 Agro Tourism Management\n
+211-456 Spa and Wellness Management\n
+211-457 Sport and Adventure Tourism Management\n
+211-458 International Cuisine Management\n
+211-459 Club and Bar Management\n
+211-460 Logistics for Tourism Industry\n
+211-461 Cruising Management\n
+211-462 Theme Park Management\n
+211-463 Medical Tourism\n
+211-464 Shopping Tourism\n
+211-465 Film Tourism\n
+211-466 Food Tourism\n
+211-467 Airline Marketing\n
+211-482 Survey and Research for Hotel\n
+211-501 Advanced Research Method in Hospitality\n
+211-502 Advanced Data Analysis in Hospitality\n\n
+LANGUAGE (15 Credits)\n
+Subjects:\n
+211-241 English for Service Industry 1\n
+211-242 English for Service Industry 2\n
+211-243 English for Service Industry 3\n
+211-244 English for Service Industry 4\n
+211-245 English for Service Industry 5\n
+211-251 Chinese for Service Industry 1\n
+211-252 Chinese for Service Industry 2\n
+211-253 Chinese for Service Industry 3\n
+211-254 Chinese for Service Industry 4\n
+211-255 Chinese for Service Industry 5\n
+211-261 Japanese for Service Industry 1\n
+211-262 Japanese for Service Industry 2\n
+211-263 Japanese for Service Industry 3\n
+211-264 Japanese for Service Industry 4\n
+211-265 Japanese for Service Industry 5\n
+211-271 French for Service Industry 1\n
+211-272 French for Service Industry 2\n
+211-273 French for Service Industry 3\n
+211-274 French for Service Industry 4\n
+211-275 French for Service Industry 5\n\n
+MAJOR ELECTIVE SUBJECTS (Business Management)\n
+Subjects:\n
+221-412 International Marketing\n
+221-429 Entrepreneurship and SMEs Management\n
+221-434 Sales Management\n
+221-436 Advertising and Sales Promotion\n
+221-437 Direct Marketing\n
+221-440 New Product Development\n
+221-441 Brand Management\n
+221-443 Marketing Strategy Management\n
+221-451 Marketing Channels management\n
+221-453 Product and Price Management\n
+221-454 Integrated Marketing Communication\n
+221-455 Marketing Planning\n\n
+CO-OPERATIVE EDUCATION (6 Credits)\n
+Subjects:\n
+211-490 Preparation to Cooperative Education\n
+211-491 Cooperative Education\n\n
+FREE ELECTIVE SUBJECTS (6 Credits)\n
+Subjects:\n
+Any Subjects opening in the International Program Any Subjects opening in the International Program\n\n
+]]>
+</string>
+
+    <string name="academics_bht_5_string">Admission\n\n There are two methods for admission at Siam University: [1] transfer from an accredited university or college (see Transfer Credit), or [2] by earning a passing grade on the Entrance Examination. The Entrance Examination is available prior to each academic term.\n\n Entrance Requirements\n \t\t• Grade 12 transcript for undergraduate applicants or equipment as well as transcript of academic records.\n \t\t• Two copies of International passport\n \t\t• A non-criminal record\n \t\t• Statement of purpose\n \t\t• 2 letters of recommendation (from high school teachers + professor or alumni of SIAM)\n \t\t• Results of TOEFL, TOEIC or IELTS, if available\n \t\t• 3 recent photographs (3x4cm)\n \t\t• Application fees\n\n Documents and Application\n \t\t1. original and photocopy of M6 certificate, high school diploma or its equivalent\n \t\t2. a copy of the Thai citizen identification card and household registration or copy of passport\n \t\t3. four 3×4 cm. color photographs\n\n Applying From Abroad\n Applicants from countries other than Thailand who have not graduated from an English medium high school must submit, when possible, the score of a recently passed English Proficiency test such as TOEIC or TOEFL. There is no predetermined minimum score for the TOEFL or TOEIC. Those scoring 500 on TOEIC or more will be exempt from the English Intensive Course requirements.\n </string>
+
+    <string name="academics_bht_6_string">Assoc. Prof. Dr. Bongkosh N. Rittichainuwat\n Program Director\n\n Prof. Eric Laws\n Research Professor\n\n Mr. Kris Mouton\n Senior Lecturer\n\n Mr.Sanvitcha Muttamara\n Lecturer\n\n Ms. Yasue Hichitake\n Lecturer\n\n Mr. Steven Mogain\n Lecturer </string>
+
+
+    -<string name="academics_bht_7_string">
+
+-<![CDATA[
+Address:\t\tInternational Program in Hotel & Tourism Management, Siam University, 38 Phetkasem, Phasricharoen, Bangkok, Thailand, 10160\n
+Tel:\t\t\t\t+ 662 457-0068 ext. 5304\n
+Fax:\t\t\t\t+ 662 457-0068 ext. 5304\n
+Email:\t\t\tihtm2@siam.edu
+]]>
+</string>
+
+    <string name="academics_mba_1_string">Master of Business Administration Program (MBA), Siam University, was established in 1986. This program is dedicated to provide the outstanding MBA education at affordable costs. Throughout our history, the Graduate school has graduated several thousands of top executives of business and government enterprises. Our MBA graduates have become proactive leaders with sound vision, innovative minds and high professional integrity. The wide range of MBA programs prepares students to succeed in both the private and public sectors.</string>
+
+    <string name="academics_mba_2_string">Performance Based Learning \n\t\t • The SIAM International MBA program distinguishes itself from other graduate business programs. The individual student’s performance is used as the measure of achievement in every course. \n\t\t • Our program guarantees students’ abilities in these skills and business practices. The teaching methods we employ; develop and stress independent thinking. \n\t\t • Our students are expected to meet practical and verifiable achievement levels and to be able to immediately add value to their respective businesses. \n\t\t • The curriculum is performance based with mastery standards to certify learning both inside and outside our campus. Our flexible schedule allows valuable professionals to keep their full- time jobs while earning an MBA. We expect working people to add more value to their companies within a short period of time. \n\n What is Master of Business in Administration? \n\t\t The Master of Business Administration (MBA) is a master’s degree in business administration (management). It’s an internationally-recognized degree designed to develop the skills required for careers in business and management. The value of the MBA, however, is not limited strictly to the business world. An MBA can also be useful for those pursuing a managerial career in the public sector, government, private industry, and other areas. Our MBA programs include a “core” curriculum of subjects, such as accounting, economics, marketing, and operations, as well as elective courses that allow participants to follow their own personal or professional interests. \n\n\t\t Program Code: MBA \n\t\t Program Duration: 4 Semesters (2 Years) \n\t\t Certificate Awarded: Siam University Master degree in Business Administration </string>
+
+
+    -<string name="academics_mba_3_string">
+
+-<![CDATA[Most of the people who earn an MBA degree pursue positions in the business field. However, there are many different career options for MBA graduates. It is not uncommon for an MBA grad to work in upper management positions with small and large corporations, government organization or nonprofit organizations. Many grads also choose to open their own business.\n
+Students who graduate from Siam University MBA are well-prepared for work in the international business environment. They will have mastered both the business principles and the qualitative ways of making business decisions, and will be equipped with practical experience to lead at any level in business and government. MBA graduates are business managers, business professionals, and entrepreneurs. They can be brokers who forecast the progression of stock markets and bonds.\n\n
+The outcome of this program is also to assist job placement for IMBA graduates.\n
+Why choose MBA Program of Siam University?\n
+\n\t\t•	Our MBA program is a member of the Association to Advance Collegiate School of Business (AACSB), an International Organization.
+\n\t\t•	Distinguished professors (American, European, Australian and Thai Academics, Entrepreneurs, CEO’s, and Managing Directors) with real business world experiences.
+\n\t\t•	Emphasis on the use of Business Strategic Plans, Simulations, Harvard and Stanford Case Studies, Team projects, and problem-Based Learning.
+\n\t\t•	Weeknights, and/or weekends for your convenience.
+\n\t\t•	Company/Industry visits and field trips.
+\n\t\t•	Foreign exchange students program and company/industry visit in Europe, America, and Australia (optional).\n\n
+ What Can You Do With a Master Degree in Business Administration?\n
+MBA programs are further studies in business administration designed to provide you with more skills and confidence in your business career. Many MBA programs offer students the opportunity to specialize in a specific area. Most times, graduates go for MBA after three or more years of their first degree with the purpose to expand their knowledge in this particular field. MBA provides you with better jobs; job Promotion, job opportunities, an increase your earning potential etc.\n\n
+MBA Candidates specialized job options include:\n
+\n\t\t•	Accounting
+\n\t\t•	Advertising
+\n\t\t•	Communication
+\n\t\t•	Economics
+\n\t\t•	Entrepreneurship
+\n\t\t•	Finance
+\n\t\t•	General Management
+\n\t\t•	Health Management
+\n\t\t•	Human Resources
+\n\t\t•	Information Technology
+\n\t\t•	International Business
+\n\t\t•	Internet Marketing
+\n\t\t•	Management
+\n\t\t•	Marketing
+\n\t\t•	Nonprofit Management
+\n\t\t•	Operations Management
+\n\t\t•	Retail & Sales Management
+\n\t\t•	Supply Chain Management]]>
+</string>
+
+
+    -<string name="academics_mba_4_string">
+
+-<![CDATA[Our courses are designed with the help of practitioners in major companies in Thailand. Such University-Industry cooperation ensures an up-to-date curriculum that fosters the acquisition of skills required of today’s managers. Our international faculty offers a general IMBA degree, which covers subjects such as:\n
+\n\t\t•	Marketing
+\n\t\t•	Finance
+\n\t\t•	International Business
+\n\t\t•	Managing Innovation & Change
+\n\t\t•	Managing Information Technology\n\n
+ Core Courses (Credits 27) (9 to be selected)\n
+\n\t\t(500-110) Managerial Economics
+\n\t\t(501-110) Managerial Accounting
+\n\t\t(502-110) Marketing Management
+ \n\t\t(503-110) Human Resource Management
+\n\t\t(504-110) Financial Management
+\n\t\t (505-110) Technology and Information Systems Management
+\n\t\t(506-110) Economic Integration and ASEAN Studies
+\n\t\t(507-110) Organization Behavior and Corporate Governance
+\n\t\t(507-112) Strategic Management
+ \n\t\t(508-110) Logistics and Operations Management
+\n\t\t(506-222) International Business Management
+\n\t\t(508-220) Logistics and Supply Chain Management
+\n\t\t(700-111) Research Methods for Social Science
+\n\t\t(700-201) English for Graduate Studies\n\n
+Elective Courses (Credits 12)\n\n
+Accounting Marketing Management Human Resource Management Financial & Banking Management International Business Management
+General Management Hotel and Tourism Management ASEAN Studies Management\n\n
+Independent Study (Credits 3)
+]]>
+</string>
+
+
+    -<string name="academics_mba_5_string">
+
+-<![CDATA[((9 courses to be selected)
+Core Courses \n
+\n\t\t•	Managerial Economics
+\n\t\t•	Managerial Accounting
+\n\t\t•	Marketing Management
+\n\t\t•	Human Resources Management
+\n\t\t•	Financial Management
+\n\t\t•	Technology and Information Systems Management
+\n\t\t•	Economic Integration and ASEAN Studies
+\n\t\t•	Organization Behavior
+\n\t\t•	Strategic Management
+\n\t\t•	Logistics and Operations Management
+\n\t\t•	International Business Management
+\n\t\t•	Logistics and Supply Chain Management
+\n\t\t•	Research Methods for Social Sciences
+\n\t\t•	English for Graduate Studies\n\n
+The Major Areas of Concentration\n
+\n\t\t•	Accounting
+\n\t\t•	Marketing Management
+\n\t\t•	Human Resources Management
+\n\t\t•	Financial & Banking Management
+\n\t\t•	International Business Management
+\n\t\t•	General Management
+\n\t\t•	Hotel and Tourism Management
+\n\t\t•	ASEAN Studies Management\n\n
+COURSE DESCRIPTION\n
+\n(500-110) Managerial Economics;\n
+The application of economic theory, both macro and micro, in decision making as well as the analyses of consumer demand and the characteristics of markets, production and cost, price theory, business decision under different market structures, e.g. perfect competition, monopoly, the allocation of resources to maximize production and profit as well as gross national product, balance of payment and government fiscal and monetary policies.\n\n
+(501-110) Managerial Accounting;\n
+Study the use of accounting data in planning, coordination and control, financial budget analysis, the relationships between financial budget, balance sheet footnotes analysis and auditor’s reports, the analysis and interpretation of costs, method of total cost accounting and variable costing, standard costing, analysis of the varied results of production cost, the relationship between cost, volume and profits, decision making under various alternatives, investment decision making, budgeting for planning and control.\n\n
+(502-110) Marketing Management;\n
+Contemporary marketing techniques, consumer behaviors, market shares, the analysis and forecasting of market demand, selecting strategy and management of marketing mix, planning, organization, control and evaluating marketing results as well as the analysis of problems and solutions in marketing.\n\n
+(503-110) Human Resources Management; \n
+Role and responsibility of managers in the management of human resources, covering ethics, planning, recruitment, training and development of human resources. This is the study of the concept and system of evaluation and the management of payment, benefits and other remuneration.\n\n
+(504-110) Financial Management;\n
+Financial concepts, financial management, the analysis and utilization of financial reports, cash flow management, mobilization of capital in the capital markets, structure of investment budgets, dividends, the cost of capital and emphasis is placed on the principles of high level financial management of financial institutions.
+\n\n(505-110) Technology and Information Systems Management;\n
+How managers utilize information technology to gain greater efficiency and effectiveness from operational and managerial systems, the components of information system for management, the roles and functions of information system for management strategy for business and technology. Technology planning and transfer, design of the organization and development of technology.\n\n
+(506-110) Economic Integration and ASEAN Studies;\n
+To study theories and types of economic integration, the theory of customs union and the benefits of economic integration. The movements of regional economic groupings, in particular the development and emergence of the European Economic Community and the impact on the world economy. The emergence of the other regional economic groupings, with the emphasis on ASEAN and Asia. The study of the economies of areas or regions which are important to ASEAN and ASIA.\n\n
+(507-110) Organizational Behavior and Corporate Governance;\n
+The behavior of organizations in theory and in practice, especially in decision making as well as the behaviors of individuals in the organizations, how to change the organizations for effective management and control. The emphasis is on the study of psychological aspects and various experiments which are helpful for management and decision making. The role and importance of corporate governance in the organization, which take into account the interest of all stakeholders within the philosophy of sufficient economy for good practice and sustainable development.\n\n
+(507-112) Strategic Management;\n
+The study emphasizes the setting up of strategy, the determination of mission, policy, goals and business strategy at various levels as well as the administration of the plan, its evaluation, and analysis of various scenarios and alternatives using case study and game theory to help making decisions that enable the business to service and succeed in the changing environments.\n\n
+(508-110) Logistics and Operation Management;\n
+The analysis and design of production systems in decision making context, principles of organization of various resources for production and conversion into goods and services, the delivery of productive resources, goods and services in various stages with efficiency and effectiveness, to enhance the ability to analyze and make decisions, strengthening competitiveness in different environments, planning and management of production, productive sequencing, quality management, logistic management and technology management of product and process.\n\n
+(506-222) International Business Management;\n
+Philosophies and principles of international business management with comparison of transnational firm’s organizational systems, management of operation systems, planning and transnational control, human resource policy, business environment as well as study various issues relating to efficient management of policy and operations of international business. Process of international business negotiations, protocol, success factors and tactics.\n\n
+(508-220) Logistics and Supply Chain Management;\n
+The development of logistics system and supply chain to support business strategy of business organizations by considering activities such as communications, inventory management, warehouse management, transportation and plant location, analyze the impact of logistics and supply chain on efficiency of business.\n\n
+(700-111) Business Research Methods;\n
+Study business research methodology, the various techniques for information gathering, data processing, the analysis of data, research report writing for use in decision making, research project development, planning research system, random sampling, questionnaire design, model building, quantitative analysis, data processing and analysis by computers, case study of research results and thesis writing practice.\n\n
+(700-201) Business English for Graduate Studies;\n
+Reading skill development, writing, technical reports, technical terms in business, biographies of prominent business personalities, participating in English speaking seminar simulation. More sophisticated external reading assigned. Modern business “jargon” and vocabulary.\n\n
+Elective Courses\n\n
+1.	ACCOUNTING GROUP:\n\n
+501-220 Accounting System Design;\n
+General knowledge about accounting system relating to business sector and internal control, relationship between business management and accounting information system. Accounting theories and process of accounting system design suitable for many types of business requirement, practical application for accounting system design by using case studies.\n\n
+501-221 International Accounting; \n
+Accounting and international financial reporting, concepts of financial planning and accounting conversion policies, conversion of foreign currencies. Impact of economic environments to international accounting, report and data disclosure in financial statement for international business, accounting standard and international accounting audit, financial statement and tax analysis related to international business.\n\n
+501-222 Financial Analysis for Planning and Decision Making;\n
+Types of budget, financial analysis methods, process of financial analysis for planning and decision making, by analyzing accounting information. Study of problems and limitations of financial statement for correct understanding and application, evaluation of business value by using profit and accounting information then, applying to price evaluation structure by accounting-based valuation framework.\n\n
+501-223 Budgets and Budgetary Control;\n
+Process of financial budgets and operations as a tool for planning, profit, coordination and operation control. Cost analysis, budget report by activities. Accounting system for public sector and nonprofit organization. Techniques and budget method with the emphasis on productivity calculation, performance and effectiveness of organization.\n\n
+501-224 Accounting Information Systems;\n
+Concepts and problems of accounting system design, accounting system, revenue cycle, expense cycle, debt cycle, stock cycle, study of other accounting systems by using computer. Planning and information system control, for firm internal control by executive.\n\n
+501-225 Seminar in Managerial Accounting;\n
+Analyze and discuss theories and concepts of managerial accounting and application to problem solving, policies setting, methods, and decision makings. Selection of various topics for research and accounting management under present environments by using case studies.\n\n
+500-302 Co-operation Education;\n
+Students will spend the semester as an intern in a business corporation. After completion, they need to submit their performance results to a cooperation educational advisor of Siam University and a corporation staff for assessment.\n\n
+2.	Marketing Management Group:\n\n
+502-220 New Product Development and Pricing;\n
+Process of design and development of product and service, decision making on product selection. Use of research for design and product development, including study of basic products policies, product life cycles, product positioning and product portfolio, product testing and new product and service introduction, types of costs, policies and price setting strategies.\n\n
+502-221 Distribution Channel and Logistics Management;\n
+Marketing channel for merchandize and services, effective and efficient distribution network for goods and services, concept for logistic management, customers servicing, information systems, management of inventory and direct sale strategy, Multi-level Marketing or Network Marketing, using case studies.\n\n
+502-222 Promotion and Advertising Management;\n
+Relationship between marketing promotion and other marketing mix. Setting strategies, methods and planning for marketing promotion. Design and evaluation of different means of advertising, emphasizing the use of concepts and theories and research in marketing and communication, advertising in communication process, research conduct for strategic development of advertising estimation of advertising budget, role of advertising companies, design and evaluation of advertising.\n\n
+502-623 International Marketing;\n
+Ideas of marketing management in international businesses for planning and determining relevant strategies consistent with international market environments. Subject content covers the analyses of market differentiation, political, legal, economic, financial and cultural environments and consumer behaviors in the foreign countries. Organization planning for operations, and also the determination of marketing mix strategy for foreign markets.\n\n
+502-224 Marketing Research;\n
+Research process applied for research conduct in marketing decision making, i.e. a sampling selection, a survey, an interview, data collection via post, telephone and other date collection, data analysis, research writing by study from previous marketing research and then an exercise in writing research reports.\n\n
+502-225 Integrated Marketing Communications;\n
+Key principles, strategies and tactics of Integrated Marketing Communications (IMC), emphasizing an on-going, interactive, cross- functional process of brand communication planning, execution and evaluation, and exploring the various methods of communications, including advertising, sales promotions, direct marketing, public relations, interactive and interpersonal contact, Examine the synergistic effect across communication approaches and considers the perspectives of all relevant stakeholders in such a way that brand value is maximized.\n\n
+502-626 Customer Relation Management;\n
+Process of customer relationship management. Strategy for keeping existing customers, attracting new customers. Role and duties of executives, personal, technology and information in the management of customer relationship. Techniques in the management of customer relationship so as to enhance competitiveness and customers satisfaction.\n\n
+502-227 Retailing Strategy;\n
+Study retailing trading concepts, shop position determination, competition between various retailing models, and technology impact on supply network, retailing shop management and using strategies focusing on customer. Strategies at shops level, shop, marketing catalog and other marketing media. i.e. television and radio.\n\n
+502-628 Service Marketing Strategy;\n
+Unique market for service and customers behavior for services, marketing mix for service business, process of marketing strategy includes planning, plan implementation, control and valuation of marketing plan for service business.\n\n
+502-629 Marketing Strategy;\n
+Marketing problems of business organization and non-profit entities, emphasizing the influence of consumers on purchases of goods, and market environments on decisions to devise strategy for marketing mix, product strategy, pricing strategy, distribution channel strategy and market communication strategy or market promotion strategy. Marketing process starts from planning to put the marketing mix strategy into practice.\n\n
+502-230 Seminar in Marketing Management;\n
+Analyze and discuss theories and concepts of marketing and apply them to problem solving, policy settings, methods, decision makings by selecting various topics to support study, and making management under present, environments using case studies.\n\n
+505-631 Electronic Commerce Management;\n
+Electronic commerce concept, planning electronic commerce strategy, various technology concerning the security system and payment system, legal framework for electronic commerce, the application of electronic commerce in various business activities, advertising and market promotion, including Web design, website advertising, strategy and factors leading to success.\n\n
+500-302 Co-operation Education;\n
+Students will spend a semester as an intern in a business corporation. After completion, they need to submit their performance results to a co-operation educational advisor of Siam University and a corporation staff for assessment.\n\n
+3.	HUMAN RESOURCES MANAGEMENT GROUP:\n\n
+503-221 Information System for Human Resources Management;\n
+Information System for Human Resources Management i.e. computer program, database system, data security system, employee’s evaluation system, design and development of computer software for effective human resources management.\n\n
+503-223 Communication in Management;\n
+Importance of communication for success of business executives, creation of better understanding and skills for effective communication. The subject covers factors between people, people and organization the influence communication management. Analyze communication setup and channels for individuals and groups, direct and indirect communication. Practical exercise about communication methods to meet the set objectives.\n\n
+503-224 Seminar in Human Resources Management;\n
+Analyze and discuss theories and concepts of human resources management for application to problem solving, policies setting, strategy, decision makings in selection of various topics for research and human resource management in present environments by using case studies.\n\n
+507-220 Leadership and Change Management;\n
+Leadership theories, leadership styles, role of leaders in bringing change into the organization, ethics of leaders, change concepts and change management to keep pace with present and future situations.\n\n
+507-221 Negotiation and Conflict Management;\n
+Theory and, process of conflict management and negotiation within organization. Framework of conflict analysis and techniques for conflict resolution. Role of executives in conflict management, conflict dimensions and psychological dynamics between person, organization and culture, strategy and methods compromise and arbitration. Application of strategy and tactics performed for fair negotiation.\n\n
+500-302 Co-operation Education;\n
+Students will spend a semester as an intern in a business corporation. After completion, they need to submit their performance results to a co-operation educational advisor of Siam University and a corporation staff for assessment.\n\n
+4.	FINANCIAL AND BANKING MANAGEMENT GROUP:\n\n
+504-220 Financial Strategy and Tax Planning;\n
+Principle of financial management, and financial control of a company, both long term and short term. Principle of loan, investment and risk analysis. Implication of financial structuring and dividend payment policy. The roles and importance of taxes in strategic financial planning of a company. The study of tax to determine the company structure and investment in the appropriate assets. Using case studies.\n\n
+504-221 Money and Capital Markets;\n
+Concept of short term and long term funding for business purposes. Mobilization of short and long term funds in the money market, issue of short and long term financial instruments. Mobilization of long term funds in the capital markets, structures of capital markets, money market and financial institutions in Thailand. Floating of equity, investment in the stock and money market. Investment concepts and methodology in each market. This subject is useful for students in their preparation for Single License Examination.\n\n
+504-222 International Financial and Banking;\n
+Key concepts in international financial business management. International Monetary System, balance of payments, foreign exchange markets. International parity conditions, financial risk management, currency futures and options, exchange rate risk in trade settlement and business operations, translation risk in financial statement. Funding form international debt markets, and from international equity market, foreign direct investment international portfolio investment, international capital budgeting, and international working capital management.\n\n
+504-233 Financial Reporting Analysis;\n
+Basic concepts about financial statements/report analysis and International Financial Reporting Standard (IFRS) and accounting standards in Thailand. Earnings per share (EPS) concept and factors affecting EPS. Inventory analysis, fixed assets analysis. Income tax accounting, financial debts analysis, leasing contracts and off balance sheet debts. Pension and other forms of employee’s benefit/welfares. Analysis of intra company investment, merger and acquisition. International operation analysis. Financial report adjustment. Case studies about financial report analysis for each group of industry.\n\n
+504-234 Applied Corporation Finance;\n
+Review structure of financial knowledge and instruments in corporate finance. Case studies about financial statement analysis, working capital management, decision making for long term investment, funding structure analysis, dividend payment policy and company valuation.\n\n
+500-302 Co-operation Education;\n
+Students will spend a semester as an intern in a business corporation. After completion, they need to submit their performance results to a co-operation educational advisor of Siam University and a corporation staff for assessment.\n\n
+5.	INTERNATIONAL BUSINESS MANAGEMENT GROUP\n\n
+501-221 International Accounting;\n
+Accounting and financial report for international business. Concepts of planning and determining accounting policies, conversion of foreign currency value, impact of economic environments on international accounting, report and data disclosure in financial statement for international business, accounting standard and international audit. Analysis of financial statement and tax related to international business.\n\n
+505-631 Electronic Commerce Management;\n
+Electronic commerce concept, planning electronic commerce strategy, various technologies concerning the security system and payment system, legal framework for electronic commerce, the application of electronic commerce in various business activities, advertising and market promotion, including Web design, website advertising, strategy and factors leading to success. Analyze domestic and foreign case studies, and preparing investment project in electronic commerce.\n\n
+504-623 International Finance, Investment and Banking;\n
+Financial management and administration of international banks, conditions and control mechanism, operation, investment, international financial system and financial and equity markets, principles of international financial management, international financial organizations, the international financial environment in which firms operate, the financial policy of nations and of international financial firms, capital inflow/outflow, emphasis on financial decision making of international business organizations and case studies.\n\n
+506-621 International Business Law;\n
+Study the legal system governing international economic relations, its principle content and mechanism, treaties relating to copy rights, patents, selling contracts, trade agreements, ICC regulations relating to international trade, trading traditions and others, Thai legislations relating to international laws as well as international organizations involved in international economics and international business, analyze legal problems and issues affecting international business.\n\n
+510-220 Development of ASEAN Integration;\n
+Development of ASEAN leading to ASEAN Economic Community in 2015 and financial integration in 2010. The meaning and implication of AEC in 2015 and financial integration in 2020. Latest legal structure and regulations in trade, financial investment and resources mobility across boundaries, specifically manpower and finance. The change in economic and legal structure, agreements and regulations to be forthcoming in the future and their implication on AEC.\n\n
+500-302 Co-operation Education;\n
+Students will spend a semester as an intern in a business corporation. After completion, they need to submit their performance results to a co-operation educational advisor of Siam University and a corporation staff for assessment.\n\n
+6.	GENERAL MANAGEMENT GROUP\n\n
+505-220 Business Database;\n
+Structure, techniques, benefit and limitation of database management. Construction, use and development of database file, including the study of the structure of database system. Components of database system that confusion together. The subject covers database development, database utilization and improvement, database management including various types of database structure, application of database to business environment.\n\n
+505-222 Information Technology and Supply Chain Managements;\n
+This course focuses on the role of information technology (IT) in supply chain management. It also highlights the contribution of IT in helping to restructure the entire distribution setup to achieve higher service levels and lower inventory and lower supply chain costs.\n\n
+505-224 knowledge Management;\n
+Knowledge management concepts, knowledge types, transmission of knowledge, using technology for design and develop knowledge in an organization full of intellectual personalities, knowledge management problems, success and failure factors in development of knowledge, management system by using case studies.\n\n
+500-302 Co-operation Education;\n
+Students will spend a semester as an intern in a business corporation. After completion, they need to submit their performance results to a co-operation educational advisor of Siam University and a corporation staff for assessment.\n\n
+7.	HOTEL AND TOURISM MANAGEMENT GROUP\n\n
+509-221 Facilities management;\n
+Modern technology and applying technology for facilities system design and facilities, new system for mechanism inside building, electronic system, fire protection system, energy savings and waste management.\n\n
+509-622 MICE and Incentive Tourism Management\n
+This course examines the lucrative MICE industry (meetings, incentives, conventions, and expositions) that caters to the needs of business travelers and festivals and events (ranging from mega-events to community celebrations) that serve as tourist attractions for pleasure travelers. The role of an expert convention planner, destination management companies, hotel and related industries and organizations, incentive tourism strategies and the important of e-tourism. Process of international business negotiations, protocol, success factors and tactics.\n\n
+509-623 Sustainable Development of Tourism\n
+Investigate impacts of tourism on economic, socio-cultural and physical environments. In addition, the course will explore the current impacts on tourism industry and sustainability and problem analysis solutions and decision making for planning and developing in sustainable tourism.\n\n
+509-624 Service Quality Management\n
+Management and methods of service with ability to respond to customer needs, principles of continuous service quality development, quality rating, analysis and application of service strategy, development of service system to include training of manpower involved.\n\n
+509-625 Marketing Mechanism for Hotel and Tourism\n
+Theory of direct marketing and service marketing for practical use in the hotel and tourism Industry. Concepts analyzed include marketing mix components of products – presentation communication and distribution – customer retention, service deliveries, systems and Internet-based strategic marketing, hotel and tourism applications.\n\n
+509-626 Strategy for Hospitality Management\n
+Business practice of management strategy for international hotels and hospitality, system to manage international hotel chain, learns the tools to analyze and solve problems in hospitality management, e.g. medical tourism, long-stay and etc.\n\n
+500-302 Co-operation Education;\n
+Students will spend a semester as an intern in a business corporation. After completion, they need to submit their performance results to a co-operation educational advisor of Siam University and a corporation staff for assessment.\n\n
+8.	ASEAN STUDIES AND MANAGEMENT GROUP\n\n
+Students must study 510-220:Development of ASEAN Integration and 510-221: Doing Business in ASEAN and FTA and select 2 other subjects or select 500-302: Co-operation Education from the following list.\n\n
+Moreover, students must study a prerequisite 501-110 Managerial Accounting if they would like to study 502-223 International Marketing or students must study a prerequisite 502-110 Marketing Management if they would like to study 502-223 International Marketing or students must study a prerequisite 504-110 Financial Management if they would like to study 504-223 International Finance and Banking.\n\n
+501-221 International Accounting;\n
+Accounting and international financial reporting, concepts of financial planning and accounting conversion policies, conversion of foreign currencies. Impact of economic environments to international accounting, report and data disclosure in financial statement for international business, accounting standard and international accounting audit, financial statement and tax analysis related to international business.\n\n
+502-623 International Marketing;\n
+Ideas of marketing management in international businesses for planning and determining relevant strategies consistent with international market environments. Subject content covers the analyses of market differentiation, political, legal, economic, financial and cultural environments and consumer behaviors in the foreign countries. Organization planning for operations, and also the determination of marketing mix strategy for foreign markets.\n\n
+504-223 International Finance and Banking;\n
+Key concepts in international financial business, International Monetary System, balance of payment, foreign exchange markets, international parity conditions, financial risk management, currency futures and options. Exchange rate risks in trade settlements and business operations, translation risk in financial statement. Funding form international debt markets and from international equity markets, foreign direct investment, international portfolio investment, international capital budgeting and international working capital management.\n\n
+510-220 Development of ASEAN Integration;\n
+Development of ASEAN leading to ASEAN Economic Community in 2015 and financial integration in 2010. The meaning and implication of AEC in 2015 and financial integration in 2020. Latest legal structure and regulations in trade, financial investment and resources mobility across boundaries, specifically manpower and finance. The change in economic and legal structure, agreements and regulations to be forthcoming in the future and their implication on AEC.\n\n
+510-221: Doing Business in ASEAN and FTA;\n
+Preparation and searching for business opportunities in the ASEAN countries, especially around Thailand boundary, including countries that ASEAN have free trade agreement (FTA) with the emphasis is on the study of the economic systems and business operations in the ASEAN Countries which are targets of Thai business especially in trade, finance, investment and manpower and resources mobility, in particular working opportunities in architecture, engineer and health services which are now open in ASEAN.\n\n
+500-302 Co-operation Education;\n
+Students will spend a semester as an intern in a business corporation. After completion, they need to submit their performance results to a co-operation educational advisor of Siam University and a corporation staff for assessment.\n\n
+Course Quality Assurance\n\n
+\t\t•	The management of the M.B.A. program: a committee to revise and maintain the quality and standard of the program consisting of experts from within and outside the university has been set up.\n
+\t\t•	Teaching materials and resources: the adequacy of the teaching materials and resources is review constantly. Instructors are requested to submit their requirements and the efficacy of the teaching materials and resources considered every semester.\n
+\t\t•	Support and advice: a system of advisers is established to assist students is all aspects of their study, including the thesis work.\n
+\t\t•	The employment market assessment: the demand of the employment market and the satisfaction of employers will be conducted regularly so as to make appropriate adjustment of the syllabus.\n
+\t\t•	Quality assurance: various aspects of quality assurance, i.e. quality of graduates, the curriculum, instruction, research, and academic service, the promotion of arts and culture and continued development of the school are constantly maintained.\n\n
+ The Curriculum is revised and developed in a cycle of not more than 5 years to be current and in accordance with the requirements of the labor market and rapid changes in the business and economic environments. In addition, research will be conducted to assess the employment situation of graduates and the satisfaction of employers, and the results obtained will be used to revise and develop the Curriculum.
+]]>
+</string>
+
+    <string name="academics_mba_6_string">ADMISSION\n\n Trimester 1\n Apply: between 1st May and 10th August\n Class begins: Mid-August\n\n Trimester 2\n Apply: between 1st September and 10th December\n Class begins: Mid-December\n\n Trimester 3\n Apply: between 1st January and 10th April\n Class begins: Mid-April\n\n Note: The graduate School of business Administration operates 15-week per Trimester. \n\n When to Apply?\n Applicants are welcome year-round. Simply complete the application form and include the following:\n \n\t\t• Two copies of undergraduate transcript, as well as transcript of academic records. \n\t\t• Two copies of International passport \n\t\t• A non-criminal record \n\t\t• Statement of purpose \n\t\t• 2 letters of recommendation (professor or alumni of SIAM) \n\t\t• Results of TOEFL, TOEIC or IELTS, if available \n\t\t• 3 recent photographs (3x4cm) \n\t\t• Application fees\n\n How to join the program?\n There are 2 methods as follow:\n 1. Apply by yourself at Siam University\n \n\t\t• Applicants comes to Siam University directly and then, apply to the program through our admission center which is located at 1stfloor, 19th The next step is interviewing by Dean of the Graduate School of Business or a lecturer of the program.\n\n 2. Apply from your own country\n \n\t\t• An applicant fulfills an application form (download or fill online). \n\t\t• Next, please send all supporting evidences to the International Affairs Office at Siam University at 235 Petkasem Road, Phasicharoen, Bangkok, 10163, Thailand. \n\t\t• Please Pay 45 US dollars for application fee. The application fee is payable via bank draft or bank transfer. \n\t\t• Then, Admission committee reviews application file and, if satisfactory, you will get your invitation letter. \n\t\t• The step further, candidate applies for student visa (non-immigrant, category ED) at the nearest Thai consulate. \n\t\t• Finally, an applicant comes to Bangkok and finalizes admission at the University campus. </string>
+
+
+    -<string name="academics_mba_7_string">
+
+-<![CDATA[MBA Dean\n\n
+Dr. Vijit Supinit\n\n
+Ph.D. (Economics), Hon. Ramkhamhaeng University M.A. (International Economics) Yale University, USA B.A. (Economics) Hons. The University of Manchester, UK\n
+Dean of Graduate School of Business, Siam University Former Governor, Bank of Thailand Former Chairman, The Export and Import Bank of Thailand Former Chairman, The Stock Exchange of Thailand Former Chairman, Security and Exchange Commission of Thailand Former Chairman, G Steel Public Company Limited Former Director and Chairman of Audit Committee, TMB Bank PCL Chairman, The Apple Securities PCL Chairman, The CEI PLC\n\n
+Assistant Deans:\n\n
+Dr. Pichit Eamsopana M.S (Economics) University of Nevada, USA B.Eng.(Construction Engineering) King Mongkut’s Institute of Technology B.A. (Public Administration) Ramkhamhaeng University\n\n
+Asst. Prof.Dr.Surasvadee Rajkulchai DBA (International Business) Chulalongkorn University MBA (General Management) Nida B.S. (Business)\n\n
+Dr. Karnjira Limsiritong DBA (Marketing) University of Newcastle, Australia M.Mkt. University of Newcastle, Australia M.Mgt. (Human Resources) Mahidol University B.A. (English) The University of the Thai Chamber of Commerce\n\n
+Lecturers:\n\n
+Dr. Teerachote Pongtaveewould Ph.D. (Marketing) University of Bradford, UK MBA (Business Administration) Assumption University BBA (Marketing) Sripatum University\n\n
+Dr. Tanakorn Limsarun Ph.D. (Management Science) Shinawatra International University M.M. (Electronic Commerce) Mhidol University BBA (Business Computer) Assumption University\n\n
+Dr. Teetima Piyasirisilp Ph.D. (Management Science) Shinawatra International University M.A. (Mass Communication Administration) Thammasat University B.A. (Radio&Television) the University of the Thai Chamber of Commerce\n\n
+Dr. Toni Momiroski Ph.D. (Environment Management) Mahidol University M.A. (Social Theory) Monash University, Australia B.E. (Education) Deakin University, Australia
+Aj. Phairat Boonsuwan\n\n
+Ph.D. (Candidate) Computer Information System, NIDA\n\n
+MBA, Business Administration Institute, Chulalongkorn University\n\n
+(CIS) Computer Information, Assumption University\n\n
+BBA (Accounting) Assumption University\n\n
+]]>
+</string>
+
+    <string name="academics_mba_8_string">Siam University: 38 Siam University, Petchkasem Road, Phasi-Chareon District, Bangkok, 10160, Thailand Email: mba1@siam.edu \nTelephone:\t\t+66 2 457 0068 ext. 5412 \nFax:\t\t\t\t\t+66 2 867 8092 Front Counter \nHours:\t\t\t\tTues – Fri (11:00a.m. – 7:00p.m.), Sat – Sun (9:00am-7:00pm). </string>
+
+    <string name="academics_mhrps_1_string">The conflicts between nations, the quarrels within organizations, the clashes against opposition parties, the wars that surround our world today does not necessarily mean that the world lacked peace. But the approach used to sustain it. UNESCO has encouraged the need for a new academic department on Peace studies in different Universities. The UNESCO believed that by training a good number of graduates under peace studies, the possibility to attain peace can’t be far-fetched and hope that peace can be reached to some part of the world that have been ripped apart by conflicts with the efforts of the expertise and also, the world will hopefully become a better place for all.\n\n Siam University is one of the few Universities in Thailand that offers this particular program and it’s attributed by the University Affairs of Thailand.\n\n The Mission\n\n The mission of MAPD program focuses on Inspiring and developing a new generation of leaders who possess a vision of new global society with a new paradigm of attaining, promoting and maintaining peace and social well-being through diplomacy and other constructive means.\n\n Objectives:\n \n\t\t• To offer a Master Degree Program in the area of Peace Studies and Diplomacy which will enhance an understanding of social, cultural, and economic differences regionally and globally. \n\t\t• To develop a new generation of leaders with human relations skill by fostering peace-oriented personalities and leadership. \n\t\t• To provide opportunities for active overseas exchange programs in which student will be able to acquire first-hand knowledge and experience.\n\n YOUR CAREER\n\n Why you should study MAPD and what you will gain?\n The graduates of MAPD program will be able to establish networks with people from different cultures and master conflict management and peaceful negotiation as effective and visionary leaders.\n Graduates of Peace studies are assigned to do their training in any United Nation’s branch located in their selected country of studies.\n\n What Can You Do With a Master Arts in Peace Studies and Diplomacy?\n \n\t\t• You can work in any Foreign Ministry; \n\t\t• You can work in the UN; \n\t\t• You can work as an Ambassador; \n\t\t• You can work as a human right activists, mobilizing the support for people’s need; \n\t\t• You can work in an organizational conflict management; \n\t\t• You can work in a human resource department, in managing people in times of conflict; \n\t\t• You can work as a peace coordinator; \n\t\t• You can work in the Immigration, security department, police station and custom office; \n\t\t• You can work in the Government – National Peace Council; \n\t\t• You can work in any International Organization; \n\t\t• You can work as a Mentor or Consultant in Peace resolution; </string>
+
+    <string name="academics_mhrps_2_string">What is Master of Arts Program in Peace Studies and Diplomacy?\n The Master of Arts Program in Peace Studies and Diplomacy at Siam University is a new academic program committed to international standard of high quality education. The program intends to inspire a new generation of leaders who possess a vision of a new global society with a new paradigm of attaining and maintaining peace and social well-being through diplomacy and other related means. The Master program in Peace Studies and Diplomacy integrates theoretical approaches with case studies, current issues as well as practical skills. It also gives a priority to a diverse range of academic questions essential to the field of peace studies and diplomacy.\n\n Program Code: MAPD\n\n Program Duration: 3 Semesters (1.5 -2 Years depending on study plan)\n\n Certificate Awarded: Siam University Master Degree in Peace Studies and diplomacy </string>
+
+    <string name="academics_mhrps_3_string">To complete the M.A. Degree, students are required to complete a minimum of 36 credits which include the following:\n \nProgram Plan \nPlan A. (Thesis) \nCore Subject: 24 Credits \nMaster thesis: 12 Credit \nIndependent Studies \nPlan B. (non-Thesis) \nCore Subject: 24 Credits \nElective Courses: 9 Credits \nTotal 36 Credits\n\n COURSE INDEX\n \nCourses: \nThe Course consists of: \nMajor: 24 Credits \nElective: 9 Credits \nIndependent: 3 Credits \nTotal: 36 Credits \nMajor Courses (24Credits)\n \n(781101) Peace and Governance \n (781102) Diplomacy and International Negotiation \n (781103) Theory of Peace, Conflicts, and Security \n (781104) Research Methodology in Peace Studies \n (781105) New International Political and Economic Order \n (781106) International Relations in Asia-pacific Region \n (781107) Development Theories and Conflict Resolution \n (781108) International Organizations and Regional Integrations\n \nElective Courses (9 Credits)\n \n(781301) Science, Technology and Good Governance \n(781302) Human Rights, Justice and Peace \n(781303) Political Culture and Social Change \n(781304) Public Policy Studies \n(781305) Public International Law \n(781306) Nationalism and Ethnicity \n(781307) Organizational Conflict Management \n(781308) Leadership and Governance \n(781309) Civil Society and New Politics \n(781310) Regionalism in Southeast Asia \n(781311) Postmodernism \n(781312) Arms Proliferation and Control \n(781313) Climate Change and Global Governance \n(781314) Diplomatic and Consular Law\n \nIndependent Study Credits (3) </string>
+
+    <string name="academics_mhrps_4_string">(First semester starts in August, Second semester in January). Summer session starts in June.\n\n How to Apply?\n\n Applicants are welcome all year-round. Simply apply\n\n Admission Requirements\n\n 1) A Bachelor degree\n 2) English language proficiency test is provided for applicants who have not submitted record of English proficiency.\n 3) Interview by faculty members of MAPD.\n\n Documents needed\n \n\t\t• Two copies of undergraduate transcript, as well as transcript of academic records. \n\t\t• Two copies of International passport \n\t\t• A non-criminal record \n\t\t• Statement of purpose \n\t\t• Letter of recommendation from professor or alumni of SIAM) \n\t\t• Results of TOEFL, TOEIC or IELTS, if available \n\t\t• 3 recent photographs (3x4cm) \n\t\t• Application fees </string>
+
+    <string name="academics_mhrps_5_string">Faculties\n\n Chairman:\n Dr. Sorajak Kasemsuwan\n Ph.D. (International Law), London School of Economics, University of London\n LL.M., University College, London, University of London\n B.A. (Hons) (Laws and Politics), University College of Wales, Aberystwyth, UK.\n\n Director:\n Assco. prof Dr. Tatree Nontasak\n Ph. D. (Sociology), Mississippi State University, USA\n M.A. (Sociology), Mississippi State University, USA \n B.Econ.(Economics), Thammasat University\n\n Full Time Lecturers:\n Pol. Col. Dr. Chitpol Kanchanakit\n Mr. Akrapong Chalermnon\n Mr. Ricardo Lucio-Ortiz\n Dr. Eakpant Pindavanija\n\n peace Guest Lecturers :\n Prof. Dr. Kramol Tongdhamachart \n Prof. Dr. Likhit Dhiravegin\n Prof.Dr. Chaiwat Khamchoo\n Associate Prof. Dr. Jomphong Mongkhonvanit \n Associate Prof. Dr. Wichian Premchaiswadi\n Associate Prof. Dr. Preecha Hongkrailert\n Associate Prof. Dr. Sunya Sunyavivat\n Associate Prof’ Dr. Jade Donavanik\n Dr. Kuntida Chancharoen\n Dr. Vudhi Leelakusolvong\n\n Program Coordinators :\n Ajarn Orawan Siddhiwicharn\n Ajarn Worrawan Jirathanapiwat\n Mr. Yakubu Abdallah\n Ajarn Papaphit Sridachart\n </string>
+
+    <string name="academics_mhrps_6_string">Address: Master of Arts Program in Peace Studies and Diplomacy, 38 Siam University, Petchkasem Road, Phasi-Chareon District, Bangkok, 10160, Thailand \n\n Telephone:\t\t+ 66 24570068 Ext.5412 \n Fax:\t\t\t\t\t+ 66 28686000 Ext.5366 \n Email:\t\t\t\tsiamu.peace@siam.edu \n Website:\t\t\thttp://www.peace.siam.edu Front Counter\n Hours:\t\t\t\tMon – Sun (8:30a.m. – 4:30 p.m.)\n </string>
+
+    <string name="academics_dit_1_string">The PhD program in Information Technology at the Siam University offers a curriculum with multidisciplinary emphases in information technology. The program integrates the theory and practice of applied computing, information systems, Internet technologies, and the advances in telecommunications and management of information technology.</string>
+
+    <string name="academics_dit_2_string">This is a research degree with a strong emphasis on the production of a dissertation leading to the publication of at least one paper in a research journal. The vision of the doctoral program in Information Technology is to combine the disciplines of computer science, business, information systems, software engineering, and telecommunications to develop technology specialists who are uniquely positioned to advance research and practice in contemporary technologies.</string>
+
+    <string name="academics_dit_3_string">The PhD program in Information Technology at the Siam University offers a curriculum with multidisciplinary emphases in information technology. The program integrates the theory and practice of applied computing, information systems, Internet technologies, and the advances in telecommunications and management of information technology. This is a research degree with a strong emphasis on the production of a dissertation leading to the publication of at least one paper in a research journal. The vision of the doctoral program in Information Technology is to combine the disciplines of computer science, business, information systems, software engineering, and telecommunications to develop technology specialists who are uniquely positioned to advance research and practice in contemporary technologies.\n\n Graduates from the PhD in Information Technology program will have:\n \n\t\t - Highly developed research skills relevant to the tasks of problem solving and discovering new knowledge in the field of information technology; \n\t\t - Advanced comprehensive knowledge and understandings of the key issues relating to the efficient, effective and strategic use of information technologies in organizations; </string>
+
+    <string name="academics_dit_4_string">The Graduate Studies Committee will accept students for admission based on the following criteria:\n \n\t\t• - An interview in English proficiency. \n\t\t• - Analytical ability in the field of Information Technology \n\t\t• - Graduate record \n\t\t• - Items Required for Applications \n\t\t• - Completed University application forms and identification. \n\t\t• - Two copies of graduate transcripts or evidence of equivalent work. \n\t\t• - Two letters of Reference. \n\t\t• - Three 2-inch full front facial pictures while not wearing glasses or a hat. \n\t\t• - Photo taken within 6 months of application date. \n\t\t• - Two copies of applicant’s national identity card. \n\t\t• - Final acceptance will be the decision of the Graduate Studies Committee, Siam University. </string>
+
+    <string name="academics_dit_5_string">Plan A : Complete at least 69 credits 0f dissertation\n\n Plan B : Complete at least 69 credits 0f coursework and dissertation\n\n Language\n English is used in the instruction.\n\n Duration of Study\n \n\t\t• The PhD in Information Technology program is a 3 years program. Each student must complete all the requirements for the degree with 6 years from the semester of first enrollment. \n\t\t• The academic year consists of two semesters per years, each consisting of no less than 15 weeks.\n\n Program Duration: 3 Years Certificate Awarded: Doctor of philosophy (Ph.D) in Information Technology (IT) Siam University with cooperation of university of Pittsburgh, USA </string>
+
+    <string name="academics_dit_6_string">Required courses;\n\n CURRICULUM\n\n PROGRRequired courses;\n \n\t\t• Information System \n\t\t• Management Information Systems \n\t\t• Statics In Information Technology \n\t\t• Strategic Business Management In Information Technology \n\t\t• Research Method\n\n CURRICULUM\n To complete the D. Degree, students are required to complete a minimum of 69 credits which include the following:\n PROGRAM PLAN\n PLAN TO STUDY\n \n\t\t• Structure of Study Plans Plan A: Complete at least 69 credits 0f dissertation Plan B: Complete at least 69 credits 0f coursework and dissertation \n\t\t• Language English is used in the instruction. \n\t\t• Duration of Study The PhD in Information Technology program is a 3 years program. Each student must complete all the requirements for the degree with 6 years from the semester of first enrollment. \n\t\t• The academic year consists of two semesters per years, each consisting of no less than 15 weeks. </string>
+
+    <string name="academics_dit_7_string">FACULTY MEMBER AND INSTRUCTORS:\n\n MICHAEL B. SPRING\n Associate Professor E-business and e-markets, web services, web semantics, social networking and collective intelligence; distributed systems, secure coding.\n\n MAREK DRUZDZEL\n Professor Policy and industry implications of new technologies, spectrum trading, technical standards and their impact on industry\n\n MARTIN B.H. WEISS\n Associate Professor Decision support systems, strategic planning, decision making under uncertainty, decision-theoretic methods in intelligent\n\n PAUL MUNRO\n Associate Professor Connectionist systems; neural information processing; image processing; modeling and simulation; visualization; genetic algorithms/artificial life\n\n JAMES B.D. JOSHI\n Associate Professor Advanced access control, distributed and multimedia systems security, systems and network survivability, IPv6 and mobile security </string>
+
+    <string name="academics_dit_8_string">Address: 38 Siam University, Petchkasem Road, Phasi-Chareon District, Bangkok, 10160, Thailand. \n\n Email:\t\t\tstudentadmission@siam.edu\n\n Phone:\t\t\t+66-2-867-8071 Fax: +66-2-868-6657 \n\n Website:\t\thttp://www.phd-it.siam.edu/ Front Counter\n\n Hours:\t\t\tMon – Fri (8:30a.m. – 4:30 p.m.) </string>
+
+    <string name="academics_detaildefultstring">...</string>
+
+    <string name="admission_WhenToApply_itemtitle" translatable="false">When To Apply</string>
+
+    <string name="admission_Academic_itemtitle" translatable="false">Academic Qualifications</string>
+
+    <string name="admission_Profeciency_itemtitle" translatable="false">English Proficiency</string>
+
+    <string name="admission_AdmissionProcedure_itemtitle" translatable="false">Admission Procedure</string>
+
+    <string name="admission_ApplyFromAbroad_itemtitle" translatable="false">Apply FromAbroad</string>
+
+    <string name="admission_ApplicationRequirements_itemtitle" translatable="false">Application Requirements</string>
+
+    <string name="admission_VisaSupport_itemtitle" translatable="false">Visa Support</string>
+
+    <string name="admission_AdmissionForm_itemtitle" translatable="false">Admission Form</string>
+
+    <string name="admission_WhenToApply_string" translatable="false">\b \b \b \b The academic year runs from June to March. It is divided into two sixteen-week semester and an eight-week summer session during Thailand summer. \n \b \b \b \b Most academic programs accept applications twice a year, except for a few programs, which take applicants only at the beginning of the academic year in June: \n \b \b \b \b 1. April for semester 1 starting in June \n \b \b \b \b 2. October for semester 2 starting in November </string>
+
+    <string name="admission_Academic_string" translatable="false">Applicants must possess: \n 1. Grade 12 certificate or its equivalent certified by the Ministry of Education \n 2. Clear record of good behavior (criminal record) \n 3. Good physical health and mental health without any communicable diseases (exceptions may be made following the recommendation of a medical doctor) \n 4. Having good behavior and good conduct \n 5. Working knowledge of English and Mathematics \n 6. Documents and fees for application for entrance examination \n 7. A photocopy of the grade 12 Certificate or its equivalent \n 8. Four 3/4 cm. photographs \n 9. Application fees of $50 (Approximate) \n 10. Successfully passing the entrance examination \n \b \b \b \b Siam University administers the entrance examination to determine the candidate’s proficiency if the following subjects: \n • English Comprehension \n • English Grammar \n \b \b \b \b The candidates who are not able to demonstrate a working knowledge of English will be required to take one or more intensive English courses prior the beginning of their first semester. The candidates who successfully pass the Entrance Examination are not required to take intensive English prior to the beginning of their first semester. </string>
+
+    <string name="admission_Profeciency_string" translatable="false">\b \b \b \b Since the international programs uses English as medium of instruction, all applicants must pass an English placement test to assess their level of proficiency. Students with difficulties in English may be required to complete an English language course before undertaking their undergraduate studies. Students having a TOEFL score of 500 (or equivalent) or who are native speaker are not required to take the placement test. </string>
+
+    <string name="admission_AdmissionProcedure_string" translatable="false"> \b \b \b \b 1. Obtain and complete the Application for Admission form QF-03-07. The form is available at the office of the International Program B.B.A. Hotel and Tourism (19-605), bldg. 19, on 6th \n \n \b \b \b \b 2. Read and sign the Program code of conduct. Signing the student code of conduct means that you accept the terms and conditions applying to all students in the International Program. \n \n \b \b \b \b3. Submit the following necessary documents: \n 1. Application form (QF-03-07) \n 2. Student Code of Conduct \n 3. High-school diploma with official transcripts \n 4. Photocopy of national ID card \n 5. 2 pictures \n 6. Certificate[s] and transcripts from previous tertiary education institutes for transfer of credits, if applicable. \n 4. Placement test and interview: applicants whose native language is other than English must have an interview in English and take a placement test in order to assess their level of proficiency in English. The Director of the International Program evaluates the application. If selected, the student can then proceed with the course registration. See the Course Registration section below. \n \n 5. Accepted applicants proceed to the admission center located in bldg. 19 on the 1st floor for the payment of the annual university fee, upon which the student is issued a receipt that is needed for the next step. \n \n 6. Obtain the university belt and necktie at building 1, near the campus entrance. Admission is complete. You can now proceed with the registration of courses, as well as obtain a temporary student ID card at the registration office in building 12, first floor. \n \n\b \b \b \b Interested candidates may apply during the following periods: \n • March to June for the First Semester (starting in June) \n • October to November for the Second Semester (starting in November) </string>
+
+    <string name="admission_ApplyFromAbroad_string" translatable="false">\b \b\ \b \b Applicants from countries other than Thailand who have not graduated from an English medium high school must submit, when possible, the score of a recently passed English Proficiency test such as TOEIC or TOEFL. There is no predetermined minimum score for the TOEFL or TOEIC. Those scoring 500 on TOEIC or more will be exempt from the English Intensive Course requirements. \n \b \b \b \b In addition, prior to entering Thailand, accepted candidates must obtain a letter from the University to be presented to the proper Thai authorities so that they can obtain a non-immigrant visa (ED). The Immigration Department of Thailand does NOT accept tourist visas for those students wishing to acquire a Student Visa. Entering Thailand without the proper visa will necessitate exit and reentry. \n \n Application Procedure : \n 1. Apply online to Siam University and send a 50 $US draft (or wired transfer) \n 2. Receive a letter of acceptance from SU \n 3. Apply for non-immigrant visa at the local Thai consulate (with the letter from SU) \n 4. Fly to Thailand, finalize registration (placement test) at the University, proceed with course registration and settle in new accommodation</string>
+
+    <string name="admission_ApplicationRequirements_string" translatable="false">When to Apply? \n \b \b \b \b The academic year runs from June to March. It is divided into two sixteen-week semester and an eight-week summer session during Thailand summer. \n \b \b \b \b Most academic programs accept applications twice a year, except for a few programs which take applicants only at the beginning of the academic year in June: \n 1. April for semester 1 starting in June \n 2. October for semester 2 starting in November \n Application Qualifications \n Eligible applicants are those who fulfill the following admission requirements: \n Undergraduate first-year student: \n 1. Has completed secondary education from an accredited institution \n 2. Hold a high school diploma or certificate (or its equivalent) \n 3. Proficient in English (international programs only) \n 4. Successfully pass entrance interview \n Undergraduate transfer students: \n 1. Has completed secondary education from an accredited institution \n 2. Hold a high school diploma or certificate (or its equivalent) \n 3. Proficient in English (international programs only) \n 4. Successfully pass entrance interview \n 5. has earned credits from an accredited tertiary education institution that are transferable to SU (see Transfer of Credits below) \n Graduate students: \n 1. has completed bachelor’s level education from an accredited institution \n2. proficient in English (international programs only) \n \b \b \b \b Supporting evidence in the form of official transcripts and high school certificate (or its equivalent) for undergraduate applicants as well as recommendation letters for post-graduate applicants should be submitted with the application. \n \n English Language Qualifications \n Since the international programs uses English as medium of instruction, all applicants must pass an English placement test to assess their level of proficiency. Students with difficulties in English may be required to complete an English language course before undertaking their undergraduate studies. Students having a TOEFL score of 500 (or equivalent) or who are native speaker are not required to take the placement test. \n \n Application Documents \n At the time of application the following documents are required: \n Undergraduate applicants: \n 1. application form \n 2. high school certificate (grade 12) or equivalent from an accredited institution \n 3. academic transcripts \n 4. copy of passport \n 5. 3 recent 2-inch photos \n 6. official test score of English proficiency (TOEFL, TOEIC, IELTS), if available \n Graduate applicants: \n 1. application form \n 2. bachelor’s degree or equivalent from an accredited institution \n 3. academic transcripts \n 4. 2 letters of recommendation \n 5. copy of passport \n 6. 3 recent 2-inch photos \n 7. official test score of English proficiency (TOEFL, TOEIC, IELTS), if available \n 8. Complete application form (download or fill online) and send to SU along with supporting documents (see Application Documents above) and application fee of $US 50.00 \n 9. admission committee reviews application file and, if satisfactory, send applicant an invitation letter (in Thai language for application of visa) \n 10. applicant applies for student visa (non-immigrant, category “ED”) at the nearest Thai consulate \n 11. applicants comes to Thailand and finalize admission at SU campus (placement test + course registration) \n \n Application Procedures \n Credit Transfers \n \b \b \b \b SU recognizes credits earned in other accredited institutions and accept transfer of credits for courses that are least 70% similar to SU curriculum and for which a grade of C or higher was earned. \n \b \b \b \b Students must provide a detailed course description from their former university for each course they wish to transfer credits for. The process of credit transfer must be completed within the first year of studies at SU. \n Student Visa \n \b \b \b \b International students need to possess a student visa (non-immigrant-ED) to come and stay in Thailand for the duration of their studies. First students are granted a non-immigrant visa valid for 90 days. Students with valid academic status can obtain an additional 1-year stay permit from the date of entry. It is possible to extend the non-immigrant visa at the immigration bureau in Bangkok. \n \n Website: www.imm.police.go.th \n \b \b \b \b If you arrived in Thailand with a tourist visa you will be required to leave the country and apply for a non-immigrant visa in another country and then re-enter Thailand with a non-immigrant visa. </string>
+
+    <string name="admission_VisaSupport_string" translatable="false">\b \b \b \b The International Office, located on the ground floor of Building 2, assists international students in the applying for student visa renewals. \n \b \b \b \b Student visa (non-immigrant ED) are valid for one year, except the first time you apply, when it is valid for 3 months only. \n \b \b \b \b Six weeks before your visa expires, you must submit your application documents to Mr. Wisit’s office in order to apply for a one-year visa extension. \n \b \b \b \b Once Mr. Wisit receives all your documents, he will send a letter to the immigration authorities certifying that you are continuing your academic studies in Thailand. \n \b \b \b \b In turn, the authorities will issue a letter allowing you to extend your visa for another year, which should be ready within 3 weeks. \n \b \b \b \b When the letter is ready, you will need to go in person to the immigration office with the necessary documents (passport, letter from SU, letter from government, fee, etc.) and finalize your visa application. Within a few days your visa will be renewed. \n \b \b \b \b The extension fee is 2,000 Baht. \n \n \b \b \b \b NOTE: if you entered Thailand with a tourist visa, and now need to obtain a non-immigrant visa in order to study at Siam University, you must leave the country and apply from abroad at a Thai Consulate. \n Please refer to the website of the Ministry of Foreign Affairs for up-to-date details: http://www.mfa.go.th/ \n For more information please contact – \n Mr. Wisit 12th floor 19th Building. \n Khun Ta 9th Floor 19th Building.</string>
+
+    <string name="aboutus_HistoryofSiamUniversity_itemtitle">History of Siam University</string>
+
+    <string name="aboutus_MessagefromthePresident_itemtitle">Message from the President</string>
+
+    <string name="aboutus_MissionVision_itemtitle">Mission Vision</string>
+
+    <string name="aboutus_Strategies_itemtitle">Strategies</string>
+
+    <string name="aboutus_InternationalCollebotations_itemtitle">International Colleborations</string>
+
+    <string name="aboutus_StudentConductPolicy_itemtitle">Student ConductPolicy</string>
+
+    <string name="aboutus_GradingSystem_itemtitle">Grading System</string>
+
+    <string name="aboutus_HonorSystem_itemtitle">Honor System</string>
+
+    <string name="aboutus_InternationalStudentCenter_itemtitle">International Student Center</string>
+
+    <string name="aboutus_EnglishLanguageCenter_itemtitle">English Language Center</string>
+
+    <string name="aboutus_InternshipCareerplacement_itemtitle">Internship and Career Placement</string>
+
+    <string name="aboutus_InetrnationalAccrediation_itemtitle">International Accreditation</string>
+
+    <string name="aboutus_acname">About us</string>
+
+    <string name="academics_acname" translatable="false">Study Programs</string>
+
+    <string name="admission_acname" translatable="false">Admission</string>
+
+    <string name="studentvoice_acname">Student Voice</string>
+
+    <string name="sports_acname">Sports</string>
+
+    <string name="gallery_acname">Gallery</string>
+
+    <string name="calendar_acname">Calendar</string>
+
+    <string name="sustaffs_acname">SU Staffs</string>
+
+    <string name="awards_acname">Awards</string>
+
+    <string name="contactus_acname">Contact us</string>
+
+    <string name="aboutus_history_acname">History</string>
+
+    <string name="aboutus_president_acname">Message from the President</string>
+
+    <string name="aboutus_mission_acname">Mission and Vision</string>
+
+    <string name="aboutus_strategies_acname">Strategies</string>
+
+    <string name="aboutus_colleborations_acname">International Colleborations</string>
+
+    <string name="aboutus_policy_acname">Student Conduct Policy</string>
+
+    <string name="aboutus_grading_acname">Grading System</string>
+
+    <string name="aboutus_honor_acname">Honor System</string>
+
+    <string name="aboutus_studentcenter_acname">International Student Center</string>
+
+    <string name="aboutus_englishlanguagecenter_acname">English Language Center</string>
+
+    <string name="aboutus_placement_acname">Internship and Career Placement</string>
+
+    <string name="aboutus_accrediation_acname">International Accrediation</string>
+
+    <string name="academics_bba_acname">BBA</string>
+
+    <string name="academics_bht_acname">BHT</string>
+
+    <string name="academics_bc_acname">中华国际学院</string>
+
+    <string name="academics_mba_acname">MBA</string>
+
+    <string name="academics_mhrps_acname">Master in Human Rights and Peace Studies</string>
+
+    <string name="academics_dc_acname">中华国际学院</string>
+
+    <string name="academics_dit_acname">Doctor in Information Technology</string>
+
+    <string name="academics_detail_acname">Detail</string>
+
+    <string name="admission_when_acname" translatable="false">When to Apply</string>
+
+    <string name="admission_qualification_acname" translatable="false">Academic Qualification</string>
+
+    <string name="admission_profeciency_acname" translatable="false">English Proficiency</string>
+
+    <string name="admission_procedure_acname" translatable="false">Admission Procedure</string>
+
+    <string name="admission_apply_acname" translatable="false">Apply from Abroad</string>
+
+    <string name="admission_requirements_acname" translatable="false">Application Requirements</string>
+
+    <string name="admission_visa_acname" translatable="false">Visa Support</string>
+
+    <string name="gallery_library_acname">Library</string>
+
+    <string name="gallery_computerlab_acname">Computer Lab</string>
+
+    <string name="gallery_financiallab_acname">Financial Lab</string>
+
+    <string name="gallery_maruarylib_acname">Maruary Library</string>
+
+    <string name="gallery_campus_acname">Campus</string>
+
+    <string name="gallery_sports_acname">Sports Complex</string>
+
+    <string name="gallery_food_acname">Food Court</string>
+
+    <string name="gallery_activity_acname">Student Activity</string>
+
+    <string name="schoolin2">审核状态</string>
+
+    <string name="schoolin3">报名层次</string>
+
+    <string name="schoolin4">面向专业</string>
+
+    <string name="schoolin5">姓名</string>
+
+    <string name="schoolin6">姓名拼音</string>
+
+    <string name="schoolin7">出生年月</string>
+
+    <string name="schoolin8">身份证号</string>
+
+    <string name="schoolin9">护照号</string>
+
+    <string name="schoolin10">高考成绩</string>
+
+    <string name="schoolin11">毕业院校</string>
+
+    <string name="schoolin12">联系地址</string>
+
+    <string name="schoolin13">联系电话</string>
+
+    <string name="SU_staff_string1"> Dr.Pornchai \b Mongkhonvanit \n President,Siam \b University </string>
+
+    <string name="SU_staff_string2"> Chollada \b Jungprasert \n Assistant \b President,Siam \b Unuversity </string>
+
+    <string name="SU_staff_string3"> Dr.Vijit \b Supinit \n Dean \b MBA,Siam \b University </string>
+
+    <string name="SU_staff_string4"> Wichian \b Premchaiswad \n Dean \b of \b IT,Siam \b University </string>
+
+    <string name="SU_staff_string5">Prof.Fred \b J.Miller \n Director \b English \b Language \b Center </string>
+
+    <string name="SU_staff_string6"> Rengson \b Muanchontham \n Director </string>
+
+    <string name="SU_staff_string7">Md Jahidul \b Islam(Jim) \n Assistant \b Director \b of \b Information \b Technology</string>
+
+    <string name="title_activity_students_voice">Students \b Voice</string>
+
+    <string name="hello_world" translatable="false">Hello world!</string>
+
+    <string name="studentvoice_string1">The graduate school of Peace Studies and Diplomacy is rich in experience and expertise; the professors provide a unique insight into governance, conflict and resolution in Thailand and around the world. The learning environment is warm and relaxed with plenty of opportunities to discuss and develop ideas and interests.</string>
+
+    <string name="studentvoice_string2" translatable="false"> From my childhood, I had always dreamt of studying abroad to have an international exposure. However, when it was my time to choose a University I went for a University that will offer me what I needed for my academic career with which I chose Siam University. Now, I can testify that from the very first day at the Siam University, I felt at home with the atmosphere of the surroundings including the friendliness of the staff and the students. I’m obliged to mingle and intermingle with foreigners across the globe and to learn new cultures. </string>
+
+    <string name="studentvoice_string3" translatable="false"> Siam University and its ‘standard of education, and qualified lecturers with vast academic excellence, appeared to be one of those fantasizing Institutions I have ever imagined of attending. The BBA program provides a distinctive level of knowledge in Business, Culture, Management, Accounting and many others. And, I have acquired a vast knowledge in an environment of practical education which will equip me to compete successfully in the diversified business world. I won’t be considered selfish if you can come and witness academic excellence in its apex. </string>
+
+    <string name="studnetvoice_string4" translatable="false">Siam is a very affordable private university. They have great flexibility in their operations and a very student friendly environment. Lecturers are very warm and easily approachable. So far, I\'ve had a nice experience mingling with people from all parts of the world and learning about their cultures. It\'s a very diverse institution to be at. </string>
+
+    <string name="studentvoice_string5" translatable="false">Siam University has made me whom I am today. By undergoing Arts in Peace Studies and diplomacy program at Siam University, I am now vested with ways to make peace with people in any environment I find myself. I was also equipped with conflict resolution techniques to help me solve any kind of conflict in our societies. With this experience, I urge everyone to consider studying in Siam University. You may also gain knowledge in other fields like Business, Hotel and Tourism Management, Engineering, Law, Communication, Liberal arts, etc. Choose Siam University and you will never regret it. Siam University is your most preferred destination to gain all the knowledge you need to be a better person today and forever. </string>
+
+    <string name="title_activity_sports">Sports</string>
+
+    <string name="sports_string31">Siam \b University \b Basket \b Ball \b Club \n 12th \b Building, Register \b Office \n Siam \b University \b Main \b Campus </string>
+
+    <string name="sports_string2"> Siam \b University \b Thai \b Boxing \b Club \n 9th \b Floor, 11th \b Building </string>
+
+    <string name="sports_string3">Siam \b University \b Cricket \b Club \b Actively \b participated \b in “Inter \b University \b Cricket \b Tournament \b Thailand \b 2011” and “Inter \b University \b Cricket \b Tournaments \b Malaysia \b 2012” \n Currently \b we \b are \b looking \b for \b players \b to \b set \b up \b a \b new \b cricket \b team \n Please \b contact \b us \n E-mail: \b yhing@siam.edu </string>
+
+    <string name="title_activity_calendar">CalendarActivity</string>
+
+
+    -<string name="calendar" translatable="false">
+Academic Calendar 2015-2016 \n Special Summer Semester A
+-<![CDATA[&]]>B \n Semester 1 and 2 \n \n 2 – 8 April 2015 Registration for Special Summer A,B,
+-<![CDATA[&]]>(A+B) \n 2 – 28 April 2015 Bank payment for tuition – A,B,
+-<![CDATA[&]]>(A+B) \n 6 May 2015 Special Summer ‘A’ classes begin \n 6 – 8 May 2015 Add-Withdrawal period begins for Special Summer ‘A’Late registration fee 100thb begins for Special Summer ‘A’ \n \n 15 – 19 June 2015 Final Exams for Special Summer ‘A’ \n \n 22 June 2015 Special Summer ‘B’ classes begin \n 22 – 24 June 2015 Add-Withdrawal period begins for Special Summer ‘B’Late registration fee 100thb begins for Special Summer ‘A’ \n \n 10 – 14 August 2015 Final Exams for Special Summer ‘B’
+-<![CDATA[&]]>(A+B) \n \n 27 July – 7 August 2015 Registration for Semester 1/2015 begins \n 30 July – 7 August 4th year student registration \n 31 July – 7 August 3rd year student registration \n 4 – 7 August 2nd year student registration \n 27 – 19 August 2015 Bank payment for tuition – Semester 1/58 \n \n 24 August 2015 Semester 1/2015 classes begin \n 25 August – 4 September 2015 Add-Withdrawal period begins for Semester 1/58Late registration fee 100thb begins for Semester 1/2015 \n \n 12 – 16 October Midterm exam period for Semester 1/2015 \n 14 – 18, 21 – 25 December 2015 Final exam period for Semester 1/2015 \n \n 23 November – 4 December 2015 Registration for Semester 2/2015 begins \n 26 November – 4 December 4th year student registration \n 27 November – 4 December 3rd year student registration \n 1 December – 4 December 2nd year student registration \n 2 December – 4 December 1st year student registration \n 23 August – 17 December 2015 Bank payment for tuition – Semester 2/2015 \n \n 11 January 2016 Semester 2/2015 classes begin \n 11 January – 22 January 2016 Add-Withdrawal period begins for Semester 2/2015 registration fee 100thb begins for Semester 2/2015 \n \n 29 February – 4 March 2016 Midterm exam period for Semester 2/2015 \n 2 – 4, 6, 9 – 13 May 2016 Final exam period for Semester 2/2015
+</string>
+
+    <string name="title_activity_awards">Awards</string>
+
+    <string name="awards"> Major Achievements by Siam University Professionals \n 1. Assoc. Prof. Wichian Premchaiswadi, the best employee award of 2008 of the department of I.T. from Association of Private Higher Education Institutions of Thailand (APHEIT) \n 2. Mr. Thanaset Onlaied, Siam University lecturer and alumni of Bachelor of Law (LL.B.) First class honor, Faculty of Law, Siam University, 2006 has achieved highest score over 15,039 candidates in the Civil Law and Commercial Subject, 2007 from Barrister-at-Law, the Institute of Legal Education of Thai Bar Association, and Bangkok, Thailand. \n 3. Mr. Kasidej Khumvatthanakarn, student of Computer Science, has received the MOS Olympic National award as well as he also has achieved World Microsoft Olympic 2007 in Seattle, USA. \n 4. Ms. Wanida Kuptithammagul and Mr. Somphop Amornchaiwutthigul were the winner of international software contest in area of Web service and Web Application. \n 5. Students from Department of Information Technology were the winner of the Mobile Phone Application from TOT, and received the sponsorship fees of 500,000 baht. \n 6. Mr. Ryan Hudson and Mr. Panata Intrasamme, our University students, received a trophy from the Higher Education Commission, Best Rookies Team in the debate competition during the ceremony of good relationship with Thai and US Ambassadors for 175 years. \n 7. Ms. Sunatha Matchacheep, won 2 gold medal in the shooting game during the 36th University sports game \n 8. Mr. Kronkit Sae-Ko, student of Electrical Engineering, received three awards, one is the winner as the Best Electrician of the Nation; second the Gold Medal Award winner of ASEAN for the performance in Electrical Engineering in Brunei; lastly, the finalist in the Olympic Game for the practicality of Electric in city Shizuoka, Japan in November 2007. \n 9. Assoc. Prof. Wichian Premchaiswadi, has received award for the best book of the Informative database of the Association of Thai and Japan Technology \n 10. Dr. Bongkosh Ngamson, Director of Int. Hotel and Tourism Management, received the best International research paper award from Association of Hotel and Tourism in Asia and Pacific APEC-CHRIE and as well as published in the journal of Cornell and the Journal of Travel Research. </string>
+
+    <string name="contactus_string">Siam University\n 235 Petkasem Road, Phasicharoen, Bangkok 10163, Thailand.\n Tel: +66(0)2867-8088; +66(0)2 2457-0068 ext: 5308, 5361, 5317\n Fax: +66 (0) 2868-6883; +66(0)2457-6657\n\n Website: www.siam.edu\n E-mail: siam.siamuniversity@gmail.com\n Cell Phone : +66 824 534 220\n (Information Technology Department)</string>
+
+    <string name="news_acname">News</string>
+
+    <string name="socialmedia_acname" translatable="false">Social Media</string>
+
+    <string name="library_acname" translatable="false">Library</string>
+
+    <string name="studentlogin_acname" translatable="false">Student Login</string>
+
+    <string name="gallery_lib_itemtitle">Library</string>
+
+    <string name="gallery_computerlab_itemtitle">Computer Lab</string>
+
+    <string name="gallery_finlab_itemtitle">Financial Lab</string>
+
+    <string name="gallery_maruarylib_itemtitle">Maruary Library</string>
+
+    <string name="gallery_campus_itemtitle">Campus</string>
+
+    <string name="gallery_sports_itemtitle">Sports Complex</string>
+
+    <string name="gallery_food_itemtitle">Food Court</string>
+
+    <string name="gallery_studentac_itemtitle">Student Activity</string>
+
+    <string name="schoolloginname">Full name</string>
+
+
 </resources>
