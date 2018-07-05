@@ -3,4 +3,7 @@
     <string name="producer_name">Swufe</string>
     <string name="version_num">v1.0</string>
     <string name="wanna_say">Welcome to Siam University</string>
+    <string name="head_1">Siam University</string>
+    <string name="head_2">Nearby</string>
+    <string name="head_3">Information</string>
 </resources>

@@ -9,13 +9,14 @@
         android:layout_width="match_parent"
         android:layout_height="50dp"
         android:background="#8B0000">
+
         <TextView
             android:id="@+id/news_headline"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:layout_alignParentBottom="true"
             android:layout_centerHorizontal="true"
-            android:text="暹罗大学"
+            android:text="@string/head_1"
             android:textColor="#FFFFFFFF"
             android:textSize="24sp"
             android:textStyle="bold" />
@@ -41,7 +42,7 @@
                 android:id="@+id/NewsTitle"
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
-                android:text="暹罗大学"
+                android:text="@string/head_1"
                 android:paddingTop="10dp"
                 android:paddingBottom="8dp"
                 android:paddingLeft="10dp"

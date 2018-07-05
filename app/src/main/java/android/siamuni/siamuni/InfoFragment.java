@@ -1,8 +1,5 @@
 package android.siamuni.siamuni;
 
-/**
- * Created by 门一 on 2018/7/4.
- */
 
 import android.os.Bundle;
 import android.app.Fragment;
@@ -11,7 +8,6 @@ import android.support.v4.view.ViewPager;
 import android.view.LayoutInflater;
 import android.view.View;
 import android.view.ViewGroup;
-import android.widget.Button;
 import android.widget.ImageView;
 import android.widget.LinearLayout;
 import android.widget.TextView;
@@ -23,16 +19,17 @@ import java.util.concurrent.ScheduledExecutorService;
 import java.util.concurrent.TimeUnit;
 
 
-/*门一：完成了图片轮播与六板块按钮设计*/
+/**
+ * 傅夕芮张晶完成按钮布局
+ */
+public class InfoFragment extends Fragment {
 
-public class NewsFragment  extends Fragment {
-
-    public NewsFragment() {
+    public InfoFragment() {
 
     }
 
-    public static NewsFragment newInstance() {
-        NewsFragment fragment = new NewsFragment();
+    public static InfoFragment newInstance() {
+        InfoFragment fragment = new InfoFragment();
         return fragment;
     }
 
@@ -52,19 +49,13 @@ public class NewsFragment  extends Fragment {
     PicsAdapter picsAdapter;
 
 
-    //Buttons
-    private Button b1;
-    private Button b2;
-    private Button b3;
-    private Button b4;
-    private Button b5;
-    private Button b6;
 
 
     @Override
-    public View onCreateView(LayoutInflater inflater, ViewGroup container, Bundle savedInstanceState) {
-        return inflater.inflate(R.layout.frame_news, container,false);
-
+    public View onCreateView(LayoutInflater inflater, ViewGroup container,
+                             Bundle savedInstanceState) {
+        // Inflate the layout for this fragment
+        return inflater.inflate(R.layout.fragment_info, container, false);
     }
 
     @Override
@@ -72,65 +63,17 @@ public class NewsFragment  extends Fragment {
         super.onCreate(savedInstanceState);
     }
 
-    @Override
+
     public void onActivityCreated(Bundle savedInstanceState) {
         super.onActivityCreated(savedInstanceState);
-        b1 = getView().findViewById(R.id.xw);
-        b2 = getView().findViewById(R.id.tz);
-        b3 = getView().findViewById(R.id.bks);
-        b4 = getView().findViewById(R.id.yjs);
-        b5 = getView().findViewById(R.id.ky);
-        b6 = getView().findViewById(R.id.zs);
-
-        b1.setOnClickListener(new View.OnClickListener() {
-            @Override
-            public void onClick(View view) {
-                /*Intent i1 = new Intent(getActivity(), XinWenActivity.class);
-                startActivity(i1);*/
-            }
-        });
-        b2.setOnClickListener(new View.OnClickListener() {
-            @Override
-            public void onClick(View view) {
-                /*Intent i2 = new Intent(getActivity(), TongZhiActivity.class);
-                startActivity(i2);*/
-            }
-        });
-        b3.setOnClickListener(new View.OnClickListener() {
-            @Override
-            public void onClick(View view) {
-                /*Intent i3 = new Intent(getActivity(), BenKeShengActivity.class);
-                startActivity(i3);*/
-            }
-        });
-        b4.setOnClickListener(new View.OnClickListener() {
-            @Override
-            public void onClick(View view) {
-                /*Intent i4 = new Intent(getActivity(), YanJiuShengActivity.class);
-                startActivity(i4);*/
-            }
-        });
-        b5.setOnClickListener(new View.OnClickListener() {
-            @Override
-            public void onClick(View view) {
-                /*Intent i5 = new Intent(getActivity(), KeYanActivity.class);
-                startActivity(i5);*/
-            }
-        });
-        b6.setOnClickListener(new View.OnClickListener() {
-            @Override
-            public void onClick(View view) {
-                /*Intent i6 = new Intent(getActivity(), ZhaoShengActivity.class);
-                startActivity(i6);*/
-            }
-        });
-
         setViewPager();
         View v = getView().findViewById(R.id.relay);//找到你要设透明背景的layout 的id
         v.getBackground().setAlpha(100);//0~255透明度值 ，0为完全透明，255为不透明
+
     }
+
     private void setViewPager() {
-        newsTitle = getView().findViewById(R.id.NewsTitle);
+        newsTitle = getView().findViewById(R.id.picTitle);
         view_pager =  getView().findViewById(R.id.view_pager);
         ll_dotGroup = getView().findViewById(R.id.dotgroup);
 
@@ -188,6 +131,8 @@ public class NewsFragment  extends Fragment {
             });
         }
     }
+
+
     // 定义ViewPager控件页面切换监听器
     class MyPageChangeListener implements ViewPager.OnPageChangeListener {
 
@@ -306,3 +251,6 @@ public class NewsFragment  extends Fragment {
 
     }
 }
+
+
+

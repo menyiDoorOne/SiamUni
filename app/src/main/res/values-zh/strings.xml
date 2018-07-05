@@ -4,4 +4,7 @@
     <string name="producer_name">西南财经大学</string>
     <string name="version_num">v1.0</string>
     <string name="wanna_say">欢迎来到暹罗大学</string>
+    <string name="head_1">暹罗大学</string>
+    <string name="head_2">周边</string>
+    <string name="head_3">校园资讯</string>
 </resources>
